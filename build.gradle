@@ -19,7 +19,13 @@ allprojects {
         flatDir { dirs '../nanoiconpack/libs' }
     }
 }
-
+// allprojects {
+//     repositories {
+//         maven{ url 'http://maven.oschina.net/content/groups/public/'}
+//     }
+//     repositories { jcenter(){ url 'http://jcenter.bintray.com/'} }
+// }
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+

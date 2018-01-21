@@ -20,16 +20,17 @@
     <!-- File name (no suffix) list of all icons in /res/drawable-nodpi/ -->
     <!-- Names like Calendar, 500px, camera_360 are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
-        <!-- <item>oblatum</item> -->
-        <!-- <item>oblatum_lite</item> -->
         <item>adm_pro</item>
         <item>aide</item>
         <item>alipay</item>
         <item>ampere</item>
         <item>android_pay</item>
+        <item>antutu</item>
         <item>apkpure</item>
         <item>audiofx</item>
+        <item>baidu_browser</item>
         <item>baidu_input</item>
+        <item>baidu_map</item>
         <item>baidu_netdisk</item>
         <item>baidu_nuomi</item>
         <item>baidu_tieba</item>
@@ -45,8 +46,10 @@
         <item>browser</item>
         <item>cainiao</item>
         <item>calculator</item>
+        <item>calendar_d31</item>
         <item>calendar_dynamic</item>
         <item>camera</item>
+        <item>camscanner</item>
         <item>card_iconpack</item>
         <item>cardboard</item>
         <item>cardboard_camera</item>
@@ -111,6 +114,7 @@
         <item>gboard</item>
         <item>geek360</item>
         <item>gemini</item>
+        <item>geometric_weather</item>
         <item>gmail</item>
         <item>gohosts</item>
         <item>goodseed</item>
@@ -137,6 +141,7 @@
         <item>googleplay</item>
         <item>greenify</item>
         <item>gxicon</item>
+        <item>h_viewer</item>
         <item>hangouts</item>
         <item>happy_browser</item>
         <item>heiyu</item>
@@ -160,7 +165,9 @@
         <item>keep</item>
         <item>kihan</item>
         <item>kugou_music</item>
+        <item>lantern</item>
         <item>lawnchair</item>
+        <item>lbe_security</item>
         <item>linos_recorder</item>
         <item>lp_iconpack</item>
         <item>magisk_manager</item>
@@ -185,6 +192,7 @@
         <item>mx_player</item>
         <item>mystops</item>
         <item>nano</item>
+        <item>neoreader</item>
         <item>netease_cloudmusic</item>
         <item>netease_cloudmusic_1</item>
         <item>netease_moba</item>
@@ -198,6 +206,7 @@
         <item>nubia_clean</item>
         <item>nubia_email</item>
         <item>nubia_flashlight</item>
+        <item>nubia_lockscreen</item>
         <item>nubia_market</item>
         <item>nubia_soundrecorder</item>
         <item>nubia_supersnap</item>
@@ -222,15 +231,20 @@
         <item>oppo_security</item>
         <item>pandatv</item>
         <item>phone</item>
+        <item>phonograph</item>
         <item>photoeditor</item>
+        <item>picacg</item>
         <item>pixiv</item>
         <item>pornhub</item>
+        <item>ppiicc</item>
         <item>pstouch</item>
         <item>qq</item>
         <item>qq_1</item>
         <item>qq_2</item>
         <item>qq_browser</item>
         <item>qq_jp</item>
+        <item>qqmail</item>
+        <item>qqmail_1</item>
         <item>qqmusic</item>
         <item>qqtoken</item>
         <item>qqzc</item>
@@ -239,6 +253,8 @@
         <item>register</item>
         <item>root_explorer</item>
         <item>settings</item>
+        <item>settings_1</item>
+        <item>setting</item>
         <item>share</item>
         <item>shuttle</item>
         <item>sim_toolkit</item>
@@ -254,23 +270,31 @@
         <item>substratum</item>
         <item>superstar</item>
         <item>supersu</item>
+        <item>t_12306</item>
         <item>taobao</item>
         <item>taobao_islefish</item>
         <item>taptap</item>
         <item>telegram</item>
+        <item>tencent_karaoke</item>
         <item>tencent_maps</item>
         <item>tencent_speedmobile</item>
         <item>tencent_video</item>
         <item>tencent_weread</item>
         <item>termux</item>
+        <item>terrarium_tv</item>
         <item>tesla_unread</item>
         <item>themes</item>
         <item>tim</item>
+        <item>titaniumbackup</item>
+        <item>today_s_headline</item>
         <item>total_launcher</item>
         <item>tray</item>
         <item>tripview_lite</item>
         <item>twitter</item>
         <item>twrp</item>
+        <item>uc_browser</item>
+        <item>uc_browser_1</item>
+        <item>uc_browser_2</item>
         <item>via</item>
         <item>village</item>
         <item>viper4android</item>
@@ -319,30 +343,33 @@
     <!-- Latest icons (Make sure it's from the icons array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>android_pay</item>
-        <item>earth</item>
-        <item>fit</item>
-        <item>google_drive</item>
-        <item>google_home</item>
-        <item>google_msm</item>
-        <item>google_now_launcher</item>
-        <item>google_photos</item>
-        <item>google_play_books</item>
-        <item>google_play_games</item>
-        <item>google_play_movies</item>
-        <item>google_play_music</item>
-        <item>google_play_newsstand</item>
-        <item>google_plus</item>
-        <item>hangouts</item>
-        <item>holi_weather</item>
-        <item>jike</item>
-        <item>jmail</item>
-        <item>lawnchair</item>
-        <item>lp_iconpack</item>
-        <item>messenger_lite</item>
-        <item>netease_moba_bili</item>
-        <item>news_and_weather</item>
-        <item>onedrive</item>
+        <item>antutu</item>
+        <item>baidu_browser</item>
+        <item>baidu_map</item>
+        <item>calendar_dynamic</item>
+        <item>camscanner</item>
+        <item>geometric_weather</item>
+        <item>h_viewer</item>
+        <item>lantern</item>
+        <item>lbe_security</item>
+        <item>neoreader</item>
+        <item>nubia_lockscreen</item>
+        <item>phonograph</item>
+        <item>picacg</item>
+        <item>ppiicc</item>
+        <item>qqmail</item>
+        <item>qqmail_1</item>
+        <item>settings</item>
+        <item>settings_1</item>
+        <item>setting</item>
+        <item>t_12306</item>
+        <item>tencent_karaoke</item>
+        <item>terrarium_tv</item>
+        <item>titaniumbackup</item>
+        <item>today_s_headline</item>
+        <item>uc_browser</item>
+        <item>uc_browser_1</item>
+        <item>uc_browser_2</item>
     </string-array>
 
 </resources>

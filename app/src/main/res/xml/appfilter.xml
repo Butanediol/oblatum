@@ -691,4 +691,48 @@
     <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="google_photos" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim_toolkit" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim_toolkit" />
+    <!-- 安兔兔评测 / AnTuTu Benchmark -->
+    <item component="ComponentInfo{com.antutu.ABenchMark/com.antutu.ABenchMark.ABenchMarkStart}" drawable="antutu" />
+    <!-- 百度浏览器 / 百度浏览器 -->
+    <item component="ComponentInfo{com.baidu.browser.apps/com.baidu.browser.framework.BdBrowserActivity}" drawable="baidu_browser" />
+    <!-- 百度地图 / 百度地图 -->
+    <item component="ComponentInfo{com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen}" drawable="baidu_map" />
+    <!-- 扫描全能王 / CamScanner -->
+    <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="camscanner" />
+    <!-- 几何天气 / Geometric Weather -->
+    <item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.ui.activity.MainActivity}" drawable="geometric_weather" />
+    <!-- H-Viewer / H-Viewer -->
+    <item component="ComponentInfo{ml.puredark.hviewer/ml.puredark.hviewer.ui.activities.LockActivity}" drawable="h_viewer" />
+    <!-- 蓝灯 / Lantern -->
+    <item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.LanternMainActivity_}" drawable="lantern" />
+    <!-- LBE安全大师 / LBE安全大师 -->
+    <item component="ComponentInfo{com.lbe.security/com.lbe.security.ui.SplashActivity}" drawable="lbe_security" />
+    <!-- 阅读 / NeoReader -->
+    <item component="ComponentInfo{com.chaozh.iReaderNubia/com.chaozh.iReader.ui.activity.WelcomeActivity}" drawable="neoreader" />
+    <!-- 点唱机 / Phonograph -->
+    <item component="ComponentInfo{com.kabouzeid.gramophone.pro/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph" />
+    <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph" />
+    <!-- PicACG / PicACG -->
+    <item component="ComponentInfo{com.picacomic.fregata/com.picacomic.fregata.activities.SplashActivity}" drawable="picacg" />
+    <!-- PPIICC / PPIICC -->
+    <item component="ComponentInfo{bos.consoar.imagestitch/bos.consoar.imagestitch.ui.MainActivity}" drawable="ppiicc" />
+    <!-- QQ邮箱 / QQ邮箱 -->
+    <item component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LauncherActivity}" drawable="qqmail" />
+    <!-- 铁路12306 / 铁路12306 -->
+    <item component="ComponentInfo{com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity}" drawable="t_12306" />
+    <!-- Terrarium 影视 / Terrarium TV -->
+    <item component="ComponentInfo{com.nitroxenon.terrarium/com.nitroxenon.terrarium.ui.activity.HomeActivity}" drawable="terrarium_tv" />
+    <!-- 钛备份 / Titanium Backup -->
+    <item component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}" drawable="titaniumbackup" />
+    <!-- 全民K歌 / 全民K歌 -->
+    <item component="ComponentInfo{com.tencent.karaoke/com.tencent.karaoke.module.splash.ui.SplashBaseActivity}" drawable="tencent_karaoke" />
+    <!-- 今日头条 / 今日头条 -->
+    <item component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.SplashBadgeActivity}" drawable="today_s_headline" />
+    <!-- UC浏览器 / UC浏览器 -->
+    <item component="ComponentInfo{com.UCMobile/com.UCMobile.main.UCMobile}" drawable="uc_browser" />
+    <item component="ComponentInfo{com.UCMobile.intl/com.UCMobile.main.UCMobile}" drawable="uc_browser" />
+    <!-- Setting / Setting -->
+    <item component="ComponentInfo{com.iwantavnow/com.iwantavnow.Main}" drawable="setting" />
+    <!-- Facebook / Facebook -->
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
 </resources>
