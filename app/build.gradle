@@ -58,6 +58,6 @@ dependencies {
 
 }
 
-//dependencies {
-//    compile 'com.stephentuso:welcome:1.4.1'
-//}
+dependencies {
+    compile 'com.stephentuso:welcome:1.4.1'
+}
