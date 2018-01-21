@@ -735,4 +735,5 @@
     <item component="ComponentInfo{com.iwantavnow/com.iwantavnow.Main}" drawable="setting" />
     <!-- Facebook / Facebook -->
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
+    <item component="ComponentInfo{xjb.pzhown.py/kimoji.deepdark.SplashScreenActivity}" drawable="calendar_d31" />
 </resources>
