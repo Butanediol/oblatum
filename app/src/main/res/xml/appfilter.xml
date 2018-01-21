@@ -35,7 +35,7 @@
     <item component="ComponentInfo{com.yulong.android.calendar/com.yulong.android.calendar.ui.MenuAnimationActivity}" drawable="calendar_dynamic" />
     <item component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}" drawable="calendar_dynamic" />
 
-    <!--动态+静态-->
+    <!--给不支持动态日历的启动器的静态日历图标-->
     <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar_dynamic" />
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar_dynamic" />
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_dynamic" />

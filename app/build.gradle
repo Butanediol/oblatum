@@ -57,7 +57,3 @@ dependencies {
     compile project(':nanoiconpack')
 
 }
-
-dependencies {
-    compile 'com.stephentuso:welcome:1.4.1'
-}
