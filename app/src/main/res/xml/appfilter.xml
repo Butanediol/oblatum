@@ -35,7 +35,15 @@
     <item component="ComponentInfo{com.yulong.android.calendar/com.yulong.android.calendar.ui.MenuAnimationActivity}" drawable="calendar_dynamic" />
     <item component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}" drawable="calendar_dynamic" />
 
-     <!-- 视频 / Video -->
+    <!--动态+静态-->
+    <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar_dynamic" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar_dynamic" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar_dynamic" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="calendar_dynamic" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchTasksActivity}" drawable="calendar_dynamic" />
+
+    <!-- 视频 / Video -->
     <item component="ComponentInfo{cn.nubia.video/cn.nubia.video.list.app.VideoListActivity}" drawable="nubia_video" />
     <item component="ComponentInfo{com.android.music/com.android.music.MovieListActivity}" drawable="video" />
     <item component="ComponentInfo{com.android.VideoPlayer/com.android.VideoPlayer.VideoPlayer}" drawable="video" />
@@ -736,4 +744,5 @@
     <!-- Facebook / Facebook -->
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
     <item component="ComponentInfo{xjb.pzhown.py/kimoji.deepdark.SplashScreenActivity}" drawable="calendar_d31" />
+    <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="google_play_books" />
 </resources>
