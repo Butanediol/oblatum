@@ -1,0 +1,71 @@
+{
+	"Categories":
+		[
+			{
+				"name": "Material"
+			},
+			{
+				"name": "Lowpoly"
+			}
+		],
+
+	"Wallpapers":
+        [
+            {
+				"author": "Material",
+				"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-308601.png",
+				"thumbUrl": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-308601.png",
+				"name": "Paper Green",
+				"category": "Material"
+			},
+            {
+				"author": "Material",
+				"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-308608.png",
+				"thumbUrl": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-308608.png",
+				"name": "Paper Pink",
+				"category": "Material"
+			},
+            {
+				"author": "Material",
+				"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-308607.png",
+				"thumbUrl": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-308607.png",
+				"name": "Paper Orange",
+				"category": "Material"
+			},
+            {
+				"author": "Material",
+				"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-308604.png",
+				"thumbUrl": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-308604.png",
+				"name": "Paper Gray",
+				"category": "Material"
+			},
+            {
+				"author": "Material",
+				"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-308603.png",
+				"thumbUrl": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-308603.png",
+				"name": "Paper Gay",
+				"category": "Material"
+			},
+            {
+				"author": "AntiStar",
+				"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-349599.jpg",
+				"thumbUrl": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-349599.jpg",
+				"name": "Lowpoly Orange",
+				"category": "Lowpoly"
+			},
+            {
+				"author": "AntiStar",
+				"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-329814.jpg",
+				"thumbUrl": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-329814.jpg",
+				"name": "Lowpoly Blue",
+				"category": "Lowpoly"
+			},
+            {
+				"author": "Spooky",
+				"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-64367.jpg",
+				"thumbUrl": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-64367.jpg",
+				"name": "Lowpoly Warm",
+				"category": "Lowpoly"
+			}
+		]
+}
