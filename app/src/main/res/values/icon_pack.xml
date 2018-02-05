@@ -27,7 +27,10 @@
         <item>ampere</item>
         <item>android_pay</item>
         <item>antutu</item>
+        <item>apk_store</item>
         <item>apkpure</item>
+        <item>aries_iconpack</item>
+        <item>aries_iconpack_lite</item>
         <item>audiofx</item>
         <item>baidu_browser</item>
         <item>baidu_input</item>
@@ -63,6 +66,7 @@
         <item>chrome_canary</item>
         <item>chrome_dev</item>
         <item>chromium</item>
+        <item>cliff</item>
         <item>clock</item>
         <item>commbank</item>
         <item>contacts</item>
@@ -111,6 +115,7 @@
         <item>files</item>
         <item>files_go</item>
         <item>fit</item>
+        <item>fooview</item>
         <item>gallery</item>
         <item>gaode_maps</item>
         <item>gboard</item>
@@ -140,6 +145,7 @@
         <item>google_plus</item>
         <item>google_slides</item>
         <item>google_translate</item>
+        <item>google_wallpaper</item>
         <item>googlecalendar</item>
         <item>googleplay</item>
         <item>greenify</item>
@@ -149,10 +155,12 @@
         <item>happy_browser</item>
         <item>heiyu</item>
         <item>holi_weather</item>
+        <item>hsbb</item>
         <item>huawei_fans</item>
         <item>huyazhibo</item>
         <item>hyxd</item>
         <item>i_reader</item>
+        <item>ice_box</item>
         <item>iflat</item>
         <item>ifttt</item>
         <item>ingress</item>
@@ -177,8 +185,10 @@
         <item>manyou</item>
         <item>mark_qrcode</item>
         <item>meeye</item>
+        <item>meitu</item>
         <item>meituan</item>
         <item>messenger_lite</item>
+        <item>metro</item>
         <item>microsoft_edge</item>
         <item>minecraft</item>
         <item>miui_compass</item>
@@ -186,10 +196,13 @@
         <item>miui_note</item>
         <item>miui_security</item>
         <item>miui_support</item>
+        <item>miui_wallet</item>
         <item>mobai</item>
+        <item>mobile_collaboration</item>
         <item>mokee_aegis</item>
         <item>mokee_center</item>
         <item>msm</item>
+        <item>msm_1</item>
         <item>mtglq</item>
         <item>mtwm</item>
         <item>mx_player</item>
@@ -205,6 +218,7 @@
         <item>news_and_weather</item>
         <item>novalauncher</item>
         <item>novasetting</item>
+        <item>nubia_app_fenshen</item>
         <item>nubia_bbs</item>
         <item>nubia_clean</item>
         <item>nubia_email</item>
@@ -213,6 +227,7 @@
         <item>nubia_market</item>
         <item>nubia_neoshare</item>
         <item>nubia_soundrecorder</item>
+        <item>nubia_store</item>
         <item>nubia_supersnap</item>
         <item>nubia_update</item>
         <item>nubia_video</item>
@@ -220,7 +235,9 @@
         <item>nubia_wfd</item>
         <item>nubia_yaokongqi</item>
         <item>nubia_zbiglauncher</item>
+        <item>oblatum_nocode</item>
         <item>ofo</item>
+        <item>omfg</item>
         <item>onedrive</item>
         <item>oneplus_bbs</item>
         <item>oneplus_calendar</item>
@@ -239,6 +256,8 @@
         <item>photoeditor</item>
         <item>picacg</item>
         <item>pixiv</item>
+        <item>pixles_iconpack</item>
+        <item>pixles_iconpack_1</item>
         <item>pornhub</item>
         <item>ppiicc</item>
         <item>pstouch</item>
@@ -249,6 +268,7 @@
         <item>qq_2</item>
         <item>qq_browser</item>
         <item>qq_jp</item>
+        <item>qq_music_local_player</item>
         <item>qqmail</item>
         <item>qqmail_1</item>
         <item>qqmusic</item>
@@ -257,6 +277,7 @@
         <item>quark</item>
         <item>radio</item>
         <item>register</item>
+        <item>retro_music</item>
         <item>root_explorer</item>
         <item>setting</item>
         <item>settings</item>
@@ -293,6 +314,7 @@
         <item>themes</item>
         <item>tim</item>
         <item>titaniumbackup</item>
+        <item>tmgp_cf</item>
         <item>today_s_headline</item>
         <item>total_launcher</item>
         <item>tray</item>
@@ -318,6 +340,7 @@
         <item>xbj</item>
         <item>xbrowser</item>
         <item>xiami_music</item>
+        <item>xk_wallpaper</item>
         <item>xmhealth</item>
         <item>xmqz</item>
         <item>xposed</item>
@@ -350,12 +373,36 @@
     <!-- Latest icons (Make sure it's from the icons array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
+        <item>apk_store</item>
+        <item>aries_iconpack</item>
+        <item>aries_iconpack_lite</item>
         <item>baimiao</item>
-        <item>pure_icon_pack</item>
-        <item>pure_icon_pack_lite</item>
-        <item>telegram_x</item>
-        <item>tencent_video</item>
-        <item>google_phone</item>
+        <item>bilibili_link</item>
+        <item>cliff</item>
+        <item>cortana</item>
+        <item>fooview</item>
+        <item>google_wallpaper</item>
+        <item>hsbb</item>
+        <item>ice_box</item>
+        <item>ingress</item>
+        <item>meitu</item>
+        <item>metro</item>
+        <item>miui_wallet</item>
+        <item>mobile_collaboration</item>
+        <item>msm</item>
+        <item>msm_1</item>
+        <item>nubia_app_fenshen</item>
+        <item>nubia_store</item>
+        <item>oblatum_nocode</item>
+        <item>omfg</item>
+        <item>phonograph</item>
+        <item>pixles_iconpack</item>
+        <item>pixles_iconpack_1</item>
+        <item>qq_music_local_player</item>
+        <item>retro_music</item>
+        <item>tmgp_cf</item>
+        <item>wexin</item>
+        <item>xk_wallpaper</item>
     </string-array>
 
 </resources>

@@ -72,6 +72,7 @@
         <item drawable="google_plus" />
         <item drawable="google_slides" />
         <item drawable="google_translate" />
+        <item drawable="google_wallpaper" />
         <item drawable="googlecalendar" />
         <item drawable="googleplay" />
         <item drawable="hangouts" />
@@ -100,6 +101,8 @@
     <category title="腾讯" />
         <item drawable="qq" />
         <item drawable="qq_browser" />
+        <item drawable="qq_jp" />
+        <item drawable="qq_music_local_player" />
         <item drawable="qqmusic" />
         <item drawable="qqtoken" />
         <item drawable="qqzc" />
@@ -107,7 +110,6 @@
         <item drawable="tencent_video" />
         <item drawable="tim" />
         <item drawable="weixin" />
-        <item drawable="qq_jp" />
 
     <category title="MIUI" />
         <item drawable="manyou" />
@@ -115,6 +117,7 @@
         <item drawable="miui_market" />
         <item drawable="miui_security" />
         <item drawable="miui_support" />
+        <item drawable="miui_wallet" />
         <item drawable="xmhealth" />
 
     <category title="EMUI" />
@@ -186,7 +189,10 @@
         <item drawable="ampere" />
         <item drawable="android_pay" />
         <item drawable="antutu" />
+        <item drawable="apk_store" />
         <item drawable="apkpure" />
+        <item drawable="aries_iconpack" />
+        <item drawable="aries_iconpack_lite" />
         <item drawable="audiofx" />
         <item drawable="baidu_browser" />
         <item drawable="baidu_input" />
@@ -222,6 +228,7 @@
         <item drawable="chrome_canary" />
         <item drawable="chrome_dev" />
         <item drawable="chromium" />
+        <item drawable="cliff" />
         <item drawable="clock" />
         <item drawable="commbank" />
         <item drawable="contacts" />
@@ -270,6 +277,7 @@
         <item drawable="files" />
         <item drawable="files_go" />
         <item drawable="fit" />
+        <item drawable="fooview" />
         <item drawable="gallery" />
         <item drawable="gaode_maps" />
         <item drawable="gboard" />
@@ -299,6 +307,7 @@
         <item drawable="google_plus" />
         <item drawable="google_slides" />
         <item drawable="google_translate" />
+        <item drawable="google_wallpaper" />
         <item drawable="googlecalendar" />
         <item drawable="googleplay" />
         <item drawable="greenify" />
@@ -308,10 +317,12 @@
         <item drawable="happy_browser" />
         <item drawable="heiyu" />
         <item drawable="holi_weather" />
+        <item drawable="hsbb" />
         <item drawable="huawei_fans" />
         <item drawable="huyazhibo" />
         <item drawable="hyxd" />
         <item drawable="i_reader" />
+        <item drawable="ice_box" />
         <item drawable="iflat" />
         <item drawable="ifttt" />
         <item drawable="ingress" />
@@ -336,8 +347,10 @@
         <item drawable="manyou" />
         <item drawable="mark_qrcode" />
         <item drawable="meeye" />
+        <item drawable="meitu" />
         <item drawable="meituan" />
         <item drawable="messenger_lite" />
+        <item drawable="metro" />
         <item drawable="microsoft_edge" />
         <item drawable="minecraft" />
         <item drawable="miui_compass" />
@@ -345,10 +358,13 @@
         <item drawable="miui_note" />
         <item drawable="miui_security" />
         <item drawable="miui_support" />
+        <item drawable="miui_wallet" />
         <item drawable="mobai" />
+        <item drawable="mobile_collaboration" />
         <item drawable="mokee_aegis" />
         <item drawable="mokee_center" />
         <item drawable="msm" />
+        <item drawable="msm_1" />
         <item drawable="mtglq" />
         <item drawable="mtwm" />
         <item drawable="mx_player" />
@@ -365,6 +381,7 @@
         <item drawable="news_and_weather" />
         <item drawable="novalauncher" />
         <item drawable="novasetting" />
+        <item drawable="nubia_app_fenshen" />
         <item drawable="nubia_bbs" />
         <item drawable="nubia_clean" />
         <item drawable="nubia_email" />
@@ -373,6 +390,7 @@
         <item drawable="nubia_market" />
         <item drawable="nubia_neoshare" />
         <item drawable="nubia_soundrecorder" />
+        <item drawable="nubia_store" />
         <item drawable="nubia_supersnap" />
         <item drawable="nubia_update" />
         <item drawable="nubia_video" />
@@ -380,7 +398,9 @@
         <item drawable="nubia_wfd" />
         <item drawable="nubia_yaokongqi" />
         <item drawable="nubia_zbiglauncher" />
+        <item drawable="oblatum_nocode" />
         <item drawable="ofo" />
+        <item drawable="omfg" />
         <item drawable="onedrive" />
         <item drawable="oneplus_bbs" />
         <item drawable="oneplus_calendar" />
@@ -399,6 +419,8 @@
         <item drawable="photoeditor" />
         <item drawable="picacg" />
         <item drawable="pixiv" />
+        <item drawable="pixles_iconpack" />
+        <item drawable="pixles_iconpack_1" />
         <item drawable="pornhub" />
         <item drawable="ppiicc" />
         <item drawable="pstouch" />
@@ -409,6 +431,7 @@
         <item drawable="qq_2" />
         <item drawable="qq_browser" />
         <item drawable="qq_jp" />
+        <item drawable="qq_music_local_player" />
         <item drawable="qqmail" />
         <item drawable="qqmail_1" />
         <item drawable="qqmusic" />
@@ -417,6 +440,7 @@
         <item drawable="quark" />
         <item drawable="radio" />
         <item drawable="register" />
+        <item drawable="retro_music" />
         <item drawable="root_explorer" />
         <item drawable="setting" />
         <item drawable="settings" />
@@ -453,6 +477,7 @@
         <item drawable="themes" />
         <item drawable="tim" />
         <item drawable="titaniumbackup" />
+        <item drawable="tmgp_cf" />
         <item drawable="today_s_headline" />
         <item drawable="total_launcher" />
         <item drawable="tray" />
@@ -478,6 +503,7 @@
         <item drawable="xbj" />
         <item drawable="xbrowser" />
         <item drawable="xiami_music" />
+        <item drawable="xk_wallpaper" />
         <item drawable="xmhealth" />
         <item drawable="xmqz" />
         <item drawable="xposed" />
