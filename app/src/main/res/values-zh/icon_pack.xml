@@ -20,6 +20,7 @@
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
     <string-array name="icon_labels">
+      <item>  Actinium  </item>
       <item>  ADM </item>
       <item>  AIDE  </item>
       <item>  支付宝 </item>
@@ -34,6 +35,7 @@
       <item>  百度网盘  </item>
       <item>  百度糯米  </item>
       <item>  百度贴吧  </item>
+      <item>  白描  </item>
       <item>  Bar图标包  </item>
       <item>  小草  </item>
       <item>  崩坏3 </item>
@@ -46,10 +48,10 @@
       <item>  浏览器 </item>
       <item>  菜鸟裹裹  </item>
       <item>  计算器 </item>
-      <item>  动态日历  </item>
       <item>  静态日历  </item>
+      <item>  动态日历  </item>
       <item>  相机  </item>
-      <item>  扫描全能王  </item>
+      <item>  扫描全能王 </item>
       <item>  Card图标包 </item>
       <item>  Cardboard </item>
       <item>  Cardboard相机 </item>
@@ -127,6 +129,7 @@
       <item>  谷歌地图  </item>
       <item>  Google MSM  </item>
       <item>  Google Now  </item>
+      <item>  Google拨号器 </item>
       <item>  Google相册  </item>
       <item>  谷歌拼音输入法 </item>
       <item>  Play图书  </item>
@@ -192,7 +195,7 @@
       <item>  MX播放器 </item>
       <item>  MyStops </item>
       <item>  Nano图标包 </item>
-      <item>  努比亚阅读 </item>
+      <item>  NeoReader </item>
       <item>  网易云音乐 </item>
       <item>  网易云音乐 </item>
       <item>  决战！平安京  </item>
@@ -208,6 +211,7 @@
       <item>  努比亚手电筒  </item>
       <item>  努比亚锁屏 </item>
       <item>  努比亚应用市场 </item>
+      <item>  努比亚摄影论坛 </item>
       <item>  努比亚录音机  </item>
       <item>  努比亚超级截图 </item>
       <item>  努比亚系统更新 </item>
@@ -238,6 +242,8 @@
       <item>  Pornhub </item>
       <item>  PPIICC  </item>
       <item>  PS Touch  </item>
+      <item>  Pure图标包 </item>
+      <item>  Pure图标包Lite </item>
       <item>  QQ  </item>
       <item>  QQ  </item>
       <item>  QQ  </item>
@@ -254,7 +260,7 @@
       <item>  RE管理器 </item>
       <item>  设置  </item>
       <item>  设置  </item>
-      <item>  Setting  </item>
+      <item>  设置  </item>
       <item>  Share </item>
       <item>  Shuttle </item>
       <item>  SIM卡工具包 </item>
@@ -275,13 +281,14 @@
       <item>  闲鱼  </item>
       <item>  TapTap  </item>
       <item>  Telegram  </item>
-      <item>  全民K歌  </item>
+      <item>  Telegram X  </item>
+      <item>  成勋  </item>
       <item>  腾讯地图  </item>
       <item>  QQ飞车  </item>
       <item>  腾讯视频  </item>
       <item>  微信阅读  </item>
       <item>  Termux  </item>
-      <item>  Terrarium美剧  </item>
+      <item>  Terrarium美剧 </item>
       <item>  Tesla Unread  </item>
       <item>  主题  </item>
       <item>  Tim </item>
@@ -331,40 +338,6 @@
       <item>  知乎  </item>
       <item>  知乎日报  </item>
       <item>  追书神器  </item>
-        <!-- A -->
-        <!-- B -->
-        <!-- C -->
-        <!--item>日历</item-->
-        <!-- D -->
-        <!-- E -->
-        <!-- F -->
-        <!-- G -->
-        <!-- H -->
-        <!-- I -->
-        <!-- J -->
-        <!-- K -->
-        <!-- L -->
-        <!-- M -->
-        <!-- N -->
-        <!--item>NanoIconPack (by @Childish)</item>
-        <item>NanoIconPack (by @Markuss)</item>
-        <item>NanoIconPack (by @pandecheng)</item>
-        <item>NanoIconPack (by @atony)</item>
-        <item>NanoIconPack (by @可以and不行)</item>
-        <item>NanoIconPack (by @ArchieLiu)</item>
-        <item>NanoIconPack (by @lnm011223)</item-->
-        <!-- O -->
-        <!-- P -->
-        <!-- Q -->
-        <!-- R -->
-        <!-- S -->
-        <!-- T -->
-        <!-- U -->
-        <!-- V -->
-        <!-- W -->
-        <!-- X -->
-        <!-- Y -->
-        <!-- Z -->
     </string-array>
 
 </resources>

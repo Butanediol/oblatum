@@ -49,7 +49,7 @@
     <string name="preference_support_summary_todo_1">[PzHown](wechat:wxp://f2f0N4uteW7DVYyIKdNDN2W4BchWlRMB2PfA)</string>
     <string name="preference_support_title_sponsors">Sponsors</string>
     <!-- What's "[xxx](usr:xxx)"? Visit http://nano.by-syk.com/page/donate to set it, and take care of it. -->
-    <string name="preference_support_summary_sponsors">[Thank for donating.](usr:PzHown)</string>
+    <string name="preference_support_summary_sponsors">[Thank for donating.](usr:oblatumdonate)</string>
     <string name="preference_app_title_app">@string/app_name</string>
     <string name="preference_app_summary_app">v%1$s (%2$d)</string>
     <string name="preference_app_title_todo_1">Join Group</string>

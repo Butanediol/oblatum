@@ -724,4 +724,14 @@
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
     <item component="ComponentInfo{xjb.pzhown.py/kimoji.deepdark.SplashScreenActivity}" drawable="calendar_d31" />
     <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="google_play_books" />
+    <item component="ComponentInfo{com.v2ray.actinium/com.v2ray.actinium.ui.MainActivity}" drawable="actinium" />
+    <item component="ComponentInfo{cn.nubia.neoshare/cn.nubia.neoshare.login.AppStartActivity}" drawable="nubia_neoshare" />
+    <!-- 白描 / 白描 -->
+    <item component="ComponentInfo{com.uzero.baimiao/com.uzero.baimiao.Hello}" drawable="baimiao" />
+    <!-- Pure 图标包 / Pure IconPack -->
+    <item component="ComponentInfo{me.morirain.dev.iconpack.pure/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="pure_icon_pack" />
+    <!-- Pure IconPack Lite / Pure IconPack Lite -->
+    <item component="ComponentInfo{me.morirain.dev.iconpack.pure.lite/com.by_syk.nanoiconpack.lite.LiteIconActivity}" drawable="pure_icon_pack_lite" />
+    <!-- Telegram X / Telegram X -->
+    <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_x" />
 </resources>

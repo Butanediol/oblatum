@@ -20,6 +20,7 @@
     <!-- File name (no suffix) list of all icons in /res/drawable-nodpi/ -->
     <!-- Names like Calendar, 500px, camera_360 are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
+        <item>actinium</item>
         <item>adm_pro</item>
         <item>aide</item>
         <item>alipay</item>
@@ -34,6 +35,7 @@
         <item>baidu_netdisk</item>
         <item>baidu_nuomi</item>
         <item>baidu_tieba</item>
+        <item>baimiao</item>
         <item>bar</item>
         <item>bbs1024</item>
         <item>benghuai3</item>
@@ -127,6 +129,7 @@
         <item>google_maps</item>
         <item>google_msm</item>
         <item>google_now_launcher</item>
+        <item>google_phone</item>
         <item>google_photos</item>
         <item>google_pinyin</item>
         <item>google_play_books</item>
@@ -208,6 +211,7 @@
         <item>nubia_flashlight</item>
         <item>nubia_lockscreen</item>
         <item>nubia_market</item>
+        <item>nubia_neoshare</item>
         <item>nubia_soundrecorder</item>
         <item>nubia_supersnap</item>
         <item>nubia_update</item>
@@ -238,6 +242,8 @@
         <item>pornhub</item>
         <item>ppiicc</item>
         <item>pstouch</item>
+        <item>pure_icon_pack</item>
+        <item>pure_icon_pack_lite</item>
         <item>qq</item>
         <item>qq_1</item>
         <item>qq_2</item>
@@ -252,9 +258,9 @@
         <item>radio</item>
         <item>register</item>
         <item>root_explorer</item>
+        <item>setting</item>
         <item>settings</item>
         <item>settings_1</item>
-        <item>setting</item>
         <item>share</item>
         <item>shuttle</item>
         <item>sim_toolkit</item>
@@ -275,6 +281,7 @@
         <item>taobao_islefish</item>
         <item>taptap</item>
         <item>telegram</item>
+        <item>telegram_x</item>
         <item>tencent_karaoke</item>
         <item>tencent_maps</item>
         <item>tencent_speedmobile</item>
@@ -343,33 +350,12 @@
     <!-- Latest icons (Make sure it's from the icons array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>antutu</item>
-        <item>baidu_browser</item>
-        <item>baidu_map</item>
-        <item>calendar_dynamic</item>
-        <item>camscanner</item>
-        <item>geometric_weather</item>
-        <item>h_viewer</item>
-        <item>lantern</item>
-        <item>lbe_security</item>
-        <item>neoreader</item>
-        <item>nubia_lockscreen</item>
-        <item>phonograph</item>
-        <item>picacg</item>
-        <item>ppiicc</item>
-        <item>qqmail</item>
-        <item>qqmail_1</item>
-        <item>settings</item>
-        <item>settings_1</item>
-        <item>setting</item>
-        <item>t_12306</item>
-        <item>tencent_karaoke</item>
-        <item>terrarium_tv</item>
-        <item>titaniumbackup</item>
-        <item>today_s_headline</item>
-        <item>uc_browser</item>
-        <item>uc_browser_1</item>
-        <item>uc_browser_2</item>
+        <item>baimiao</item>
+        <item>pure_icon_pack</item>
+        <item>pure_icon_pack_lite</item>
+        <item>telegram_x</item>
+        <item>tencent_video</item>
+        <item>google_phone</item>
     </string-array>
 
 </resources>
