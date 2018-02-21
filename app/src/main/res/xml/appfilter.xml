@@ -696,7 +696,6 @@
     <item component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}"  drawable="pixiv"/>
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit" />
     <item component="ComponentInfo{com.mokee.audiofx/com.mokee.audiofx.activity.ActivityMusic}" drawable="audiofx" />
-    <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}" drawable="audiofx" />
     <item component="ComponentInfo{com.eagle233.card.iconpack/com.by_syk.nanoiconpack.lite.LiteIconActivity}" drawable="card_iconpack" />
     <item component="ComponentInfo{com.mokee.center/com.mokee.center.activities.MoKeeCenter}" drawable="mokee_center" />
     <item component="ComponentInfo{com.modetime.yogurt/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="yogurt_iconpack" />
