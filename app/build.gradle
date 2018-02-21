@@ -9,9 +9,9 @@ android {
         applicationId "com.oblatum.iconpack"
         minSdkVersion Integer.parseInt(project.MIN_SDK_VERSION)
         targetSdkVersion Integer.parseInt(project.TARGET_SDK_VERSION)
-        versionCode 139
+        versionCode 143
         // Version name format: [version].[num_of_icons]
-        versionName "1.4.2"
+        versionName "1.5.2"
 
         resConfigs "en", "zh_cn"
     }

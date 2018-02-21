@@ -57,5 +57,7 @@
     <string name="static_shortcut_disabled_message">OK</string>
     <string name="static_shortcut_long_label_1">Icon Request</string>
     <string name="static_shortcut_short_label_1">Icon Request</string>
+    <string name="static_shortcut_long_label_2">Search</string>
+    <string name="static_shortcut_short_label_2">Search</string>
 
 </resources>

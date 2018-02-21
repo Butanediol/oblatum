@@ -20,6 +20,8 @@
     <!-- File name (no suffix) list of all icons in /res/drawable-nodpi/ -->
     <!-- Names like Calendar, 500px, camera_360 are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
+        <item>abc</item>
+        <item>accubattery</item>
         <item>actinium</item>
         <item>adm_pro</item>
         <item>aide</item>
@@ -32,6 +34,7 @@
         <item>aries_iconpack</item>
         <item>aries_iconpack_lite</item>
         <item>audiofx</item>
+        <item>baicizhan</item>
         <item>baidu_browser</item>
         <item>baidu_input</item>
         <item>baidu_map</item>
@@ -39,6 +42,7 @@
         <item>baidu_nuomi</item>
         <item>baidu_tieba</item>
         <item>baimiao</item>
+        <item>bankcomm</item>
         <item>bar</item>
         <item>bbs1024</item>
         <item>benghuai3</item>
@@ -48,6 +52,7 @@
         <item>bilibili_link</item>
         <item>blued</item>
         <item>blued_int</item>
+        <item>boc</item>
         <item>browser</item>
         <item>cainiao</item>
         <item>calculator</item>
@@ -58,6 +63,7 @@
         <item>card_iconpack</item>
         <item>cardboard</item>
         <item>cardboard_camera</item>
+        <item>cbb</item>
         <item>chinamobile</item>
         <item>chinatelecom</item>
         <item>chinaunicom</item>
@@ -72,9 +78,12 @@
         <item>contacts</item>
         <item>coolapk</item>
         <item>cortana</item>
+        <item>dancing_line</item>
         <item>didi</item>
         <item>digit</item>
+        <item>ding_talk</item>
         <item>dizzypassword</item>
+        <item>douban</item>
         <item>douyin</item>
         <item>douyutv</item>
         <item>download</item>
@@ -117,6 +126,7 @@
         <item>fit</item>
         <item>fooview</item>
         <item>gallery</item>
+        <item>gameguardian</item>
         <item>gaode_maps</item>
         <item>gboard</item>
         <item>geek360</item>
@@ -135,7 +145,7 @@
         <item>google_msm</item>
         <item>google_now_launcher</item>
         <item>google_phone</item>
-        <item>google_photos</item>
+        <item>google_photo</item>
         <item>google_pinyin</item>
         <item>google_play_books</item>
         <item>google_play_games</item>
@@ -148,6 +158,7 @@
         <item>google_wallpaper</item>
         <item>googlecalendar</item>
         <item>googleplay</item>
+        <item>gotokeep</item>
         <item>greenify</item>
         <item>gxicon</item>
         <item>h_viewer</item>
@@ -160,9 +171,11 @@
         <item>huyazhibo</item>
         <item>hyxd</item>
         <item>i_reader</item>
+        <item>icbc</item>
         <item>ice_box</item>
         <item>iflat</item>
         <item>ifttt</item>
+        <item>implosion</item>
         <item>ingress</item>
         <item>instagram</item>
         <item>interface_iconpack</item>
@@ -180,7 +193,10 @@
         <item>lawnchair</item>
         <item>lbe_security</item>
         <item>linos_recorder</item>
+        <item>lovebizhi</item>
         <item>lp_iconpack</item>
+        <item>lushi</item>
+        <item>lxqw</item>
         <item>magisk_manager</item>
         <item>manyou</item>
         <item>mark_qrcode</item>
@@ -191,16 +207,19 @@
         <item>metro</item>
         <item>microsoft_edge</item>
         <item>minecraft</item>
+        <item>mipush</item>
         <item>miui_compass</item>
         <item>miui_market</item>
         <item>miui_note</item>
         <item>miui_security</item>
         <item>miui_support</item>
         <item>miui_wallet</item>
+        <item>mix_explorer</item>
         <item>mobai</item>
         <item>mobile_collaboration</item>
         <item>mokee_aegis</item>
         <item>mokee_center</item>
+        <item>moonreader</item>
         <item>msm</item>
         <item>msm_1</item>
         <item>mtglq</item>
@@ -252,6 +271,7 @@
         <item>oppo_security</item>
         <item>pandatv</item>
         <item>phone</item>
+        <item>phone_1</item>
         <item>phonograph</item>
         <item>photoeditor</item>
         <item>picacg</item>
@@ -260,9 +280,12 @@
         <item>pixles_iconpack_1</item>
         <item>pornhub</item>
         <item>ppiicc</item>
+        <item>psbc</item>
         <item>pstouch</item>
         <item>pure_icon_pack</item>
         <item>pure_icon_pack_lite</item>
+        <item>pure_weather</item>
+        <item>puretie</item>
         <item>qq</item>
         <item>qq_1</item>
         <item>qq_2</item>
@@ -275,24 +298,33 @@
         <item>qqtoken</item>
         <item>qqzc</item>
         <item>quark</item>
+        <item>quick_pic</item>
         <item>radio</item>
         <item>register</item>
         <item>retro_music</item>
         <item>root_explorer</item>
+        <item>sdcleaner</item>
         <item>setting</item>
         <item>settings</item>
         <item>settings_1</item>
+        <item>sh_inputs</item>
+        <item>sh_inputs_1</item>
         <item>share</item>
         <item>shuttle</item>
         <item>sim_toolkit</item>
         <item>sketchbook</item>
+        <item>smartisan_bbs</item>
+        <item>smartisan_drivingmode</item>
         <item>smartisan_notes</item>
+        <item>smartisanos_mover</item>
         <item>snapseed</item>
         <item>snapvpn</item>
         <item>sougou_input</item>
+        <item>soundcloud</item>
         <item>ss</item>
         <item>ssr</item>
         <item>ssrr</item>
+        <item>steam</item>
         <item>stocard</item>
         <item>substratum</item>
         <item>superstar</item>
@@ -339,6 +371,8 @@
         <item>wzry_helper</item>
         <item>xbj</item>
         <item>xbrowser</item>
+        <item>xda_lab</item>
+        <item>xgsp</item>
         <item>xiami_music</item>
         <item>xk_wallpaper</item>
         <item>xmhealth</item>
@@ -373,36 +407,20 @@
     <!-- Latest icons (Make sure it's from the icons array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>apk_store</item>
-        <item>aries_iconpack</item>
-        <item>aries_iconpack_lite</item>
-        <item>baimiao</item>
-        <item>bilibili_link</item>
-        <item>cliff</item>
-        <item>cortana</item>
-        <item>fooview</item>
-        <item>google_wallpaper</item>
-        <item>hsbb</item>
-        <item>ice_box</item>
-        <item>ingress</item>
-        <item>meitu</item>
-        <item>metro</item>
-        <item>miui_wallet</item>
-        <item>mobile_collaboration</item>
-        <item>msm</item>
-        <item>msm_1</item>
-        <item>nubia_app_fenshen</item>
-        <item>nubia_store</item>
-        <item>oblatum_nocode</item>
-        <item>omfg</item>
-        <item>phonograph</item>
-        <item>pixles_iconpack</item>
-        <item>pixles_iconpack_1</item>
-        <item>qq_music_local_player</item>
-        <item>retro_music</item>
-        <item>tmgp_cf</item>
-        <item>wexin</item>
-        <item>xk_wallpaper</item>
+        <item>baicizhan</item>
+        <item>bankcomm</item>
+        <item>ding_talk</item>
+        <item>douban</item>
+        <item>gotokeep</item>
+        <item>lushi</item>
+        <item>lxqw</item>
+        <item>mix_explorer</item>
+        <item>phone_1</item>
+        <item>pure_weather</item>
+        <item>quick_pic</item>
+        <item>sh_inputs</item>
+        <item>sh_inputs_1</item>
+        <item>steam</item>
     </string-array>
 
 </resources>

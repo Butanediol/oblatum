@@ -20,6 +20,8 @@
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
     <string-array name="icon_labels">
+      <item>      中国农业银行      </item>
+      <item>      精准电量  </item>
       <item>      Actinium    </item>
       <item>      ADM   </item>
       <item>      AIDE  </item>
@@ -32,6 +34,7 @@
       <item>      Aries图标包    </item>
       <item>      Aries图标包 Lite     </item>
       <item>      AudioFX     </item>
+      <item>      百词斩   </item>
       <item>      百度浏览器 </item>
       <item>      百度输入法 </item>
       <item>      百度地图  </item>
@@ -39,6 +42,7 @@
       <item>      百度糯米  </item>
       <item>      百度贴吧  </item>
       <item>      白描    </item>
+      <item>      交通银行  </item>
       <item>      Bar图标包      </item>
       <item>      小草    </item>
       <item>      崩坏3   </item>
@@ -48,6 +52,7 @@
       <item>      Bilibili Link     </item>
       <item>      Blued </item>
       <item>      Blued国际版    </item>
+      <item>      中国银行  </item>
       <item>      浏览器   </item>
       <item>      菜鸟裹裹  </item>
       <item>      计算器   </item>
@@ -58,6 +63,7 @@
       <item>      Card图标包     </item>
       <item>      Cardboard   </item>
       <item>      Cardboard相机 </item>
+      <item>      中国建设银行      </item>
       <item>      中国移动  </item>
       <item>      中国电信  </item>
       <item>      中国联通  </item>
@@ -72,9 +78,12 @@
       <item>      联系人   </item>
       <item>      酷安    </item>
       <item>      Cortana     </item>
+      <item>      跳舞的线  </item>
       <item>      嘀嘀打车  </item>
       <item>      数字尾巴  </item>
+      <item>      钉钉    </item>
       <item>      去特么的密码      </item>
+      <item>      豆瓣    </item>
       <item>      抖音    </item>
       <item>      斗鱼TV  </item>
       <item>      下载    </item>
@@ -117,6 +126,7 @@
       <item>      Google Fit  </item>
       <item>      FV浮动阅览器     </item>
       <item>      相册    </item>
+      <item>      GameGuardian      </item>
       <item>      高德地图  </item>
       <item>      Gboard      </item>
       <item>      360极客版      </item>
@@ -148,6 +158,7 @@
       <item>      Google壁纸    </item>
       <item>      Google日历    </item>
       <item>      Play商店      </item>
+      <item>      Keep  </item>
       <item>      绿色守护  </item>
       <item>      共享图标包 </item>
       <item>      H-Viewer    </item>
@@ -155,14 +166,16 @@
       <item>      欢欢浏览器 </item>
       <item>      黑域    </item>
       <item>      Holi天气      </item>
-      <item>      花生地铁  </item>
+      <item>      花生地铁WiFi    </item>
       <item>      花粉俱乐部 </item>
       <item>      虎牙直播  </item>
       <item>      荒野行动  </item>
       <item>      掌阅iReader   </item>
+      <item>      中国工商银行      </item>
       <item>      冰箱    </item>
       <item>      iFlat图标包    </item>
       <item>      IFTTT </item>
+      <item>      聚爆    </item>
       <item>      Ingress     </item>
       <item>      Instagram   </item>
       <item>      Interface图标包      </item>
@@ -180,7 +193,10 @@
       <item>      Lawnchair   </item>
       <item>      LBE   </item>
       <item>      LineageOS录音机      </item>
+      <item>      爱壁纸   </item>
       <item>      LP图标包 </item>
+      <item>      炉石传说  </item>
+      <item>      旅行青蛙  </item>
       <item>      MagiskManager     </item>
       <item>      漫游    </item>
       <item>      二维码   </item>
@@ -191,16 +207,19 @@
       <item>      Metro </item>
       <item>      Edge浏览器     </item>
       <item>      我的世界  </item>
+      <item>      小米系统级推送     </item>
       <item>      MIUI指南针     </item>
       <item>      MIUI应用商店    </item>
       <item>      MIUI便签      </item>
       <item>      MIUI安全中心    </item>
       <item>      MIUI服务      </item>
-      <item>      MIUI钱包      </item>
+      <item>      小米钱包  </item>
+      <item>      Mix   </item>
       <item>      摩拜单车  </item>
       <item>      移动协同  </item>
       <item>      宙斯盾   </item>
       <item>      魔趣中心  </item>
+      <item>      静读天下  </item>
       <item>      信息    </item>
       <item>      信息    </item>
       <item>      MT文件管理器     </item>
@@ -227,7 +246,7 @@
       <item>      努比亚应用市场     </item>
       <item>      努比亚摄影论坛     </item>
       <item>      努比亚录音机      </item>
-      <item>      努比亚商店 </item>
+      <item>      努比亚商城 </item>
       <item>      努比亚超级截图     </item>
       <item>      努比亚系统更新     </item>
       <item>      努比亚视频 </item>
@@ -252,6 +271,7 @@
       <item>      OPPO安全中心    </item>
       <item>      熊猫TV  </item>
       <item>      电话    </item>
+      <item>      电话    </item>
       <item>      点唱机   </item>
       <item>      照片编辑器 </item>
       <item>      PicACG      </item>
@@ -260,9 +280,12 @@
       <item>      Pixles像素包   </item>
       <item>      Pornhub     </item>
       <item>      PPIICC      </item>
+      <item>      中国邮政储蓄银行    </item>
       <item>      PS Touch    </item>
       <item>      Pure图标包     </item>
       <item>      Pure图标包Lite </item>
+      <item>      Pure天气      </item>
+      <item>      PureTie     </item>
       <item>      QQ    </item>
       <item>      QQ    </item>
       <item>      QQ    </item>
@@ -275,24 +298,33 @@
       <item>      QQ安全中心      </item>
       <item>      QQ众测  </item>
       <item>      夸克浏览器 </item>
+      <item>      快图浏览  </item>
       <item>      收音机   </item>
       <item>      register    </item>
       <item>      Retro Music </item>
       <item>      RE管理器 </item>
+      <item>      储存空间清理      </item>
       <item>      设置    </item>
       <item>      设置    </item>
       <item>      设置    </item>
+      <item>      岁寒输入法 </item>
+      <item>      岁寒输入法 </item>
       <item>      Share </item>
       <item>      Shuttle     </item>
       <item>      SIM卡工具包     </item>
       <item>      SketchBook  </item>
+      <item>      锤子科技论坛      </item>
+      <item>      锤子 驾驶模式     </item>
       <item>      锤子便签  </item>
+      <item>      转至锤子  </item>
       <item>      Snapseed    </item>
       <item>      SnapVPN     </item>
       <item>      搜狗输入法 </item>
+      <item>      Soundcloud  </item>
       <item>      Shadowsocks </item>
       <item>      ShadowsocksR      </item>
       <item>      ShadowsocksRR     </item>
+      <item>      Steam </item>
       <item>      许多卡   </item>
       <item>      Substratum主题管理    </item>
       <item>      superstar   </item>
@@ -314,7 +346,7 @@
       <item>      主题    </item>
       <item>      Tim   </item>
       <item>      钛备份   </item>
-      <item>      穿越火线  </item>
+      <item>      穿越火线：荒岛特训   </item>
       <item>      今日头条  </item>
       <item>      Total启动器    </item>
       <item>      Tray图标包     </item>
@@ -339,6 +371,8 @@
       <item>      王者荣耀助手      </item>
       <item>      学霸君   </item>
       <item>      X浏览器  </item>
+      <item>      XDA   </item>
+      <item>      西瓜视频  </item>
       <item>      虾米音乐  </item>
       <item>      星空视频壁纸      </item>
       <item>      小米健康  </item>
