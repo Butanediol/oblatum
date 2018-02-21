@@ -23,17 +23,20 @@
         <item>abc</item>
         <item>accubattery</item>
         <item>actinium</item>
+        <item>action_launcher</item>
         <item>adm_pro</item>
         <item>aide</item>
         <item>alipay</item>
         <item>ampere</item>
         <item>android_pay</item>
         <item>antutu</item>
+        <item>apex</item>
         <item>apk_store</item>
         <item>apkpure</item>
         <item>aries_iconpack</item>
         <item>aries_iconpack_lite</item>
         <item>audiofx</item>
+        <item>autohome</item>
         <item>baicizhan</item>
         <item>baidu_browser</item>
         <item>baidu_input</item>
@@ -165,6 +168,7 @@
         <item>hangouts</item>
         <item>happy_browser</item>
         <item>heiyu</item>
+        <item>hola</item>
         <item>holi_weather</item>
         <item>hsbb</item>
         <item>huawei_fans</item>
@@ -198,6 +202,7 @@
         <item>lushi</item>
         <item>lxqw</item>
         <item>magisk_manager</item>
+        <item>maimemo</item>
         <item>manyou</item>
         <item>mark_qrcode</item>
         <item>meeye</item>
@@ -206,9 +211,11 @@
         <item>messenger_lite</item>
         <item>metro</item>
         <item>microsoft_edge</item>
+        <item>microsoft_launcher</item>
         <item>minecraft</item>
         <item>mipush</item>
         <item>miui_compass</item>
+        <item>miui_forum</item>
         <item>miui_market</item>
         <item>miui_note</item>
         <item>miui_security</item>
@@ -270,6 +277,7 @@
         <item>oppo_music</item>
         <item>oppo_security</item>
         <item>pandatv</item>
+        <item>peini</item>
         <item>phone</item>
         <item>phone_1</item>
         <item>phonograph</item>
@@ -319,6 +327,7 @@
         <item>smartisanos_mover</item>
         <item>snapseed</item>
         <item>snapvpn</item>
+        <item>soap</item>
         <item>sougou_input</item>
         <item>soundcloud</item>
         <item>ss</item>
@@ -344,6 +353,7 @@
         <item>terrarium_tv</item>
         <item>tesla_unread</item>
         <item>themes</item>
+        <item>thing</item>
         <item>tim</item>
         <item>titaniumbackup</item>
         <item>tmgp_cf</item>
@@ -356,6 +366,7 @@
         <item>uc_browser</item>
         <item>uc_browser_1</item>
         <item>uc_browser_2</item>
+        <item>vertical_book</item>
         <item>via</item>
         <item>village</item>
         <item>viper4android</item>
@@ -407,20 +418,21 @@
     <!-- Latest icons (Make sure it's from the icons array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>baicizhan</item>
-        <item>bankcomm</item>
-        <item>ding_talk</item>
-        <item>douban</item>
-        <item>gotokeep</item>
-        <item>lushi</item>
-        <item>lxqw</item>
-        <item>mix_explorer</item>
-        <item>phone_1</item>
-        <item>pure_weather</item>
-        <item>quick_pic</item>
-        <item>sh_inputs</item>
-        <item>sh_inputs_1</item>
-        <item>steam</item>
+        <item>action_launcher</item>
+        <item>apex</item>
+        <item>autohome</item>
+        <item>hola</item>
+        <item>lawnchair</item>
+        <item>maimemo</item>
+        <item>meeye</item>
+        <item>microsoft_launcher</item>
+        <item>miui_forum</item>
+        <item>peini</item>
+        <item>qqmail</item>
+        <item>soap</item>
+        <item>tencent_video</item>
+        <item>thing</item>
+        <item>vertical_book</item>
     </string-array>
 
 </resources>

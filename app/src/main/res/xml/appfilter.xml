@@ -810,32 +810,61 @@
     <item component="ComponentInfo{com.xda.labs/com.xda.labs.LabsLauncher}" drawable="xda_lab" />
     <item component="ComponentInfo{com.xda.labs.play/com.xda.labs.ForumLauncher}" drawable="xda_lab" />
     <item component="ComponentInfo{com.ss.android.article.video/com.ss.android.article.video.activity.SplashActivity}" drawable="xgsp" />
-    <!-- 百词斩 / 百词斩 -->
     <item component="ComponentInfo{com.jiongji.andriod.card/com.baicizhan.main.activity.LoadingPageActivity}" drawable="baicizhan" />
-    <!-- Steam / Steam -->
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam" />
-    <!-- 钉钉 / DingTalk -->
     <item component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.SplashActivity}" drawable="ding_talk" />
-    <!-- 豆瓣 / 豆瓣 -->
     <item component="ComponentInfo{com.douban.frodo/com.douban.frodo.activity.SplashActivity}" drawable="douban" />
-    <!-- Keep / Keep -->
     <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.activity.SplashActivity}" drawable="gotokeep" />
-    <!-- MiXplorer / MiXplorer -->
     <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mix_explorer" />
-    <!-- Pure天气 / Pure天气 -->
     <item component="ComponentInfo{hanjie.app.pureweather/hanjie.app.pureweather.ui.HomeActivity}" drawable="pure_weather" />
-    <!-- 快图浏览 / QuickPic -->
     <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="quick_pic" />
     <item component="ComponentInfo{com.alensw.quickpic/com.alensw.PicFolder.GalleryActivity}" drawable="quick_pic" />
     <item component="ComponentInfo{com.alensw.PicFolder_Mod/com.alensw.PicFolder_Mod.GalleryActivity}" drawable="quick_pic" />
     <item component="ComponentInfo{com.alensw.PicFoldes.jd/com.alensw.PicFoldes.GalleryActivity}" drawable="quick_pic" />
-    <!-- 交通银行 / 交通银行 -->
     <item component="ComponentInfo{com.bankcomm.Bankcomm/com.bankcomm.config.ConfigActivity}" drawable="bankcomm" />
-    <!-- 炉石传说 / Hearthstone -->
     <item component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneNativeActivity}" drawable="lushi" />
-    <!-- 旅行青蛙 / 旅行青蛙 -->
     <item component="ComponentInfo{jp.co.hit_point.tabikaeru.st/com.sthh.StShellActivity}" drawable="lxqw" />
     <item component="ComponentInfo{jp.co.hit_point.tabikaeru/net.gree.unitywebview.CUnityPlayerActivity}" drawable="lxqw" />
-    <!-- 岁寒输入法 / 岁寒输入法 -->
     <item component="ComponentInfo{com.suihan.version3/com.suihan.version3.MainActivity}" drawable="sh_inputs" />
+    <!-- Action Launcher / Action Launcher -->
+    <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="action_launcher" />
+    <!-- Apex Launcher / Apex Launcher -->
+    <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="apex" />
+    <!-- 汽车之家 / 汽车之家 -->
+    <item component="ComponentInfo{com.cubic.autohome/com.cubic.autohome.LogoActivity}" drawable="autohome" />
+    <!--  Hola桌面 / Hola Launcher -->
+    <item component="ComponentInfo{com.hola.launcher/com.hola.launcher.Launcher}" drawable="hola" />
+    <!-- Lawnchair / Lawnchair -->
+    <item component="ComponentInfo{org.mokee.lawnchair/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair" />
+    <item component="ComponentInfo{ch.deletescape.lawnchair/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair" />
+    <item component="ComponentInfo{ch.deletescape.lawnchair.qa/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair" />
+    <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair" />
+    <item component="ComponentInfo{ch.deletescape.lawnchair.qa/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair_qa" />
+    <item component="ComponentInfo{com.lawnchair.air/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair" />
+    <item component="ComponentInfo{ch.deletescape.lawnchair.qa/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair_qa" />
+    <!-- 墨墨背单词 / 墨墨背单词 -->
+    <item component="ComponentInfo{com.maimemo.android.momo/com.maimemo.android.momo.ui.MainActivity}" drawable="maimemo" />
+    <!-- 微软桌面 / Microsoft Launcher -->
+    <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.EntryActivity}" drawable="microsoft_launcher" />
+    <!-- MIUI论坛 / MIUI Forum -->
+    <item component="ComponentInfo{com.miui.miuibbs/com.miui.miuibbs.activity.WelcomeActivity}" drawable="miui_forum" />
+    <!-- 陪你 / Bene -->
+    <item component="ComponentInfo{com.zhao.withu/com.zhao.launcher.ui.launcher.LauncherActivity}" drawable="peini" />
+    <!-- Soap / Soap -->
+    <item component="ComponentInfo{com.zhao.launcherlite/com.zhao.launcher.ui.launcher.LauncherActivity}" drawable="soap" />
+    <!-- Thing / Thing -->
+    <item component="ComponentInfo{com.thing.launcher/com.thing.launcher.ThingLauncherActivity}" drawable="thing" />
+    <!-- 小书亭 / 小书亭 -->
+    <item component="ComponentInfo{com.qihoo.haosou.subscribe.vertical.book/com.reader.activity.LoadingActivity}" drawable="vertical_book" />
+
+
+
+
+
+
+
+
+
+
+
 </resources>
