@@ -22,6 +22,7 @@
     <string-array name="icons" translatable="false">
         <item>abc</item>
         <item>accubattery</item>
+        <item>acfun</item>
         <item>actinium</item>
         <item>action_launcher</item>
         <item>adm_pro</item>
@@ -55,6 +56,8 @@
         <item>bilibili_link</item>
         <item>blued</item>
         <item>blued_int</item>
+        <item>blued_hook</item>
+        <item>bmap</item>
         <item>boc</item>
         <item>browser</item>
         <item>cainiao</item>
@@ -75,6 +78,7 @@
         <item>chrome_canary</item>
         <item>chrome_dev</item>
         <item>chromium</item>
+        <item>cjzc</item>
         <item>cliff</item>
         <item>clock</item>
         <item>commbank</item>
@@ -140,6 +144,7 @@
         <item>goodseed</item>
         <item>google</item>
         <item>google_allo</item>
+        <item>google_assistant</item>
         <item>google_docs</item>
         <item>google_drive</item>
         <item>google_forms</item>
@@ -158,6 +163,7 @@
         <item>google_plus</item>
         <item>google_slides</item>
         <item>google_translate</item>
+        <item>google_voice_search</item>
         <item>google_wallpaper</item>
         <item>googlecalendar</item>
         <item>googleplay</item>
@@ -172,6 +178,7 @@
         <item>holi_weather</item>
         <item>hsbb</item>
         <item>huawei_fans</item>
+        <item>hupu</item>
         <item>huyazhibo</item>
         <item>hyxd</item>
         <item>i_reader</item>
@@ -187,6 +194,7 @@
         <item>it_home</item>
         <item>javiewer</item>
         <item>jd</item>
+        <item>jd_jinrong</item>
         <item>jike</item>
         <item>jmail</item>
         <item>jsyh</item>
@@ -210,6 +218,7 @@
         <item>meituan</item>
         <item>messenger_lite</item>
         <item>metro</item>
+        <item>mi_home</item>
         <item>microsoft_edge</item>
         <item>microsoft_launcher</item>
         <item>minecraft</item>
@@ -239,6 +248,7 @@
         <item>netease_cloudmusic_1</item>
         <item>netease_moba</item>
         <item>netease_moba_bili</item>
+        <item>netease_news</item>
         <item>netease_uu</item>
         <item>neteasemusic_lyrics_helper</item>
         <item>news_and_weather</item>
@@ -252,6 +262,7 @@
         <item>nubia_lockscreen</item>
         <item>nubia_market</item>
         <item>nubia_neoshare</item>
+        <item>nubia_security</item>
         <item>nubia_soundrecorder</item>
         <item>nubia_store</item>
         <item>nubia_supersnap</item>
@@ -326,8 +337,15 @@
         <item>smartisan_notes</item>
         <item>smartisanos_mover</item>
         <item>snapseed</item>
+        <item>snapseed_1</item>
         <item>snapvpn</item>
         <item>soap</item>
+        <item>sony_ar_effect</item>
+        <item>sony_audio_recorder</item>
+        <item>sony_sketch</item>
+        <item>sony_support</item>
+        <item>sony_threed_creator</item>
+        <item>sony_what_is_new</item>
         <item>sougou_input</item>
         <item>soundcloud</item>
         <item>ss</item>
@@ -371,6 +389,7 @@
         <item>village</item>
         <item>viper4android</item>
         <item>viperfx</item>
+        <item>vlc</item>
         <item>vmall</item>
         <item>weather</item>
         <item>weibo</item>
@@ -396,6 +415,7 @@
         <item>ykjl</item>
         <item>ylqb</item>
         <item>yogurt_iconpack</item>
+        <item>youdao_net_note</item>
         <item>youku</item>
         <item>youtube</item>
         <item>yunduo_nighttools</item>
@@ -418,21 +438,27 @@
     <!-- Latest icons (Make sure it's from the icons array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>action_launcher</item>
-        <item>apex</item>
-        <item>autohome</item>
-        <item>hola</item>
-        <item>lawnchair</item>
-        <item>maimemo</item>
-        <item>meeye</item>
-        <item>microsoft_launcher</item>
-        <item>miui_forum</item>
-        <item>peini</item>
-        <item>qqmail</item>
-        <item>soap</item>
-        <item>tencent_video</item>
-        <item>thing</item>
-        <item>vertical_book</item>
+        <item>acfun</item>
+        <item>bluedhook</item>
+        <item>bmap</item>
+        <item>cjzc</item>
+        <item>google_assistant</item>
+        <item>google_voice_search</item>
+        <item>hupu</item>
+        <item>jd_jinrong</item>
+        <item>mi_home</item>
+        <item>netease_news</item>
+        <item>nubia_security</item>
+        <item>smartisan_notes</item>
+        <item>snapseed_1</item>
+        <item>sony_ar_effect</item>
+        <item>sony_audio_recorder</item>
+        <item>sony_sketch</item>
+        <item>sony_support</item>
+        <item>sony_threed_creator</item>
+        <item>sony_what_is_new</item>
+        <item>vlc</item>
+        <item>youdao_net_note</item>
     </string-array>
 
 </resources>

@@ -54,6 +54,7 @@
         <item drawable="gmail" />
         <item drawable="google" />
         <item drawable="google_allo" />
+        <item drawable="google_assistant" />
         <item drawable="google_docs" />
         <item drawable="google_drive" />
         <item drawable="google_forms" />
@@ -72,6 +73,7 @@
         <item drawable="google_plus" />
         <item drawable="google_slides" />
         <item drawable="google_translate" />
+        <item drawable="google_voice_search" />
         <item drawable="google_wallpaper" />
         <item drawable="googlecalendar" />
         <item drawable="googleplay" />
@@ -79,6 +81,7 @@
         <item drawable="keep" />
         <item drawable="news_and_weather" />
         <item drawable="snapseed" />
+        <item drawable="snapseed_1" />
         <item drawable="youtube" />
 
     <category title="Oneplus" />
@@ -110,6 +113,14 @@
         <item drawable="tencent_video" />
         <item drawable="tim" />
         <item drawable="weixin" />
+
+    <category title="Xperia" />
+        <item drawable="sony_ar_effect" />
+        <item drawable="sony_audio_recorder" />
+        <item drawable="sony_sketch" />
+        <item drawable="sony_support" />
+        <item drawable="sony_threed_creator" />
+        <item drawable="sony_what_is_new" />
 
     <category title="MIUI" />
         <item drawable="manyou" />
@@ -156,6 +167,7 @@
         <item drawable="nubia_flashlight" />
         <item drawable="nubia_market" />
         <item drawable="nubia_neoshare" />
+        <item drawable="nubia_security" />
         <item drawable="nubia_soundrecorder" />
         <item drawable="nubia_supersnap" />
         <item drawable="nubia_update" />
@@ -168,11 +180,13 @@
     <category title="Smartisan" />
         <item drawable="smartisan_bbs" />
         <item drawable="smartisan_drivingmode" />
+        <item drawable="smartisan_notes" />
         <item drawable="smartisanos_mover" />
 
     <category title="Game" /><!-- Copy game icons here from All category -->
 
         <item drawable="benghuai3"/>
+        <item drawable="cjzc" />
         <item drawable="dancing_line" />
         <item drawable="hyxd"/>
         <item drawable="implosion" />
@@ -194,6 +208,7 @@
     <category title="All" /><!-- All icons here -->
         <item drawable="abc" />
         <item drawable="accubattery" />
+        <item drawable="acfun" />
         <item drawable="actinium" />
         <item drawable="action_launcher" />
         <item drawable="adm_pro" />
@@ -227,13 +242,14 @@
         <item drawable="bilibili_link" />
         <item drawable="blued" />
         <item drawable="blued_int" />
+        <item drawable="bluedhook" />
+        <item drawable="bmap" />
         <item drawable="boc" />
         <item drawable="browser" />
         <item drawable="cainiao" />
         <item drawable="calculator" />
         <item drawable="calendar_d31" />
         <item drawable="calendar_dynamic" />
-        <item drawable="camera" />
         <item drawable="camera" />
         <item drawable="camscanner" />
         <item drawable="card_iconpack" />
@@ -248,6 +264,7 @@
         <item drawable="chrome_canary" />
         <item drawable="chrome_dev" />
         <item drawable="chromium" />
+        <item drawable="cjzc" />
         <item drawable="cliff" />
         <item drawable="clock" />
         <item drawable="commbank" />
@@ -313,6 +330,7 @@
         <item drawable="goodseed" />
         <item drawable="google" />
         <item drawable="google_allo" />
+        <item drawable="google_assistant" />
         <item drawable="google_docs" />
         <item drawable="google_drive" />
         <item drawable="google_forms" />
@@ -321,7 +339,6 @@
         <item drawable="google_msm" />
         <item drawable="google_now_launcher" />
         <item drawable="google_phone" />
-        <item drawable="google_photo" />
         <item drawable="google_photo" />
         <item drawable="google_pinyin" />
         <item drawable="google_play_books" />
@@ -332,6 +349,7 @@
         <item drawable="google_plus" />
         <item drawable="google_slides" />
         <item drawable="google_translate" />
+        <item drawable="google_voice_search" />
         <item drawable="google_wallpaper" />
         <item drawable="googlecalendar" />
         <item drawable="googleplay" />
@@ -346,6 +364,7 @@
         <item drawable="holi_weather" />
         <item drawable="hsbb" />
         <item drawable="huawei_fans" />
+        <item drawable="hupu" />
         <item drawable="huyazhibo" />
         <item drawable="hyxd" />
         <item drawable="i_reader" />
@@ -361,6 +380,7 @@
         <item drawable="it_home" />
         <item drawable="javiewer" />
         <item drawable="jd" />
+        <item drawable="jd_jinrong" />
         <item drawable="jike" />
         <item drawable="jmail" />
         <item drawable="jsyh" />
@@ -368,7 +388,6 @@
         <item drawable="kihan" />
         <item drawable="kugou_music" />
         <item drawable="lantern" />
-        <item drawable="lawnchair" />
         <item drawable="lawnchair" />
         <item drawable="lbe_security" />
         <item drawable="linos_recorder" />
@@ -380,11 +399,11 @@
         <item drawable="manyou" />
         <item drawable="mark_qrcode" />
         <item drawable="meeye" />
-        <item drawable="meeye" />
         <item drawable="meitu" />
         <item drawable="meituan" />
         <item drawable="messenger_lite" />
         <item drawable="metro" />
+        <item drawable="mi_home" />
         <item drawable="microsoft_edge" />
         <item drawable="microsoft_launcher" />
         <item drawable="minecraft" />
@@ -415,6 +434,7 @@
         <item drawable="netease_moba" />
         <item drawable="netease_moba_bili" />
         <item drawable="netease_moba_bili"/>
+        <item drawable="netease_news" />
         <item drawable="netease_uu" />
         <item drawable="neteasemusic_lyrics_helper" />
         <item drawable="news_and_weather" />
@@ -428,6 +448,7 @@
         <item drawable="nubia_lockscreen" />
         <item drawable="nubia_market" />
         <item drawable="nubia_neoshare" />
+        <item drawable="nubia_security" />
         <item drawable="nubia_soundrecorder" />
         <item drawable="nubia_store" />
         <item drawable="nubia_supersnap" />
@@ -477,7 +498,6 @@
         <item drawable="qq_jp" />
         <item drawable="qq_music_local_player" />
         <item drawable="qqmail" />
-        <item drawable="qqmail" />
         <item drawable="qqmail_1" />
         <item drawable="qqmusic" />
         <item drawable="qqtoken" />
@@ -502,8 +522,15 @@
         <item drawable="smartisan_notes" />
         <item drawable="smartisanos_mover" />
         <item drawable="snapseed" />
+        <item drawable="snapseed_1" />
         <item drawable="snapvpn" />
         <item drawable="soap" />
+        <item drawable="sony_ar_effect" />
+        <item drawable="sony_audio_recorder" />
+        <item drawable="sony_sketch" />
+        <item drawable="sony_support" />
+        <item drawable="sony_threed_creator" />
+        <item drawable="sony_what_is_new" />
         <item drawable="sougou_input" />
         <item drawable="soundcloud" />
         <item drawable="ss" />
@@ -523,7 +550,6 @@
         <item drawable="tencent_karaoke" />
         <item drawable="tencent_maps" />
         <item drawable="tencent_speedmobile" />
-        <item drawable="tencent_video" />
         <item drawable="tencent_video" />
         <item drawable="tencent_weread" />
         <item drawable="termux" />
@@ -548,6 +574,7 @@
         <item drawable="village" />
         <item drawable="viper4android" />
         <item drawable="viperfx" />
+        <item drawable="vlc" />
         <item drawable="vmall" />
         <item drawable="weather" />
         <item drawable="weibo" />
@@ -573,6 +600,7 @@
         <item drawable="ykjl" />
         <item drawable="ylqb" />
         <item drawable="yogurt_iconpack" />
+        <item drawable="youdao_net_note" />
         <item drawable="youku" />
         <item drawable="youtube" />
         <item drawable="yunduo_nighttools" />

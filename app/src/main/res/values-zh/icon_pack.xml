@@ -22,6 +22,7 @@
     <string-array name="icon_labels">
       <item>      中国农业银行      </item>
       <item>      精准电量  </item>
+      <item>      AcFun </item>
       <item>      Actinium    </item>
       <item>      Action启动器   </item>
       <item>      ADM   </item>
@@ -55,6 +56,8 @@
       <item>      Bilibili Link     </item>
       <item>      Blued </item>
       <item>      Blued国际版    </item>
+      <item>      Blued模块     </item>
+      <item>      Bmap  </item>
       <item>      中国银行  </item>
       <item>      浏览器   </item>
       <item>      菜鸟裹裹  </item>
@@ -75,6 +78,7 @@
       <item>      Chrome Canary     </item>
       <item>      Chrome Dev  </item>
       <item>      Chromium    </item>
+      <item>      绝地求生：刺激战场   </item>
       <item>      藏书馆   </item>
       <item>      时钟    </item>
       <item>      澳大利亚联邦银行    </item>
@@ -140,6 +144,7 @@
       <item>      GoodSeed图标包 </item>
       <item>      Google      </item>
       <item>      Google Allo </item>
+      <item>      Google智能助理  </item>
       <item>      Google文档    </item>
       <item>      Google云端硬盘  </item>
       <item>      Google电子表格  </item>
@@ -158,6 +163,7 @@
       <item>      Google+     </item>
       <item>      Google演示稿   </item>
       <item>      Google翻译    </item>
+      <item>      Google语音搜索  </item>
       <item>      Google壁纸    </item>
       <item>      Google日历    </item>
       <item>      Play商店      </item>
@@ -172,6 +178,7 @@
       <item>      Holi天气      </item>
       <item>      花生地铁WiFi    </item>
       <item>      花粉俱乐部 </item>
+      <item>      虎扑    </item>
       <item>      虎牙直播  </item>
       <item>      荒野行动  </item>
       <item>      掌阅iReader   </item>
@@ -187,6 +194,7 @@
       <item>      IT之家  </item>
       <item>      Javiewer    </item>
       <item>      京东    </item>
+      <item>      京东金融  </item>
       <item>      即刻    </item>
       <item>      极邮邮箱  </item>
       <item>      建设银行  </item>
@@ -210,6 +218,7 @@
       <item>      美团    </item>
       <item>      MessengerLite     </item>
       <item>      Metro </item>
+      <item>      米家    </item>
       <item>      Edge浏览器     </item>
       <item>      微软桌面  </item>
       <item>      我的世界  </item>
@@ -239,6 +248,7 @@
       <item>      网易云音乐 </item>
       <item>      决战！平安京      </item>
       <item>      决战！平安京      </item>
+      <item>      网易新闻  </item>
       <item>      网易UU加速器     </item>
       <item>      网易云音乐歌词助手   </item>
       <item>      Google新闻和天气 </item>
@@ -252,6 +262,7 @@
       <item>      努比亚锁屏 </item>
       <item>      努比亚应用市场     </item>
       <item>      努比亚摄影论坛     </item>
+      <item>      努比亚安全中心     </item>
       <item>      努比亚录音机      </item>
       <item>      努比亚商城 </item>
       <item>      努比亚超级截图     </item>
@@ -326,8 +337,15 @@
       <item>      锤子便签  </item>
       <item>      转至锤子  </item>
       <item>      Snapseed    </item>
+      <item>      Snapseed    </item>
       <item>      SnapVPN     </item>
       <item>      Soap  </item>
+      <item>      AR Effect   </item>
+      <item>      Xperia录音机   </item>
+      <item>      涂画Sketch    </item>
+      <item>      Support     </item>
+      <item>      3D Creator  </item>
+      <item>      What's new  </item>
       <item>      搜狗输入法 </item>
       <item>      Soundcloud  </item>
       <item>      Shadowsocks </item>
@@ -371,6 +389,7 @@
       <item>      山寨云   </item>
       <item>      蝰蛇音效  </item>
       <item>      蝰蛇音效社区版     </item>
+      <item>      VLC播放器      </item>
       <item>      华为商城  </item>
       <item>      天气    </item>
       <item>      微博    </item>
@@ -396,6 +415,7 @@
       <item>      遥控精灵  </item>
       <item>      银联钱包  </item>
       <item>      酸奶盖图标包      </item>
+      <item>      有道云笔记 </item>
       <item>      优酷    </item>
       <item>      YouTube     </item>
       <item>      云朵护眼  </item>

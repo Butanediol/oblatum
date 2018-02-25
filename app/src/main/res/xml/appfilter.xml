@@ -823,18 +823,14 @@
     <item component="ComponentInfo{com.alensw.PicFoldes.jd/com.alensw.PicFoldes.GalleryActivity}" drawable="quick_pic" />
     <item component="ComponentInfo{com.bankcomm.Bankcomm/com.bankcomm.config.ConfigActivity}" drawable="bankcomm" />
     <item component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneNativeActivity}" drawable="lushi" />
+    <item component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity}" drawable="lushi" />
     <item component="ComponentInfo{jp.co.hit_point.tabikaeru.st/com.sthh.StShellActivity}" drawable="lxqw" />
     <item component="ComponentInfo{jp.co.hit_point.tabikaeru/net.gree.unitywebview.CUnityPlayerActivity}" drawable="lxqw" />
     <item component="ComponentInfo{com.suihan.version3/com.suihan.version3.MainActivity}" drawable="sh_inputs" />
-    <!-- Action Launcher / Action Launcher -->
     <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="action_launcher" />
-    <!-- Apex Launcher / Apex Launcher -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="apex" />
-    <!-- 汽车之家 / 汽车之家 -->
     <item component="ComponentInfo{com.cubic.autohome/com.cubic.autohome.LogoActivity}" drawable="autohome" />
-    <!--  Hola桌面 / Hola Launcher -->
     <item component="ComponentInfo{com.hola.launcher/com.hola.launcher.Launcher}" drawable="hola" />
-    <!-- Lawnchair / Lawnchair -->
     <item component="ComponentInfo{org.mokee.lawnchair/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair" />
     <item component="ComponentInfo{ch.deletescape.lawnchair/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair" />
     <item component="ComponentInfo{ch.deletescape.lawnchair.qa/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair" />
@@ -842,20 +838,46 @@
     <item component="ComponentInfo{ch.deletescape.lawnchair.qa/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair_qa" />
     <item component="ComponentInfo{com.lawnchair.air/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair" />
     <item component="ComponentInfo{ch.deletescape.lawnchair.qa/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair_qa" />
-    <!-- 墨墨背单词 / 墨墨背单词 -->
     <item component="ComponentInfo{com.maimemo.android.momo/com.maimemo.android.momo.ui.MainActivity}" drawable="maimemo" />
-    <!-- 微软桌面 / Microsoft Launcher -->
     <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.EntryActivity}" drawable="microsoft_launcher" />
-    <!-- MIUI论坛 / MIUI Forum -->
     <item component="ComponentInfo{com.miui.miuibbs/com.miui.miuibbs.activity.WelcomeActivity}" drawable="miui_forum" />
-    <!-- 陪你 / Bene -->
     <item component="ComponentInfo{com.zhao.withu/com.zhao.launcher.ui.launcher.LauncherActivity}" drawable="peini" />
-    <!-- Soap / Soap -->
     <item component="ComponentInfo{com.zhao.launcherlite/com.zhao.launcher.ui.launcher.LauncherActivity}" drawable="soap" />
-    <!-- Thing / Thing -->
     <item component="ComponentInfo{com.thing.launcher/com.thing.launcher.ThingLauncherActivity}" drawable="thing" />
-    <!-- 小书亭 / 小书亭 -->
     <item component="ComponentInfo{com.qihoo.haosou.subscribe.vertical.book/com.reader.activity.LoadingActivity}" drawable="vertical_book" />
+    <!-- 语音搜索 / Google App -->
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google_voice_search" />
+    <item component="ComponentInfo{com.sonymobile.scan3d/com.sonymobile.scan3d.storageservice.ui.activity.OnBoardingActivity}" drawable="sony_threed_creator" />
+    <item component="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}" drawable="sony_audio_recorder" />
+    <item component="ComponentInfo{com.sonymobile.sketch/com.sonymobile.sketch.dashboard.DashboardActivity}" drawable="sony_sketch" />
+    <item component="ComponentInfo{com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher}" drawable="sony_support" />
+    <item component="ComponentInfo{com.sonymobile.androidapp.cameraaddon.areffect/com.sonymobile.androidapp.cameraaddon.areffect.AREffectApp}" drawable="sony_ar_effect" />
+    <item component="ComponentInfo{com.sonymobile.entrance/com.sonymobile.entrance.EntranceActivity}" drawable="sony_what_is_new" />
+    <!-- VLC / VLC -->
+    <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
+    <!-- AcFun / AcFun -->
+    <item component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.view.activity.SplashActivity}" drawable="acfun" />
+    <!-- Blued模块 / BluedHook -->
+    <item component="ComponentInfo{com.conch.bluedhook/com.conch.bluedhook.ui.MainActivity}" drawable="blued_hook" />
+    <!-- Bmap / Bmap -->
+    <item component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.activity.MainActivity}" drawable="bmap" />
+    <!-- 绝地求生 刺激战场 / 绝地求生 刺激战场 -->
+    <item component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity}" drawable="cjzc" />
+    <!-- 智能助理 / Assistant -->
+    <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="google_assistant" />
+    <!-- 虎扑 / 虎扑 -->
+    <item component="ComponentInfo{com.hupu.games/com.hupu.games.activity.LaunchActivity}" drawable="hupu" />
+    <!-- 米家 / Mi Home -->
+    <item component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}" drawable="mi_home" />
+    <!-- 京东金融 / JD Finance -->
+    <item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.WelcomeActivity}" drawable="jd_jinrong" />
+    <!-- 网易新闻 / NetEase News -->
+    <item component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.biz.ad.AdActivity}" drawable="netease_news" />
+    <!-- 锤子便签 / Smartisan Notes -->
+    <item component="ComponentInfo{com.smartisan.notes/com.smartisan.notes.NewNotesActivity}" drawable="smartisan_notes" />
+    <!-- 有道云笔记 / 有道云笔记 -->
+    <item component="ComponentInfo{com.youdao.note/com.youdao.note.activity2.SplashActivity}" drawable="youdao_net_note" />
+
 
 
 
