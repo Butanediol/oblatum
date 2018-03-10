@@ -38,6 +38,8 @@
         <item>aries_iconpack_lite</item>
         <item>audiofx</item>
         <item>autohome</item>
+        <item>b612</item>
+        <item>b612_jimeng</item>
         <item>baicizhan</item>
         <item>baidu_browser</item>
         <item>baidu_input</item>
@@ -55,8 +57,10 @@
         <item>bilibili_blue</item>
         <item>bilibili_link</item>
         <item>blued</item>
-        <item>blued_int</item>
+        <item>blued_1</item>
         <item>blued_hook</item>
+        <item>blued_hook_1</item>
+        <item>blued_int</item>
         <item>bmap</item>
         <item>boc</item>
         <item>browser</item>
@@ -94,6 +98,8 @@
         <item>douyin</item>
         <item>douyutv</item>
         <item>download</item>
+        <item>drawer</item>
+        <item>drawer_1</item>
         <item>earth</item>
         <item>eh_viewer</item>
         <item>eleme</item>
@@ -131,6 +137,10 @@
         <item>files</item>
         <item>files_go</item>
         <item>fit</item>
+        <item>folder_google</item>
+        <item>folder_payment</item>
+        <item>folder_photo_editor</item>
+        <item>folder_system</item>
         <item>fooview</item>
         <item>gallery</item>
         <item>gameguardian</item>
@@ -278,6 +288,7 @@
         <item>onedrive</item>
         <item>oneplus_bbs</item>
         <item>oneplus_calendar</item>
+        <item>oneplus_camera</item>
         <item>oneplus_card</item>
         <item>oneplus_filemanager</item>
         <item>oneplus_gallery</item>
@@ -438,27 +449,17 @@
     <!-- Latest icons (Make sure it's from the icons array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>acfun</item>
-        <item>bluedhook</item>
-        <item>bmap</item>
-        <item>cjzc</item>
-        <item>google_assistant</item>
-        <item>google_voice_search</item>
-        <item>hupu</item>
-        <item>jd_jinrong</item>
-        <item>mi_home</item>
-        <item>netease_news</item>
-        <item>nubia_security</item>
-        <item>smartisan_notes</item>
-        <item>snapseed_1</item>
-        <item>sony_ar_effect</item>
-        <item>sony_audio_recorder</item>
-        <item>sony_sketch</item>
-        <item>sony_support</item>
-        <item>sony_threed_creator</item>
-        <item>sony_what_is_new</item>
-        <item>vlc</item>
-        <item>youdao_net_note</item>
+        <item>b612</item>
+        <item>b612_jimeng</item>
+        <item>blued_1</item>
+        <item>blued_hook_1</item>
+        <item>drawer</item>
+        <item>drawer_1</item>
+        <item>folder_google</item>
+        <item>folder_payment</item>
+        <item>folder_photo_editor</item>
+        <item>folder_system</item>
+        <item>oneplus_camera</item>
     </string-array>
 
 </resources>

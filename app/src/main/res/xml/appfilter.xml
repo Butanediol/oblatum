@@ -260,7 +260,7 @@
     <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="camera"/>
     <item component="ComponentInfo{com.meizu.media.camera/com.meizu.media.camera.CameraLauncher}" drawable="camera"/>
     <item component="ComponentInfo{com.motorola.cameraone/com.motorola.camera.Camera}" drawable="camera"/>
-    <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera"/>
+    <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="oneplus_camera"/>
     <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="camera"/>
     <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera"/>
     <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="camera"/>
@@ -269,6 +269,7 @@
     <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera"/>
     <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera"/>
     <item component="ComponentInfo{org.mokee.snap/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera" />
 
     <!-- 时钟 / Clock -->
     <item component="ComponentInfo{cn.nubia.deskclock.preset/cn.nubia.deskclock.DeskClock}" drawable="clock"/>
@@ -508,11 +509,13 @@
     <item component="ComponentInfo{com.teslacoilsw.launcher/.preferences.SettingsActivity}" drawable="novalauncher"/>
     <item component="ComponentInfo{com.teslacoilsw.launcher/.preferences.SettingsActivity}" drawable="novasetting"/>
     <item component="ComponentInfo{com.taptap/com.play.taptap.ui.MainAct}" drawable="taptap"/>
+    <item component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}" drawable="taptap" />
     <item component="ComponentInfo{com.fenbi.android.solar/com.fenbi.android.solar.activity.SplashActivity}" drawable="xyst"/>
     <item component="ComponentInfo{com.wenba.bangbang/com.wenba.bangbang.activity.CoverActivity}" drawable="xbj"/>
     <item component="ComponentInfo{com.bilibili.bilibililive/com.bilibili.bilibililive.splash.SplashActivity}" drawable="bilibili_link"/>
     <item component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" drawable="heiyu"/>
     <item component="ComponentInfo{me.piebridge.Lrevent/me.piebridge.brevent.ui.BreventActivity}" drawable="heiyu" />
+    <item component="ComponentInfo{me.piebridge.Lrevent/ui.BreventActivity}" drawable="heiyu" />
     <item component="ComponentInfo{com.netease.uu/com.netease.uu.activity.SplashScreenActivity}" drawable="netease_uu"/>
     <item component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}" drawable="oneplus_bbs" />
     <item component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.WelcomeActivity}" drawable="tencent_video"/>
@@ -784,7 +787,7 @@
     <item component="ComponentInfo{com.tencent.qqmusiclocalplayer/com.tencent.qqmusiclocalplayer.app.activity.AppStarterActivity}" drawable="qq_music_local_player" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.dual.DualManagerAppActivity}" drawable="nubia_app_fenshen" />
     <item component="ComponentInfo{com.android.bankabc/com.android.bankabc.SplashActivity}" drawable="abc" />
-    <item component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}" drawable="accu_battery" />
+    <item component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}" drawable="accubattery" />
     <item component="ComponentInfo{com.chinamworld.bocmbci/com.chinamworld.bocmbci.biz.DexActivity}" drawable="boc" />
     <item component="ComponentInfo{com.chinamworld.main/com.ccb.mbs.main.StartActivity}" drawable="cbb" />
     <item component="ComponentInfo{com.chinamworld.main/com.ccb.start.CcbSplashActivity}" drawable="cbb" />
@@ -845,7 +848,6 @@
     <item component="ComponentInfo{com.zhao.launcherlite/com.zhao.launcher.ui.launcher.LauncherActivity}" drawable="soap" />
     <item component="ComponentInfo{com.thing.launcher/com.thing.launcher.ThingLauncherActivity}" drawable="thing" />
     <item component="ComponentInfo{com.qihoo.haosou.subscribe.vertical.book/com.reader.activity.LoadingActivity}" drawable="vertical_book" />
-    <!-- 语音搜索 / Google App -->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google_voice_search" />
     <item component="ComponentInfo{com.sonymobile.scan3d/com.sonymobile.scan3d.storageservice.ui.activity.OnBoardingActivity}" drawable="sony_threed_creator" />
     <item component="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}" drawable="sony_audio_recorder" />
@@ -853,33 +855,24 @@
     <item component="ComponentInfo{com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher}" drawable="sony_support" />
     <item component="ComponentInfo{com.sonymobile.androidapp.cameraaddon.areffect/com.sonymobile.androidapp.cameraaddon.areffect.AREffectApp}" drawable="sony_ar_effect" />
     <item component="ComponentInfo{com.sonymobile.entrance/com.sonymobile.entrance.EntranceActivity}" drawable="sony_what_is_new" />
-    <!-- VLC / VLC -->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
-    <!-- AcFun / AcFun -->
     <item component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.view.activity.SplashActivity}" drawable="acfun" />
-    <!-- Blued模块 / BluedHook -->
     <item component="ComponentInfo{com.conch.bluedhook/com.conch.bluedhook.ui.MainActivity}" drawable="blued_hook" />
-    <!-- Bmap / Bmap -->
     <item component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.activity.MainActivity}" drawable="bmap" />
-    <!-- 绝地求生 刺激战场 / 绝地求生 刺激战场 -->
     <item component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity}" drawable="cjzc" />
-    <!-- 智能助理 / Assistant -->
     <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="google_assistant" />
-    <!-- 虎扑 / 虎扑 -->
     <item component="ComponentInfo{com.hupu.games/com.hupu.games.activity.LaunchActivity}" drawable="hupu" />
-    <!-- 米家 / Mi Home -->
     <item component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}" drawable="mi_home" />
-    <!-- 京东金融 / JD Finance -->
     <item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.WelcomeActivity}" drawable="jd_jinrong" />
-    <!-- 网易新闻 / NetEase News -->
     <item component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.biz.ad.AdActivity}" drawable="netease_news" />
-    <!-- 锤子便签 / Smartisan Notes -->
     <item component="ComponentInfo{com.smartisan.notes/com.smartisan.notes.NewNotesActivity}" drawable="smartisan_notes" />
-    <!-- 有道云笔记 / 有道云笔记 -->
     <item component="ComponentInfo{com.youdao.note/com.youdao.note.activity2.SplashActivity}" drawable="youdao_net_note" />
-
-
-
+    <!-- B612咔叽 / B612咔叽 -->
+    <item component="ComponentInfo{com.campmobile.snowcamera/com.linecorp.b612.android.activity.ActivityCamera}" drawable="b612" />
+    <!-- B612 / B612 -->
+    <item component="ComponentInfo{com.linecorp.b612.android/com.linecorp.b612.android.activity.ActivityCamera}" drawable="b612" />
+    <!-- b612激萌卖萌相机 / b612激萌卖萌相机 -->
+    <item component="ComponentInfo{com.aneeeoft.rmvu.delaed/com.qihoo.util.StartActivity}" drawable="b612_jimeng" />
 
 
 

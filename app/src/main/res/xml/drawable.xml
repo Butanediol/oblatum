@@ -91,6 +91,7 @@
         <item drawable="oneplus_music" />
         <item drawable="oneplus_note" />
         <item drawable="oneplus_soundrecorder" />
+        <item drawable="oneplus_camera" />
 
     <category title="百度" />
         <item drawable="baidu_browser" />
@@ -205,6 +206,12 @@
         <item drawable="yys" />
         <item drawable="yyszs" />
 
+    <category title="Folders" />
+        <item drawable="folder_google" />
+        <item drawable="folder_payment" />
+        <item drawable="folder_photo_editor" />
+        <item drawable="folder_system" />
+
     <category title="All" /><!-- All icons here -->
         <item drawable="abc" />
         <item drawable="accubattery" />
@@ -224,6 +231,8 @@
         <item drawable="aries_iconpack_lite" />
         <item drawable="audiofx" />
         <item drawable="autohome" />
+        <item drawable="b612" />
+        <item drawable="b612_jimeng" />
         <item drawable="baicizhan" />
         <item drawable="baidu_browser" />
         <item drawable="baidu_input" />
@@ -241,6 +250,8 @@
         <item drawable="bilibili_blue" />
         <item drawable="bilibili_link" />
         <item drawable="blued" />
+        <item drawable="blued_1" />
+        <item drawable="blued_hook_1" />
         <item drawable="blued_int" />
         <item drawable="bluedhook" />
         <item drawable="bmap" />
@@ -280,6 +291,8 @@
         <item drawable="douyin" />
         <item drawable="douyutv" />
         <item drawable="download" />
+        <item drawable="drawer" />
+        <item drawable="drawer_1" />
         <item drawable="earth" />
         <item drawable="eh_viewer" />
         <item drawable="eleme" />
@@ -317,6 +330,10 @@
         <item drawable="files" />
         <item drawable="files_go" />
         <item drawable="fit" />
+        <item drawable="folder_google" />
+        <item drawable="folder_payment" />
+        <item drawable="folder_photo_editor" />
+        <item drawable="folder_system" />
         <item drawable="fooview" />
         <item drawable="gallery" />
         <item drawable="gameguardian" />
@@ -464,6 +481,7 @@
         <item drawable="onedrive" />
         <item drawable="oneplus_bbs" />
         <item drawable="oneplus_calendar" />
+        <item drawable="oneplus_camera" />
         <item drawable="oneplus_card" />
         <item drawable="oneplus_filemanager" />
         <item drawable="oneplus_gallery" />
