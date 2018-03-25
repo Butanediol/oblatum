@@ -207,7 +207,6 @@
         <item>jd_jinrong</item>
         <item>jike</item>
         <item>jmail</item>
-        <item>jsyh</item>
         <item>keep</item>
         <item>kihan</item>
         <item>kugou_music</item>
@@ -216,6 +215,7 @@
         <item>lbe_security</item>
         <item>linos_recorder</item>
         <item>lovebizhi</item>
+        <item>lovelycat</item>
         <item>lp_iconpack</item>
         <item>lushi</item>
         <item>lxqw</item>
@@ -236,10 +236,12 @@
         <item>miui_compass</item>
         <item>miui_forum</item>
         <item>miui_market</item>
+        <item>miui_music</item>
         <item>miui_note</item>
         <item>miui_security</item>
         <item>miui_support</item>
         <item>miui_wallet</item>
+        <item>miui_xiao_ai</item>
         <item>mix_explorer</item>
         <item>mobai</item>
         <item>mobile_collaboration</item>
@@ -295,9 +297,12 @@
         <item>oneplus_music</item>
         <item>oneplus_note</item>
         <item>oneplus_soundrecorder</item>
+        <item>oppo_compass</item>
         <item>oppo_files</item>
+        <item>oppo_menber</item>
         <item>oppo_music</item>
         <item>oppo_security</item>
+        <item>oppo_sound_recorder</item>
         <item>pandatv</item>
         <item>peini</item>
         <item>phone</item>
@@ -390,6 +395,7 @@
         <item>total_launcher</item>
         <item>tray</item>
         <item>tripview_lite</item>
+        <item>tumblr</item>
         <item>twitter</item>
         <item>twrp</item>
         <item>uc_browser</item>
@@ -449,17 +455,12 @@
     <!-- Latest icons (Make sure it's from the icons array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>b612</item>
-        <item>b612_jimeng</item>
-        <item>blued_1</item>
-        <item>blued_hook_1</item>
-        <item>drawer</item>
-        <item>drawer_1</item>
-        <item>folder_google</item>
-        <item>folder_payment</item>
-        <item>folder_photo_editor</item>
-        <item>folder_system</item>
-        <item>oneplus_camera</item>
+        <item>lovelycat</item>
+        <item>miui_music</item>
+        <item>miui_xiao_ai</item>
+        <item>oppo_compass</item>
+        <item>oppo_menber</item>
+        <item>oppo_sound_recorder</item>
+        <item>tumblr</item>
     </string-array>
-
 </resources>

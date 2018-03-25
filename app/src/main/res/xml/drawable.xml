@@ -127,9 +127,11 @@
         <item drawable="manyou" />
         <item drawable="miui_compass" />
         <item drawable="miui_market" />
+        <item drawable="miui_music" />
         <item drawable="miui_security" />
         <item drawable="miui_support" />
         <item drawable="miui_wallet" />
+        <item drawable="miui_xiao_ai" />
         <item drawable="xmhealth" />
 
     <category title="EMUI" />
@@ -160,7 +162,7 @@
         <item drawable="huawei_fans" />
         <item drawable="vmall" />
 
-    <category title="nubia" />
+    <category title="Nubia" />
         <item drawable="nubia_app_fenshen" />
         <item drawable="nubia_bbs" />
         <item drawable="nubia_clean" />
@@ -184,8 +186,15 @@
         <item drawable="smartisan_notes" />
         <item drawable="smartisanos_mover" />
 
-    <category title="Game" /><!-- Copy game icons here from All category -->
+    <category title="OPPO" />
+        <item drawable="oppo_compass" />
+        <item drawable="oppo_files" />
+        <item drawable="oppo_menber" />
+        <item drawable="oppo_music" />
+        <item drawable="oppo_security" />
+        <item drawable="oppo_sound_recorder" />
 
+    <category title="Games" /><!-- Copy game icons here from All category -->
         <item drawable="benghuai3"/>
         <item drawable="cjzc" />
         <item drawable="dancing_line" />
@@ -251,9 +260,9 @@
         <item drawable="bilibili_link" />
         <item drawable="blued" />
         <item drawable="blued_1" />
+        <item drawable="blued_hook" />
         <item drawable="blued_hook_1" />
         <item drawable="blued_int" />
-        <item drawable="bluedhook" />
         <item drawable="bmap" />
         <item drawable="boc" />
         <item drawable="browser" />
@@ -400,7 +409,6 @@
         <item drawable="jd_jinrong" />
         <item drawable="jike" />
         <item drawable="jmail" />
-        <item drawable="jsyh" />
         <item drawable="keep" />
         <item drawable="kihan" />
         <item drawable="kugou_music" />
@@ -408,6 +416,7 @@
         <item drawable="lawnchair" />
         <item drawable="lbe_security" />
         <item drawable="linos_recorder" />
+        <item drawable="lovelycat" />
         <item drawable="lp_iconpack" />
         <item drawable="lushi" />
         <item drawable="lxqw" />
@@ -428,10 +437,12 @@
         <item drawable="miui_compass" />
         <item drawable="miui_forum" />
         <item drawable="miui_market" />
+        <item drawable="miui_music" />
         <item drawable="miui_note" />
         <item drawable="miui_security" />
         <item drawable="miui_support" />
         <item drawable="miui_wallet" />
+        <item drawable="miui_xiao_ai" />
         <item drawable="mix_explorer" />
         <item drawable="mobai" />
         <item drawable="mobile_collaboration" />
@@ -488,9 +499,12 @@
         <item drawable="oneplus_music" />
         <item drawable="oneplus_note" />
         <item drawable="oneplus_soundrecorder" />
+        <item drawable="oppo_compass" />
         <item drawable="oppo_files" />
+        <item drawable="oppo_menber" />
         <item drawable="oppo_music" />
         <item drawable="oppo_security" />
+        <item drawable="oppo_sound_recorder" />
         <item drawable="pandatv" />
         <item drawable="peini" />
         <item drawable="phone" />
@@ -582,6 +596,7 @@
         <item drawable="total_launcher" />
         <item drawable="tray" />
         <item drawable="tripview_lite" />
+        <item drawable="tumblr" />
         <item drawable="twitter" />
         <item drawable="twrp" />
         <item drawable="uc_browser" />

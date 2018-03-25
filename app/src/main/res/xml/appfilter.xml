@@ -150,7 +150,7 @@
     <item component="ComponentInfo{com.lewa.player/com.lewa.player.activity.SplashActivity}" drawable="music" />
     <item component="ComponentInfo{com.lge.music/com.lge.music.MusicBrowserActivity}" drawable="music" />
     <item component="ComponentInfo{com.meizu.media.music/com.meizu.media.music.MusicActivity}" drawable="music" />
-    <item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="music" />
+    <item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="miui_music" />
     <item component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" drawable="oppo_music" />
     <item component="ComponentInfo{com.qiku.music/com.android.music.MusicPlayerTab}" drawable="music" />
     <item component="ComponentInfo{com.samsung.android.app.music.chn/com.sec.android.app.music.common.activity.MusicMainActivity}" drawable="music" />
@@ -462,6 +462,7 @@
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings"/>
     <item component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}" drawable="settings"/>
     <item component="ComponentInfo{com.sunrise.scmbhc/com.sunrise.scmbhc.ui.activity.loading.LoadingActivity}" drawable="chinamobile"/>
+    <item component="ComponentInfo{com.kingpoint.gmcchh/com.kingpoint.gmcchh.newui.main.skeleton.view.SkeletonActivity}" drawable="chinamobile" />
     <item component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.leadeon.cmcc.base.StartPageActivity}" drawable="chinamobile"/>
     <item component="ComponentInfo{com.jsmcc/com.jsmcc.ui.WelcomeActivity}" drawable="chinamobile"/>
     <item component="ComponentInfo{com.xinyue.gsmobilewxzt/com.xinyue.gsmobilewxzt.activitys.SplashActivity}" drawable="chinamobile"/>
@@ -736,10 +737,13 @@
     <item component="ComponentInfo{com.antutu.ABenchMark/com.antutu.ABenchMark.ABenchMarkStart}" drawable="antutu" />
     <item component="ComponentInfo{com.baidu.browser.apps/com.baidu.browser.framework.BdBrowserActivity}" drawable="baidu_browser" />
     <item component="ComponentInfo{com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen}" drawable="baidu_map" />
+    <item component="ComponentInfo{com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen}" drawable="baidu_map" />
+    <item component="ComponentInfo{com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen}" drawable="baidu_map" />
     <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="camscanner" />
     <item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.ui.activity.MainActivity}" drawable="geometric_weather" />
     <item component="ComponentInfo{ml.puredark.hviewer/ml.puredark.hviewer.ui.activities.LockActivity}" drawable="h_viewer" />
     <item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.LanternMainActivity_}" drawable="lantern" />
+    <item component="ComponentInfo{pro.com.lantern/pro.com.lantern.AppStart}" drawable="lantern" />
     <item component="ComponentInfo{com.lbe.security/com.lbe.security.ui.SplashActivity}" drawable="lbe_security" />
     <item component="ComponentInfo{com.chaozh.iReaderNubia/com.chaozh.iReader.ui.activity.WelcomeActivity}" drawable="neoreader" />
     <item component="ComponentInfo{com.kabouzeid.gramophone.pro/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph" />
@@ -867,13 +871,18 @@
     <item component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.biz.ad.AdActivity}" drawable="netease_news" />
     <item component="ComponentInfo{com.smartisan.notes/com.smartisan.notes.NewNotesActivity}" drawable="smartisan_notes" />
     <item component="ComponentInfo{com.youdao.note/com.youdao.note.activity2.SplashActivity}" drawable="youdao_net_note" />
-    <!-- B612咔叽 / B612咔叽 -->
     <item component="ComponentInfo{com.campmobile.snowcamera/com.linecorp.b612.android.activity.ActivityCamera}" drawable="b612" />
-    <!-- B612 / B612 -->
     <item component="ComponentInfo{com.linecorp.b612.android/com.linecorp.b612.android.activity.ActivityCamera}" drawable="b612" />
-    <!-- b612激萌卖萌相机 / b612激萌卖萌相机 -->
     <item component="ComponentInfo{com.aneeeoft.rmvu.delaed/com.qihoo.util.StartActivity}" drawable="b612_jimeng" />
-
+    <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
+    <item component="ComponentInfo{com.android.systemui/com.android.systemui.flashlight.FlashlightActivity}" drawable="torch" />
+    <item component="ComponentInfo{com.lemon.faceu/com.lemon.faceu.login.LoadingPageActivity}" drawable="" />
+    <item component="ComponentInfo{com.lovelycat/com.lovelycat.activity.SplashActivity}" drawable="lovelycat" />
+    <item component="ComponentInfo{com.yeyebbc.meeye.iconpack/.MainActivity}" drawable="meeye" />
+    <item component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}" drawable="audiofx" />
+    <item component="ComponentInfo{com.miui.voiceassist/com.xiaomi.voiceassistant.CTAAlertActivity}" drawable="miui_xiao_ai" />
+    <item component="ComponentInfo{com.lemon.faceu/com.lemon.faceu.login.LoadingPageActivity}" drawable="b612_jimeng" />
+    <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="audiofx" />
 
 
 
