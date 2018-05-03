@@ -35,7 +35,7 @@
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchTasksActivity}" prefix="calendar_d" />
     <!--<item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar_dynamic" />-->
     <item component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}" prefix="calendar_dynamic" />
+    <item component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
     <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar_dynamic" />
     <item component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="googlecalendar" />
@@ -783,6 +783,7 @@
     <item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.ui.activities.MainActivity}" drawable="retro_music" />
     <item component="ComponentInfo{com.tencent.tmgp.cf/com.tencent.tmgp.cf.AFMainActivity}" drawable="tmgp_cf" />
     <item component="ComponentInfo{yyc.xk/yyc.xk.MainActivity}" drawable="xk_wallpaper" />
+    <item component="ComponentInfo{yyc.xk/.adview}" drawable="xk_wallpaper" />
     <item component="ComponentInfo{com.ktls.fileinfo/com.ktls.fileinfo.MainSDClear}" drawable="sdcleaner" />
     <item component="ComponentInfo{cn.nubia.nubiashop/cn.nubia.nubiashop.ShopStartActivity}" drawable="nubia_store" />
     <item component="ComponentInfo{com.lovebizhi.wallpaper/com.lovebizhi.wallpaper.WelcomeActivity}" drawable="lovebizhi" />
@@ -876,19 +877,104 @@
     <item component="ComponentInfo{com.aneeeoft.rmvu.delaed/com.qihoo.util.StartActivity}" drawable="b612_jimeng" />
     <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
     <item component="ComponentInfo{com.android.systemui/com.android.systemui.flashlight.FlashlightActivity}" drawable="torch" />
-    <item component="ComponentInfo{com.lemon.faceu/com.lemon.faceu.login.LoadingPageActivity}" drawable="" />
+    <item component="ComponentInfo{com.lemon.faceu/com.lemon.faceu.login.LoadingPageActivity}" drawable="faceu" />
     <item component="ComponentInfo{com.lovelycat/com.lovelycat.activity.SplashActivity}" drawable="lovelycat" />
     <item component="ComponentInfo{com.yeyebbc.meeye.iconpack/.MainActivity}" drawable="meeye" />
     <item component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}" drawable="audiofx" />
+    <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="audiofx" />
     <item component="ComponentInfo{com.miui.voiceassist/com.xiaomi.voiceassistant.CTAAlertActivity}" drawable="miui_xiao_ai" />
     <item component="ComponentInfo{com.lemon.faceu/com.lemon.faceu.login.LoadingPageActivity}" drawable="b612_jimeng" />
     <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="audiofx" />
-
-
-
-
-
-
-
+    <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.RootActivity}" drawable="tumblr" />
+    <item component="ComponentInfo{com.downloading.main.baiduyundownload/com.downloading.main.baiduyundownload.ui.S}" drawable="village" />
+    <item component="ComponentInfo{com.anyview/com.anyview.Splash}" drawable="anyview" />
+    <item component="ComponentInfo{com.anyviey/com.anyviey.Splash}" drawable="anyview" />
+    <item component="ComponentInfo{com.adnonstop.mancamera2017/com.adnonstop.mancamera2017.CamHomme}" drawable="mancamera" />
+    <item component="ComponentInfo{com.oneplus.opbugreport/com.oneplus.opbugreport.OPUploadReport}" drawable="oneplus_opbugreport" />
+    <item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="samsung_health" />
+    <item component="ComponentInfo{com.samsung.android.app.sreminder/com.samsung.android.app.sreminder.phone.cardlist.SReminderActivity}" drawable="samsung_assistant" />
+    <item component="ComponentInfo{com.samsung.android.gametuner.thin/com.samsung.android.gametuner.thin.activity.SplashActivity}" drawable="samsung_game_tuner" />
+    <item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="samsung_game_launcher" />
+    <item component="ComponentInfo{com.samsung.android.sm_cn/com.samsung.android.sm.ui.cstyleboard.SmartManagerDashBoardActivity}" drawable="samsung_smart_manager" />
+    <item component="ComponentInfo{com.mci.smagazine/com.chaozh.iReader.ui.activity.WelcomeActivity}" drawable="samsung_magazine" />
+    <item component="ComponentInfo{com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity}" drawable="samsung_pay" />
+    <item component="ComponentInfo{kh.android.dir/kh.android.dir.ui.activities.CleanActivity}" drawable="dir" />
+    <item component="ComponentInfo{kh.android.dir/kh.android.dir.ui.activities.MDMainActivity}" drawable="dir" />
+    <item component="ComponentInfo{kh.android.dir/kh.android.dir.ui.CleanActivity}" drawable="dir" />
+    <item component="ComponentInfo{kh.android.dir/kh.android.dir.ui.Icons.EntryWithChildish}" drawable="dir" />
+    <item component="ComponentInfo{kh.android.dir/kh.android.dir.ui.Icons.EntryWithDBinK}" drawable="dir" />
+    <item component="ComponentInfo{kh.android.dir/kh.android.dir.ui.Icons.EntryWithDefIcon}" drawable="dir" />
+    <item component="ComponentInfo{kh.android.dir/kh.android.dir.ui.Icons.EntryWithGreenIcon}" drawable="dir" />
+    <item component="ComponentInfo{kh.android.dir/kh.android.dir.ui.Icons.EntryWithMaterialIcon}" drawable="dir" />
+    <item component="ComponentInfo{com.taobao.trip/com.alipay.mobile.quinox.LauncherActivity}" drawable="feizhu" />
+    <item component="ComponentInfo{com.skytouch.monument.hk/com.skytouch.monument.MainActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.tencent.tmgp.jnbg2.gm/com.google.littleDog.SplashActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.tencent.tmgp.jnbg2/com.aiwu.Splash}" drawable="monument" />
+    <item component="ComponentInfo{com.tencent.tmgp.jnbg2/com.dbgj.stasdk.activity.StaWelcomeActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.tencent.tmgp.jnbg2/com.game.god.FaActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.tencent.tmgp.jnbg2/com.tencent.tmgp.jnbg2.MGameActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.tencent.tmgp.jnbg2/com.ustwo.monumentvalley2china.MGameActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley.abc/com.example.assetexam.Welcome}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley.abc/com.qihoo.util.StartActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley.abc/com.vqs.unzip.UnzipActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley.vqs/com.qihoo.util.StartActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/com.aiwu.Splash}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/com.example.StatisticsActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/com.game.god.FaActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/com.game.nc.PreActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/com.pa.packages.UnzipActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/com.qiqiersan.sdk.QqesShellActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/com.ustwo.deviceutil.MainActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/com.ustwo.monumentvalley.f3.app.StartActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/com.ustwo.monumentvalley.SplashActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/com.YouGaisData.YouGaisdataJ}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/com.zhizhuang.MainActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley/vHRkNqOOVpA.pDfaUz.zOZr.exlht.lQAv}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley2/com.ustwo.androidplugins.MainActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley2/com.vicky.gameplugin.LewanPluginActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley2/com.weico.mm.WeicoActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz.bd/com.idsky.android.impl.ui.IdskySplashActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz.egame/com.idsky.android.impl.ui.IdskySplashActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz.huawei/com.ustwo.monumentvalleyzz.huawei.MyMainActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz.kv/com.idsky.android.impl.ui.IdskySplashActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz.m4399/com.pubsky.game.impl.ui.SplashActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz.taptap/com.idsky.android.impl.ui.IdskySplashActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz.taptap/com.ustwo.monumentvalleyzz.MyMainActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz.tencent/com.templerun2.SkyNetPluginActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz.uc/com.idsky.android.impl.ui.IdskySplashActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz/cn.cmgame.billing.api.GameOpenActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz/com.aiwu.Splash}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz/com.fx.gg.KPActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz/com.idsky.android.impl.ui.IdskySplashActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz/com.skynetpay.android.impl.ui.SkynetSplashActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz/com.ustwo.deviceutil.MainActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz/xcWwEV.jieJJB.lXXQD}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz360/com.idsky.android.impl.ui.IdskySplashActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.ustwo.monumentvalleyzz360/com.qiqiersan.sdk.QqesShellActivity}" drawable="monument" />
+    <item component="ComponentInfo{com.sorcerer.sorcery.iconpack/com.sorcerer.sorcery.iconpack.MainActivity}" drawable="sorcery" />
+    <item component="ComponentInfo{com.sorcerer.sorcery.iconpack/com.sorcerer.sorcery.iconpack.ui.activities.MainActivity}" drawable="sorcery" />
+    <item component="ComponentInfo{com.sorcerer.sorcery.iconpacl/com.sorcerer.sorcery.iconpacl.MainActivity}" drawable="sorcery" />
+    <item component="ComponentInfo{com.miui.wujie.iconpack/com.sorcerer.sorcery.iconpack.MainActivity}" drawable="sorcery" />
+    <item component="ComponentInfo{com.adobe.creativeapps.draw/com.adobe.creativeapps.draw.activity.SplashActivity}" drawable="adobe_draw" />
+    <item component="ComponentInfo{com.adobe.flashplayer/com.adobe.flashplayer.SettingsManager}" drawable="adobe_flashplayer" />
+    <item component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}" drawable="adobe_lrmobile" />
+    <item component="ComponentInfo{com.duokan.reader/com.duokan.reader.DkReaderActivity}" drawable="duokan_reader" />
+    <item component="ComponentInfo{com.pubgm/com.pubgm.UserActivity}" drawable="pubgm" />
+    <item component="ComponentInfo{com.qq.qcloud/com.qq.qcloud.activity.WeiyunRootActivity}" drawable="qcloud" />
+    <item component="ComponentInfo{com.smartisanos.sara/com.smartisanos.sara.bubble.SettingActivity}" drawable="smartisan_idearpills" />
+    <item component="ComponentInfo{com.z28j.feel/com.z28j.feel.HomeActivity}" drawable="shenqi_browser" />
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.SplashScreenActivity}" drawable="dianping" />
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.main.permission.PermissionActivity}" drawable="dianping" />
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.base.permission.PermissionActivity}" drawable="dianping" />
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.SplashScreenActivity}" drawable="dianping" />
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.main.permission.PermissionActivity}" drawable="dianping" />
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.v1.PermissionActivity}" drawable="dianping" />
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.v1.SplashScreenActivity}" drawable="dianping" />
+    <item component="ComponentInfo{com.dianping.v1/com.qihoo.util.StartActivity}" drawable="dianping" />
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.SplashScreenActivity}" drawable="dianping" />
+    <item component="ComponentInfo{com.flyersoft.seekbooks/com.flyersoft.seekbooks.ActivityMain}" drawable="seekbooks" />
+    <item component="ComponentInfo{com.smzdm.client.android/com.smzdm.client.android.activity.WelComeActivity}" drawable="smzdm" />
+    <item component="ComponentInfo{com.taobao.movie.android/com.taobao.movie.android.app.home.activity.SplashActivity}" drawable="taobao_movie" />
+    <item component="ComponentInfo{com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity}" drawable="xiaomi_shop" />
 
 </resources>

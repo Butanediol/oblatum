@@ -26,11 +26,16 @@
       <item>      Actinium    </item>
       <item>      Action启动器   </item>
       <item>      ADM   </item>
+      <item>      Adobe Draw  </item>
+      <item>      Adobe Flash Player      </item>
+      <item>      Adobe Photoshop Lightroom     </item>
+      <item>      Adobe Shape </item>
       <item>      AIDE  </item>
       <item>      支付宝   </item>
       <item>      充电测评  </item>
       <item>      Android Pay </item>
       <item>      安兔兔   </item>
+      <item>      Anyview阅读器  </item>
       <item>      Apex启动器     </item>
       <item>      应用商店  </item>
       <item>      Apkpure     </item>
@@ -90,9 +95,11 @@
       <item>      酷安    </item>
       <item>      Cortana     </item>
       <item>      跳舞的线  </item>
+      <item>      大众点评  </item>
       <item>      嘀嘀打车  </item>
       <item>      数字尾巴  </item>
       <item>      钉钉    </item>
+      <item>      Dir   </item>
       <item>      去特么的密码      </item>
       <item>      豆瓣    </item>
       <item>      抖音    </item>
@@ -100,6 +107,7 @@
       <item>      下载    </item>
       <item>      抽屉    </item>
       <item>      抽屉    </item>
+      <item>      多看阅读  </item>
       <item>      Google Earth      </item>
       <item>      Ehviewer    </item>
       <item>      饿了么   </item>
@@ -134,13 +142,17 @@
       <item>      欧路词典  </item>
       <item>      印象笔记  </item>
       <item>      Facebook    </item>
+      <item>      飞猪    </item>
       <item>      文件    </item>
       <item>      Files Go    </item>
       <item>      Google Fit  </item>
       <item>      Google 文件夹  </item>
+      <item>      图标包 文件夹     </item>
+      <item>            </item>
       <item>      支付 文件夹      </item>
       <item>      照片 文件夹      </item>
       <item>      系统 文件夹      </item>
+      <item>      Xposed文件夹   </item>
       <item>      FV浮动阅览器     </item>
       <item>      相册    </item>
       <item>      GameGuardian      </item>
@@ -184,6 +196,7 @@
       <item>      环聊    </item>
       <item>      欢欢浏览器 </item>
       <item>      黑域    </item>
+      <item>      哈罗单车  </item>
       <item>      Hola桌面      </item>
       <item>      Holi天气      </item>
       <item>      花生地铁WiFi    </item>
@@ -221,6 +234,7 @@
       <item>      旅行青蛙  </item>
       <item>      MagiskManager     </item>
       <item>      墨墨背单词 </item>
+      <item>      型男相机  </item>
       <item>      漫游    </item>
       <item>      二维码   </item>
       <item>      Meeye图标包    </item>
@@ -234,9 +248,13 @@
       <item>      我的世界  </item>
       <item>      小米系统级推送     </item>
       <item>      MIUI指南针     </item>
+      <item>      MIUI反馈      </item>
       <item>      MIUI论坛      </item>
+      <item>      MIUI游戏中心    </item>
+      <item>            </item>
       <item>      MIUI应用商店    </item>
       <item>      MIUI音乐      </item>
+      <item>      小米资讯  </item>
       <item>      MIUI便签      </item>
       <item>      MIUI安全中心    </item>
       <item>      MIUI服务      </item>
@@ -247,6 +265,7 @@
       <item>      移动协同  </item>
       <item>      宙斯盾   </item>
       <item>      魔趣中心  </item>
+      <item>      纪念碑谷  </item>
       <item>      静读天下  </item>
       <item>      信息    </item>
       <item>      信息    </item>
@@ -258,11 +277,13 @@
       <item>      NeoReader   </item>
       <item>      网易云音乐 </item>
       <item>      网易云音乐 </item>
+      <item>      网易云音乐 </item>
       <item>      决战！平安京      </item>
       <item>      决战！平安京      </item>
       <item>      网易新闻  </item>
       <item>      网易UU加速器     </item>
       <item>      网易云音乐歌词助手   </item>
+      <item>      500+新图标     </item>
       <item>      Google新闻和天气 </item>
       <item>      Nova启动器     </item>
       <item>      Nova设置      </item>
@@ -296,6 +317,7 @@
       <item>      一加相册  </item>
       <item>      一加音乐  </item>
       <item>      一加便签  </item>
+      <item>      一加用户反馈      </item>
       <item>      一加录音机 </item>
       <item>      OPPO指南针     </item>
       <item>      OPPO文件管理器   </item>
@@ -317,10 +339,13 @@
       <item>      PPIICC      </item>
       <item>      中国邮政储蓄银行    </item>
       <item>      PS Touch    </item>
+      <item>            </item>
+      <item>            </item>
       <item>      Pure图标包     </item>
       <item>      Pure图标包Lite </item>
       <item>      Pure天气      </item>
       <item>      PureTie     </item>
+      <item>      微云    </item>
       <item>      QQ    </item>
       <item>      QQ    </item>
       <item>      QQ    </item>
@@ -338,20 +363,32 @@
       <item>      register    </item>
       <item>      Retro Music </item>
       <item>      RE管理器 </item>
+      <item>      三星助手  </item>
+      <item>      游戏中心  </item>
+      <item>      游戏调节器 </item>
+      <item>      三星健康  </item>
+      <item>      三星阅读  </item>
+      <item>      Samsung Pay </item>
+      <item>      智能管理器 </item>
       <item>      储存空间清理      </item>
+      <item>      搜书大师  </item>
       <item>      设置    </item>
       <item>      设置    </item>
       <item>      设置    </item>
       <item>      岁寒输入法 </item>
       <item>      岁寒输入法 </item>
       <item>      Share </item>
+      <item>      神奇浏览器 </item>
       <item>      Shuttle     </item>
       <item>      SIM卡工具包     </item>
       <item>      SketchBook  </item>
       <item>      锤子科技论坛      </item>
       <item>      锤子 驾驶模式     </item>
+      <item>      闪念胶囊  </item>
       <item>      锤子便签  </item>
+      <item>      OneStep     </item>
       <item>      转至锤子  </item>
+      <item>      什么值得买 </item>
       <item>      Snapseed    </item>
       <item>      Snapseed    </item>
       <item>      SnapVPN     </item>
@@ -362,6 +399,7 @@
       <item>      Support     </item>
       <item>      3D Creator  </item>
       <item>      What's new  </item>
+      <item>      Sorcery图标   </item>
       <item>      搜狗输入法 </item>
       <item>      Soundcloud  </item>
       <item>      Shadowsocks </item>
@@ -375,6 +413,7 @@
       <item>      12306 </item>
       <item>      淘宝    </item>
       <item>      闲鱼    </item>
+      <item>      淘票票   </item>
       <item>      TapTap      </item>
       <item>      Telegram    </item>
       <item>      Telegram X  </item>
@@ -421,6 +460,7 @@
       <item>      XDA   </item>
       <item>      西瓜视频  </item>
       <item>      虾米音乐  </item>
+      <item>      小米商城  </item>
       <item>      星空视频壁纸      </item>
       <item>      小米健康  </item>
       <item>      小米枪战  </item>

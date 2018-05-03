@@ -26,11 +26,16 @@
         <item>actinium</item>
         <item>action_launcher</item>
         <item>adm_pro</item>
+        <item>adobe_draw</item>
+        <item>adobe_flashplayer</item>
+        <item>adobe_lrmobile</item>
+        <item>adobe_shape</item>
         <item>aide</item>
         <item>alipay</item>
         <item>ampere</item>
         <item>android_pay</item>
         <item>antutu</item>
+        <item>anyview</item>
         <item>apex</item>
         <item>apk_store</item>
         <item>apkpure</item>
@@ -90,9 +95,11 @@
         <item>coolapk</item>
         <item>cortana</item>
         <item>dancing_line</item>
+        <item>dianping</item>
         <item>didi</item>
         <item>digit</item>
         <item>ding_talk</item>
+        <item>dir</item>
         <item>dizzypassword</item>
         <item>douban</item>
         <item>douyin</item>
@@ -100,6 +107,7 @@
         <item>download</item>
         <item>drawer</item>
         <item>drawer_1</item>
+        <item>duokan_reader</item>
         <item>earth</item>
         <item>eh_viewer</item>
         <item>eleme</item>
@@ -134,13 +142,17 @@
         <item>eudic_dictionary</item>
         <item>evernote</item>
         <item>facebook</item>
+        <item>feizhu</item>
         <item>files</item>
         <item>files_go</item>
         <item>fit</item>
         <item>folder_google</item>
+        <item>folder_iconpack</item>
+        <item>folder_masturbation</item>
         <item>folder_payment</item>
         <item>folder_photo_editor</item>
         <item>folder_system</item>
+        <item>folder_xposed</item>
         <item>fooview</item>
         <item>gallery</item>
         <item>gameguardian</item>
@@ -184,6 +196,7 @@
         <item>hangouts</item>
         <item>happy_browser</item>
         <item>heiyu</item>
+        <item>hellobike</item>
         <item>hola</item>
         <item>holi_weather</item>
         <item>hsbb</item>
@@ -221,6 +234,7 @@
         <item>lxqw</item>
         <item>magisk_manager</item>
         <item>maimemo</item>
+        <item>mancamera</item>
         <item>manyou</item>
         <item>mark_qrcode</item>
         <item>meeye</item>
@@ -234,9 +248,13 @@
         <item>minecraft</item>
         <item>mipush</item>
         <item>miui_compass</item>
+        <item>miui_feedback</item>
         <item>miui_forum</item>
+        <item>miui_gamecenter</item>
+        <item>miui_live</item>
         <item>miui_market</item>
         <item>miui_music</item>
+        <item>miui_news</item>
         <item>miui_note</item>
         <item>miui_security</item>
         <item>miui_support</item>
@@ -247,6 +265,7 @@
         <item>mobile_collaboration</item>
         <item>mokee_aegis</item>
         <item>mokee_center</item>
+        <item>monument</item>
         <item>moonreader</item>
         <item>msm</item>
         <item>msm_1</item>
@@ -257,12 +276,14 @@
         <item>nano</item>
         <item>neoreader</item>
         <item>netease_cloudmusic</item>
+        <item>netease_cloudmusic_0</item>
         <item>netease_cloudmusic_1</item>
         <item>netease_moba</item>
         <item>netease_moba_bili</item>
         <item>netease_news</item>
         <item>netease_uu</item>
         <item>neteasemusic_lyrics_helper</item>
+        <item>new500</item>
         <item>news_and_weather</item>
         <item>novalauncher</item>
         <item>novasetting</item>
@@ -296,6 +317,7 @@
         <item>oneplus_gallery</item>
         <item>oneplus_music</item>
         <item>oneplus_note</item>
+        <item>oneplus_opbugreport</item>
         <item>oneplus_soundrecorder</item>
         <item>oppo_compass</item>
         <item>oppo_files</item>
@@ -317,10 +339,13 @@
         <item>ppiicc</item>
         <item>psbc</item>
         <item>pstouch</item>
+        <item>pubgm</item>
+        <item>pubgmhd</item>
         <item>pure_icon_pack</item>
         <item>pure_icon_pack_lite</item>
         <item>pure_weather</item>
         <item>puretie</item>
+        <item>qcloud</item>
         <item>qq</item>
         <item>qq_1</item>
         <item>qq_2</item>
@@ -338,20 +363,32 @@
         <item>register</item>
         <item>retro_music</item>
         <item>root_explorer</item>
+        <item>samsung_assistant</item>
+        <item>samsung_game_launcher</item>
+        <item>samsung_game_tuner</item>
+        <item>samsung_health</item>
+        <item>samsung_magazine</item>
+        <item>samsung_pay</item>
+        <item>samsung_smart_manager</item>
         <item>sdcleaner</item>
+        <item>seekbooks</item>
         <item>setting</item>
         <item>settings</item>
         <item>settings_1</item>
         <item>sh_inputs</item>
         <item>sh_inputs_1</item>
         <item>share</item>
+        <item>shenqi_browser</item>
         <item>shuttle</item>
         <item>sim_toolkit</item>
         <item>sketchbook</item>
         <item>smartisan_bbs</item>
         <item>smartisan_drivingmode</item>
+        <item>smartisan_idearpills</item>
         <item>smartisan_notes</item>
+        <item>smartisan_onestep</item>
         <item>smartisanos_mover</item>
+        <item>smzdm</item>
         <item>snapseed</item>
         <item>snapseed_1</item>
         <item>snapvpn</item>
@@ -362,6 +399,7 @@
         <item>sony_support</item>
         <item>sony_threed_creator</item>
         <item>sony_what_is_new</item>
+        <item>sorcery</item>
         <item>sougou_input</item>
         <item>soundcloud</item>
         <item>ss</item>
@@ -375,6 +413,7 @@
         <item>t_12306</item>
         <item>taobao</item>
         <item>taobao_islefish</item>
+        <item>taobao_movie</item>
         <item>taptap</item>
         <item>telegram</item>
         <item>telegram_x</item>
@@ -421,6 +460,7 @@
         <item>xda_lab</item>
         <item>xgsp</item>
         <item>xiami_music</item>
+        <item>xiaomi_shop</item>
         <item>xk_wallpaper</item>
         <item>xmhealth</item>
         <item>xmqz</item>
@@ -443,7 +483,6 @@
         <item>zhihu</item>
         <item>zhihu_daily</item>
         <item>zhuishu</item>
-
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
@@ -455,12 +494,11 @@
     <!-- Latest icons (Make sure it's from the icons array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>lovelycat</item>
-        <item>miui_music</item>
-        <item>miui_xiao_ai</item>
-        <item>oppo_compass</item>
-        <item>oppo_menber</item>
-        <item>oppo_sound_recorder</item>
-        <item>tumblr</item>
+        <item>dianping</item>
+        <item>netease_cloudmusic</item>
+        <item>seekbooks</item>
+        <item>smzdm</item>
+        <item>taobao_movie</item>
+        <item>xiaomi_shop</item>
     </string-array>
 </resources>

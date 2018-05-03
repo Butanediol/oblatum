@@ -1,0 +1,1117 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"openFile"
+			],
+			[
+				"r",
+				"rawSentense"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"a",
+				"ageNum"
+			],
+			[
+				"print",
+				"printTime"
+			],
+			[
+				"xm",
+				"xml_folder"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"quic",
+				"quick_pic"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"onep",
+				"oneplus_bbs"
+			],
+			[
+				"cent",
+				"center-align"
+			],
+			[
+				"wifi",
+				"wifilocating"
+			],
+			[
+				"netea",
+				"netease_moba"
+			],
+			[
+				"goog",
+				"google_allo"
+			],
+			[
+				"miui_m",
+				"miui_manyou"
+			],
+			[
+				"snap",
+				"snapseed"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"waves",
+				"waves-light"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"if",
+				"ifNeg"
+			],
+			[
+				"str",
+				"str1"
+			],
+			[
+				"mo",
+				"moves"
+			],
+			[
+				"mov",
+				"move_record"
+			],
+			[
+				"material",
+				"material-icons"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!-- Tumblr / Tumblr -->\n<item component=\"ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}\" drawable=\"tumblr\" />\n<!-- 手电筒 / System UI -->\n<item component=\"ComponentInfo{com.android.systemui/com.android.systemui.flashlight.FlashlightActivity}\" drawable=\"torch\" />\n<!-- Faceu激萌 / Faceu激萌 -->\n<item component=\"ComponentInfo{com.lemon.faceu/com.lemon.faceu.login.LoadingPageActivity}\" drawable=\"\" />\n<!-- 猫咪 / 猫咪 -->\n<item component=\"ComponentInfo{com.lovelycat/com.lovelycat.activity.SplashActivity}\" drawable=\"lovelycat\" />\n<item component=\"ComponentInfo{com.yeyebbc.meeye.iconpack/.MainActivity}\" drawable=\"meeye\" />\n<!-- AudioFX / AudioFX -->\n<item component=\"ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}\" drawable=\"audiofx\" />\n<!-- 小爱同学 / Xiao Ai -->\n<item component=\"ComponentInfo{com.miui.voiceassist/com.xiaomi.voiceassistant.CTAAlertActivity}\" drawable=\"miui_xiao_ai\" />\n<!-- Faceu激萌 / Faceu激萌 -->\n<item component=\"ComponentInfo{com.lemon.faceu/com.lemon.faceu.login.LoadingPageActivity}\" drawable=\"b612_jimeng\" />\n",
+			"settings":
+			{
+				"buffer_size": 1073,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/src/main/res/xml/drawable.xml",
+			"settings":
+			{
+				"buffer_size": 24722,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/src/main/res/xml/appfilter.xml",
+			"settings":
+			{
+				"buffer_size": 100879,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/src/main/res/values-zh/icon_pack.xml",
+			"settings":
+			{
+				"buffer_size": 15772,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/src/main/res/values/icon_pack.xml",
+			"settings":
+			{
+				"buffer_size": 15051,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C-terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C-terminal.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C-terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C-terminal.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C-terminal.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "theme",
+		"selected_items":
+		[
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python3"
+			],
+			[
+				"python3",
+				"Set Syntax: Python3"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"package setting",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"toggle",
+				"View: Toggle Status Bar"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bu",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"build",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			],
+			[
+				"INsta",
+				"Package Control: Install Package"
+			],
+			[
+				"THEME",
+				"UI: Select Color Scheme"
+			],
+			[
+				"run",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"r",
+				"Build With: C++ Single File - Run"
+			]
+		],
+		"width": 501.0
+	},
+	"console":
+	{
+		"height": 374.0,
+		"history":
+		[
+			"install",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/LXC/Documents/Oblatum/app/src/main/res"
+	],
+	"file_history":
+	[
+		"/Users/LXC/Desktop/icon_pack.xml",
+		"/Users/LXC/Documents/Oblatum/app/src/main/res/values-zh/icon_pack.xml",
+		"/Users/LXC/Documents/Oblatum/app/src/main/res/values/icon_pack.xml",
+		"/Applications/Cataclysm.app/Contents/MacOS/Cataclysm.sh",
+		"/Users/LXC/Documents/calcV.py",
+		"/Users/LXC/Desktop/1.py",
+		"/Users/LXC/Documents/calcv2.py",
+		"/Users/LXC/OneDrive - office.mc06.net/Files On Mac/Python Learning/utf-8.py",
+		"/Users/LXC/Desktop/guideline.svg",
+		"/Users/LXC/OneDrive - office.mc06.net/Files On Mac/Python Learning/file.txt",
+		"/Users/LXC/OneDrive - office.mc06.net/Files On Mac/Python Learning/weather.py",
+		"/Users/LXC/OneDrive - office.mc06.net/Files On Mac/Python Learning/1.33.1.py",
+		"/Users/LXC/OneDrive - office.mc06.net/Files On Mac/Python Learning/1.13.2.py",
+		"/Users/LXC/OneDrive - office.mc06.net/Files On Mac/Python Learning/1.13.1.py",
+		"/Users/LXC/Desktop/city.py",
+		"/Users/LXC/Desktop/total.py",
+		"/Users/LXC/Desktop/hello world.py",
+		"/Users/LXC/Downloads/news_spider/bin/homework1.py",
+		"/Users/LXC/Downloads/news_spider/bin/main.py",
+		"/Users/LXC/Documents/elimage/config.py",
+		"/Users/LXC/Desktop/ssr.sh",
+		"/Users/LXC/Documents/aplusb.cpp",
+		"/Users/LXC/Desktop/fcmqq.sh",
+		"/Users/LXC/Documents/AndroidStudioProjects/Oblatum Candybar/app/src/main/res/xml/drawable.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/OblatumIP-Lite/app/src/main/res/xml/drawable.xml",
+		"/Users/LXC/Documents/Oblatum/app/src/main/res/xml/drawable.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/OblatumIP-Lite/app/proguard-rules.pro",
+		"/Users/LXC/Documents/AndroidStudioProjects/Aries/app/proguard-rules.pro",
+		"/Users/LXC/Documents/AndroidStudioProjects/Oblatum Candybar/app/proguard-rules.pro",
+		"/Users/LXC/Documents/AndroidStudioProjects/Oblatum Candybar/gradle.properties",
+		"/Users/LXC/Documents/AndroidStudioProjects/Oblatum Candybar/settings.gradle",
+		"/Users/LXC/Documents/AndroidStudioProjects/OblatumIP-Lite/gradle.properties",
+		"/Users/LXC/Documents/AndroidStudioProjects/Oblatum Candybar/app/build.gradle",
+		"/Users/LXC/Documents/AndroidStudioProjects/OblatumIP-Lite/app/src/main/res/xml/appfilter.xml",
+		"/Users/LXC/Documents/Oblatum/app/src/main/res/xml/appfilter.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/OblatumIP-Lite/app/build.gradle",
+		"/Users/LXC/Desktop/xeHentai-master/xeHentai/config.py",
+		"/Users/LXC/Desktop/xeHentai-master/setup.py",
+		"/Users/LXC/Desktop/xeHentai-master/xeHentai/task.py",
+		"/Users/LXC/Desktop/xeHentai-master/xeHentai/task.pyc",
+		"/Users/LXC/Desktop/solve.py",
+		"/Users/LXC/Desktop/solve.cpp",
+		"/Users/LXC/.ssh/id_rsa",
+		"/Users/LXC/.ssh/id_rsa.pub",
+		"/Users/LXC/Downloads/OnePlus_Slate_Font_Systemless-v1.3/config.sh",
+		"/Users/LXC/Downloads/OnePlus_Slate_Font_Systemless-v1.3/META-INF/com/google/android/update-binary",
+		"/Users/LXC/Downloads/OnePlus_Slate_Font_Systemless-v1.3/META-INF/com/google/android/updater-script",
+		"/Users/LXC/Downloads/OnePlus_Slate_Font_Systemless-v1.3/README.md",
+		"/Users/LXC/Downloads/OnePlus_Slate_Font_Systemless-v1.3/module.prop",
+		"/Users/LXC/Documents/Oblatum/app/src/main/res/generate_iconspackagename_pngs.py",
+		"/Users/LXC/Documents/drawable-nodpi/generate_iconspackagename_pngs.py",
+		"/Users/LXC/Documents/generate_iconspackagename_pngs.py",
+		"/Users/LXC/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/LXC/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/LXC/Desktop/drawable-nodpi/appfilter.xml",
+		"/Users/LXC/Desktop/readme.dms",
+		"/Users/LXC/Documents/Oblatum/app/build.gradle",
+		"/Users/LXC/Desktop/Contest.html",
+		"/private/etc/hosts",
+		"/Users/LXC/Downloads/avenza/con.sh",
+		"/Users/LXC/Downloads/avenza/con.command",
+		"/Users/LXC/Documents/AndroidStudioProjects/Oblatum Candybar/app/src/main/res/values/dashboard_icon_name_replacer.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/Oblatum Candybar/app/src/main/res/xml/appfilter.xml",
+		"/Users/LXC/Desktop/appfilter.xml",
+		"/Users/LXC/Desktop/iconpack.xml",
+		"/Users/LXC/Downloads/去感叹号.bat",
+		"/Users/LXC/Documents/AndroidStudioProjects/Aries/app/src/main/res/values/icon_pack.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/Aries/app/src/main/res/xml/appfilter.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/Aries/app/src/main/res/values-zh/icon_pack.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/Aries/app/src/main/res/xml/drawable.xml",
+		"/Users/LXC/Desktop/Steam.svg",
+		"/Users/LXC/Documents/AndroidStudioProjects/Oblatum Candybar/app/src/main/res/values/changelog.xml",
+		"/Users/LXC/Desktop/gxicon.e123.pw_8082/reqtop2/com.oblatum.iconpack/oblatumdonate%3flimit%3d32%26filter%3dtrue1",
+		"/Users/LXC/Desktop/Untitled.chlsx",
+		"/Users/LXC/Downloads/k/LiteIconActivityV2.java",
+		"/Users/LXC/Downloads/k/LiteIconActivity.java",
+		"/Users/LXC/Downloads/k/LiteIconActivityV1.java",
+		"/Users/LXC/Documents/decompile/Clock_5.2 (4471843)/res/layout/desk_clock.xml",
+		"/Users/LXC/Documents/decompile/Clock_5.2 (4471843)/res/layout/expired_timers_activity.xml",
+		"/Users/LXC/Documents/decompile/Clock_5.2 (4471843)/AndroidManifest.xml",
+		"/Users/LXC/Desktop/1.php",
+		"/Users/LXC/Desktop/1.cpp",
+		"/Users/LXC/Library/Application Support/Sublime Text 3/Packages/User/php.sublime-build",
+		"/Users/LXC/Desktop/DDoS-PHP-Script-master/index.php",
+		"/Users/LXC/Downloads/1.5.0(1)/icon_pack.xml",
+		"/Users/LXC/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Typewriter).sublime-settings",
+		"/Users/LXC/Desktop/1.5.0/icon_pack.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/Aries/app/src/main/res/drawable-nodpi/icon_pack.xml",
+		"/Users/LXC/Desktop/pi.py",
+		"/Users/LXC/Documents/YouTube/res/values/colors.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/OblatumSubstratum/app/src/main/assets/overlays/com.google.android.youtube/values/colors.xml",
+		"/Users/LXC/Documents/YouTube/AndroidManifest.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/Aries/gradle.properties",
+		"/Users/LXC/Desktop/1.4.2/192/z.xml",
+		"/Users/LXC/Desktop/1.4.2/512/z.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/OblatumSubstratum/app/src/main/assets/overlays/com.android.dialer/res/values/colors.xml",
+		"/Users/LXC/Documents/Dialer/res/values/colors.xml",
+		"/Users/LXC/Documents/Dialer/AndroidManifest.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/OblatumSubstratum/app/src/main/assets/overlays/com.android.musicfx/values/colors.xml",
+		"/Users/LXC/Documents/MusicFX/AndroidManifest.xml",
+		"/Users/LXC/Documents/MusicFX/res/values/public.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/OblatumSubstratum/app/src/main/assets/overlays/org.omnirom.deskclock/colors.xml",
+		"/Users/LXC/Documents/AndroidStudioProjects/OblatumSubstratum/app/src/main/assets/overlays/org.omnirom.deskclock/drawable/floating_action_button.xml",
+		"/Users/LXC/Documents/OmniClockOSS/AndroidManifest.xml",
+		"/Users/LXC/Documents/OmniClockOSS/res/drawable/floating_action_button.xml",
+		"/Users/LXC/Downloads/OmniClockOSS/AndroidManifest.xml",
+		"/Users/LXC/Downloads/land_images_8.1.25_20180125.0000.00_6.0_cn/flash_all.command",
+		"/Users/LXC/Downloads/land_images_8.1.25_20180125.0000.00_6.0_cn/flash_all.bat",
+		"/Users/LXC/Downloads/更新/tree.xml",
+		"/Users/LXC/Downloads/更新/Iconpack.command",
+		"/Users/LXC/Downloads/com.concision.iconpack.aries/app/src/main/res/xml/drawable.xml",
+		"/Users/LXC/Downloads/com.concision.iconpack.aries/app/build.gradle",
+		"/Users/LXC/Downloads/com.concision.iconpack.aries/build.gradle",
+		"/Users/LXC/Documents/Oblatum/docs/wallpaper.json",
+		"/Users/LXC/Documents/java/Puppy.java",
+		"/Users/LXC/Documents/java/HelloWorld.java",
+		"/Users/LXC/Documents/java/public class hello.java",
+		"/Users/LXC/Library/Application Support/Sublime Text 3/Packages/User/myJava.sublime-build",
+		"/Users/LXC/Desktop/:* fallback *:",
+		"/Users/LXC/Desktop/baidu_spider-master/CrawlHotWord/README.md",
+		"/Users/LXC/Desktop/materialize/index.html",
+		"/Users/LXC/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/LXC/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/LXC/Downloads/appfilter(2).xml",
+		"/Users/LXC/OneDrive - office.mc06.net/MIUINewThemeEditor_7.10.12_1467269495_jre7/7.10.12_1467269495/run-windows.bat",
+		"/Users/LXC/Desktop/welcome-1.4.1-javadoc.jar",
+		"/Users/LXC/Desktop/zzz.xml",
+		"/Users/LXC/OneDrive - office.mc06.net/MIUINewThemeEditor_7.10.12_1467269495_jre7/7.10.12_1467269495/run-mac.command"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			"/Users/LXC/Desktop/xeHentai-master/xeHentai",
+			"<current file>",
+			"/Users/LXC/Downloads/k",
+			"/Users/LXC/Documents/decompile/Clock_5.2 (4471843)/res/layout",
+			"/Users/LXC/Documents/YouTube",
+			"/Users/LXC/Documents/Dialer,/Users/LXC/Documents/AndroidStudioProjects/Oblatum Candybar",
+			"/Users/LXC/Documents/Dialer",
+			"/Users/LXC/Documents/MusicFX/res",
+			"/Users/LXC/Documents/OmniClockOSS/res",
+			"/Users/LXC/Documents/OmniClockOSS",
+			"/Users/LXC/Documents/OmniClockOSS/res,",
+			"/Users/LXC/Documents/OmniClockOSS/res",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n    <!-- .* -->",
+			"\n    <!-- *  * -->",
+			"\n    <!-- * / * -->",
+			"blued_1",
+			"\t\t",
+			"</item>",
+			"<item>",
+			"OPPO",
+			"miui",
+			"</item>",
+			"<item>",
+			"face",
+			"faceeu",
+			"com.miui.player/com.miui.player.ui.MusicBrowserActivity",
+			"二维码",
+			"blu",
+			"bl",
+			"blued",
+			"bluedh",
+			"blued",
+			"baidu",
+			"lantern",
+			"lant",
+			"lan",
+			"mobile",
+			"移动",
+			"jsy",
+			"js",
+			"jsyh",
+			"bank",
+			"b'a'n'k",
+			"oneplus",
+			"\n    <!-- .* -->",
+			"Blued",
+			"blued",
+			"\t\t",
+			"<item drawable=\"",
+			"\" />",
+			"Oneplus",
+			"</item>",
+			"<item>",
+			"download_thread_cnt",
+			"_cnt",
+			"cnt",
+			"main",
+			"org.lineageos.snap/com.android.camera.CameraLauncher",
+			"camera",
+			"c'a'm",
+			"accu",
+			"piebridge",
+			"\"hy\"",
+			"hy",
+			"h'y",
+			"com.taptap",
+			"bluedhook",
+			"blued'ho'ok",
+			"\n    <!-- .* -->",
+			"What",
+			"锤子",
+			"smart",
+			"blued",
+			"com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity",
+			"<item component=\"ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity}\"",
+			"\n    <!-- .* -->",
+			"<!-- .* -->",
+			"</item>",
+			"<item>",
+			"<item>\t",
+			"\t\t",
+			"</item>",
+			"<item>",
+			"lushi",
+			"ls",
+			"lscs",
+			"lv",
+			"\" />",
+			"<item drawable=\"",
+			"ingre",
+			"<item>  ",
+			" </item>",
+			"  </item>",
+			"    </item>",
+			" ，   ",
+			" ,",
+			"  ，   ",
+			"   ，   ",
+			"</item>",
+			"\t\t<item>",
+			"<item>",
+			"cardboard",
+			"<item component=\"ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}\" draw",
+			"^[\\s]*\\n",
+			"<!-- .* -->",
+			"</item>",
+			"<item>",
+			".png",
+			"├── ",
+			"google_photos",
+			"google_photo",
+			"\t\t",
+			"<item>",
+			"</item>",
+			"<item>",
+			"camera",
+			"recorder",
+			"<item component=\"ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}\" drawable=\"radio\" />",
+			"<item component=\"ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}\" drawable=\"fm_radio\" />",
+			"radio",
+			"<item component=\"ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}\" drawable=\"phone\" />",
+			"audiofx",
+			"zhihu",
+			"phone",
+			"radio",
+			"wallpaper",
+			"锤子",
+			"drawable=\"com_chinamworld_main\"",
+			"\t\t",
+			"</item>",
+			"<item>",
+			"\t\t",
+			"</item>",
+			"<item>",
+			"color",
+			"id/fab",
+			"music",
+			"^[\\s]*\\n",
+			"<!-- .* -->",
+			"^[\\s]*\\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\" />",
+			"<item drawable=\"",
+			"",
+			"\" />",
+			"<item drawable=\"",
+			"",
+			"\" />",
+			"<item drawable=\"",
+			"",
+			"</item>",
+			"<item>",
+			"</item>",
+			",",
+			"",
+			"</item>",
+			"<item>",
+			"",
+			"\" />",
+			"<item drawable=\"",
+			"drawable=\"cbb\"",
+			"",
+			"\" />",
+			"<item drawable=\"",
+			"",
+			"</item>",
+			"<item>",
+			"",
+			"<item drawable=\"",
+			"\" />",
+			"",
+			"drawable=\"apk_store\" />",
+			"\" />",
+			"<item drawable=\"",
+			"",
+			"\" />",
+			"<item drawable=\"",
+			"</item>",
+			"<item>",
+			"",
+			"\" />",
+			"<item drawable=\"",
+			"</item>",
+			"<item>",
+			"</item>",
+			"</item>\n            <item>",
+			"<item>",
+			"",
+			"drawable=\"calendar_dynamic\" />",
+			"<item component=\"",
+			"\" />",
+			"<item drawable=\"",
+			"",
+			"</item>",
+			"<item>",
+			"netease_moba_bili",
+			"Play",
+			"，",
+			"Google ",
+			"",
+			",",
+			"",
+			"\" />",
+			"<item drawable=\"",
+			"</item>",
+			"<item>",
+			"",
+			"\" />",
+			"<item drawable=\"",
+			"</item>",
+			"<item>",
+			"</item>",
+			"<item>",
+			"",
+			"\" />",
+			"<item drawable=\"",
+			"\" />",
+			"<item drawable=\"",
+			"</item>",
+			"<item>",
+			"<item drawable=\"",
+			"\" />",
+			"<category title=\"",
+			"</string>",
+			"<string name=\"app_name\">",
+			"\" />",
+			"<item drawable=\"",
+			"</item>",
+			"<item>",
+			"</item>",
+			"<item>",
+			"\" />",
+			"<item drawable=\"",
+			"</item>",
+			"<item>",
+			"drawable=\"calendar_dynamic\" />",
+			"<item component=\"",
+			"\" />",
+			"<item drawable=\"",
+			"</item>",
+			"<item>",
+			"drawable",
+			"<calendar",
+			"prefix=\"calendar_d\"",
+			"\"download\"",
+			"download",
+			"\"calendar_dynamic\"",
+			"\"calendar_dynamic",
+			"\" />",
+			"<item drawable=\"",
+			"</item>",
+			"<item>",
+			"drawable=\"calendar_dynamic\"",
+			"",
+			"\" />",
+			"<item drawable=\"",
+			"\" />",
+			"<item drawable=\"",
+			"</item>",
+			"<item>",
+			"system_update",
+			"\" />",
+			"<item drawable=\"",
+			"prefix=\"calendar_d\" /",
+			"drawable=\"calendar_d\"/",
+			"bilibili_sftmi",
+			"\" />",
+			"<item drawable=\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/LXC/Documents/Oblatum/app/src/main/res"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1073,
+								1073
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 300.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/src/main/res/xml/drawable.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7015,
+								7015
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/src/main/res/xml/appfilter.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98032,
+								98032
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+							],
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 689.0,
+						"translation.y": 11334.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/src/main/res/values-zh/icon_pack.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2201,
+								2201
+							]
+						],
+						"settings":
+						{
+							"SL.19.region_keys":
+							[
+							],
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "app/src/main/res/values/icon_pack.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14808,
+								14808
+							]
+						],
+						"settings":
+						{
+							"SL.20.region_keys":
+							[
+							],
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5707.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 96.0
+	},
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			],
+			[
+				"c++",
+				"~/Documents/C++/P1089.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 856.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1398.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
