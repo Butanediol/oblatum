@@ -8,3 +8,4 @@ gradlew.bat
 local.properties
 *.iml
 /reserve
+*.jks
