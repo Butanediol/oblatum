@@ -39,8 +39,10 @@
       <item>      Apex启动器     </item>
       <item>      应用商店  </item>
       <item>      Apkpure     </item>
-      <item>      Aries图标包    </item>
+      <item>      Arcaea      </item>
+      <item>      Aries图标包500 </item>
       <item>      Aries图标包 Lite     </item>
+      <item>      AudioFX     </item>
       <item>      AudioFX     </item>
       <item>      汽车之家  </item>
       <item>      B612  </item>
@@ -69,6 +71,8 @@
       <item>      Bmap  </item>
       <item>      中国银行  </item>
       <item>      浏览器   </item>
+      <item>      子弹短信  </item>
+      <item>      Buy@Home    </item>
       <item>      菜鸟裹裹  </item>
       <item>      计算器   </item>
       <item>      静态日历  </item>
@@ -88,6 +92,9 @@
       <item>      Chrome Dev  </item>
       <item>      Chromium    </item>
       <item>      绝地求生：刺激战场   </item>
+      <item>      绝地求生：刺激战场   </item>
+      <item>      部落冲突  </item>
+      <item>      皇室战争  </item>
       <item>      藏书馆   </item>
       <item>      时钟    </item>
       <item>      澳大利亚联邦银行    </item>
@@ -95,11 +102,13 @@
       <item>      酷安    </item>
       <item>      Cortana     </item>
       <item>      跳舞的线  </item>
+      <item>      Delve </item>
       <item>      大众点评  </item>
       <item>      嘀嘀打车  </item>
       <item>      数字尾巴  </item>
       <item>      钉钉    </item>
       <item>      Dir   </item>
+      <item>      Discrd      </item>
       <item>      去特么的密码      </item>
       <item>      豆瓣    </item>
       <item>      抖音    </item>
@@ -141,18 +150,19 @@
       <item>      ES文件管理器     </item>
       <item>      欧路词典  </item>
       <item>      印象笔记  </item>
+      <item>      Excel </item>
       <item>      Facebook    </item>
       <item>      飞猪    </item>
       <item>      文件    </item>
       <item>      Files Go    </item>
       <item>      Google Fit  </item>
-      <item>      Google 文件夹  </item>
-      <item>      图标包 文件夹     </item>
-      <item>            </item>
-      <item>      支付 文件夹      </item>
-      <item>      照片 文件夹      </item>
-      <item>      系统 文件夹      </item>
-      <item>      Xposed文件夹   </item>
+      <item>      文件夹 Google  </item>
+      <item>      文件夹 图标包     </item>
+      <item>      文件夹 Masturbation  </item>
+      <item>      文件夹 支付      </item>
+      <item>      文件夹 照片      </item>
+      <item>      文件夹 系统      </item>
+      <item>      文件夹 Xposed  </item>
       <item>      FV浮动阅览器     </item>
       <item>      相册    </item>
       <item>      GameGuardian      </item>
@@ -167,6 +177,7 @@
       <item>      Google      </item>
       <item>      Google Allo </item>
       <item>      Google智能助理  </item>
+      <item>      谷歌相机  </item>
       <item>      Google文档    </item>
       <item>      Google云端硬盘  </item>
       <item>      Google电子表格  </item>
@@ -199,6 +210,7 @@
       <item>      哈罗单车  </item>
       <item>      Hola桌面      </item>
       <item>      Holi天气      </item>
+      <item>      应用变量  </item>
       <item>      花生地铁WiFi    </item>
       <item>      花粉俱乐部 </item>
       <item>      虎扑    </item>
@@ -207,6 +219,7 @@
       <item>      掌阅iReader   </item>
       <item>      中国工商银行      </item>
       <item>      冰箱    </item>
+      <item>      爱范儿   </item>
       <item>      iFlat图标包    </item>
       <item>      IFTTT </item>
       <item>      聚爆    </item>
@@ -226,7 +239,9 @@
       <item>      蓝灯    </item>
       <item>      Lawnchair   </item>
       <item>      LBE   </item>
+      <item>      LeafPic     </item>
       <item>      LineageOS录音机      </item>
+      <item>      LeagueFriends     </item>
       <item>      爱壁纸   </item>
       <item>      猫咪    </item>
       <item>      LP图标包 </item>
@@ -245,13 +260,14 @@
       <item>      米家    </item>
       <item>      Edge浏览器     </item>
       <item>      微软桌面  </item>
+      <item>      美的空气管家      </item>
       <item>      我的世界  </item>
       <item>      小米系统级推送     </item>
       <item>      MIUI指南针     </item>
       <item>      MIUI反馈      </item>
       <item>      MIUI论坛      </item>
       <item>      MIUI游戏中心    </item>
-      <item>            </item>
+      <item>      小米直播  </item>
       <item>      MIUI应用商店    </item>
       <item>      MIUI音乐      </item>
       <item>      小米资讯  </item>
@@ -261,20 +277,26 @@
       <item>      小米钱包  </item>
       <item>      小爱同学  </item>
       <item>      Mix   </item>
+      <item>      墨迹天气  </item>
+      <item>      墨迹天气极速版     </item>
       <item>      摩拜单车  </item>
       <item>      移动协同  </item>
+      <item>      出门问问  </item>
       <item>      宙斯盾   </item>
       <item>      魔趣中心  </item>
       <item>      纪念碑谷  </item>
+      <item>      纪念碑谷2 </item>
       <item>      静读天下  </item>
       <item>      信息    </item>
       <item>      信息    </item>
       <item>      MT文件管理器     </item>
       <item>      美团外卖  </item>
+      <item>      音乐    </item>
       <item>      MX播放器 </item>
       <item>      MyStops     </item>
       <item>      Nano图标包     </item>
       <item>      NeoReader   </item>
+      <item>      网易云音乐 </item>
       <item>      网易云音乐 </item>
       <item>      网易云音乐 </item>
       <item>      网易云音乐 </item>
@@ -283,7 +305,6 @@
       <item>      网易新闻  </item>
       <item>      网易UU加速器     </item>
       <item>      网易云音乐歌词助手   </item>
-      <item>      500+新图标     </item>
       <item>      Google新闻和天气 </item>
       <item>      Nova启动器     </item>
       <item>      Nova设置      </item>
@@ -305,10 +326,16 @@
       <item>      努比亚文件传输     </item>
       <item>      努比亚遥控器      </item>
       <item>      努比亚启动器      </item>
+      <item>      AprilFoolsDay     </item>
       <item>      被脱光的糯米纸     </item>
+      <item>      Valentine'sDay    </item>
+      <item>      Office365Admin    </item>
+      <item>      OfficeLens  </item>
       <item>      OFO   </item>
+      <item>      OKTA  </item>
       <item>      OMFG图标包     </item>
       <item>      Onedrive    </item>
+      <item>      OneNote     </item>
       <item>      一加论坛  </item>
       <item>      一加日历  </item>
       <item>      一加相机  </item>
@@ -325,6 +352,8 @@
       <item>      OPPO音乐      </item>
       <item>      OPPO安全中心    </item>
       <item>      OPPO录音机     </item>
+      <item>      osu!droid   </item>
+      <item>      Outlook     </item>
       <item>      熊猫TV  </item>
       <item>      陪你    </item>
       <item>      电话    </item>
@@ -336,11 +365,11 @@
       <item>      Pixles像素包   </item>
       <item>      Pixles像素包   </item>
       <item>      Pornhub     </item>
+      <item>      PowerPoint  </item>
       <item>      PPIICC      </item>
       <item>      中国邮政储蓄银行    </item>
       <item>      PS Touch    </item>
-      <item>            </item>
-      <item>            </item>
+      <item>      绝地求生：全军出击   </item>
       <item>      Pure图标包     </item>
       <item>      Pure图标包Lite </item>
       <item>      Pure天气      </item>
@@ -378,6 +407,7 @@
       <item>      岁寒输入法 </item>
       <item>      岁寒输入法 </item>
       <item>      Share </item>
+      <item>      SharePoint  </item>
       <item>      神奇浏览器 </item>
       <item>      Shuttle     </item>
       <item>      SIM卡工具包     </item>
@@ -401,11 +431,15 @@
       <item>      What's new  </item>
       <item>      Sorcery图标   </item>
       <item>      搜狗输入法 </item>
+      <item>      元气骑士  </item>
+      <item>      录制器   </item>
       <item>      Soundcloud  </item>
+      <item>      Spotify     </item>
       <item>      Shadowsocks </item>
       <item>      ShadowsocksR      </item>
       <item>      ShadowsocksRR     </item>
       <item>      Steam </item>
+      <item>      SteamLite   </item>
       <item>      许多卡   </item>
       <item>      Substratum主题管理    </item>
       <item>      superstar   </item>
@@ -417,6 +451,7 @@
       <item>      TapTap      </item>
       <item>      Telegram    </item>
       <item>      Telegram X  </item>
+      <item>      腾讯文件  </item>
       <item>      全民K歌  </item>
       <item>      腾讯地图  </item>
       <item>      QQ飞车  </item>
@@ -440,6 +475,7 @@
       <item>      UC浏览器 </item>
       <item>      UC浏览器 </item>
       <item>      UC浏览器 </item>
+      <item>      虚荣    </item>
       <item>      小书亭   </item>
       <item>      Via浏览器      </item>
       <item>      山寨云   </item>
@@ -447,15 +483,20 @@
       <item>      蝰蛇音效社区版     </item>
       <item>      VLC播放器      </item>
       <item>      华为商城  </item>
+      <item>      抬手唤醒  </item>
       <item>      天气    </item>
       <item>      微博    </item>
       <item>      微信    </item>
+      <item>      微信    </item>
       <item>      WIFI万能钥匙    </item>
+      <item>      Word  </item>
       <item>      WPS   </item>
+      <item>      王者荣耀  </item>
       <item>      王者荣耀  </item>
       <item>      王者荣耀测试服     </item>
       <item>      王者荣耀助手      </item>
       <item>      学霸君   </item>
+      <item>      Xbox  </item>
       <item>      X浏览器  </item>
       <item>      XDA   </item>
       <item>      西瓜视频  </item>
@@ -472,6 +513,7 @@
       <item>      遥控精灵  </item>
       <item>      银联钱包  </item>
       <item>      酸奶盖图标包      </item>
+      <item>      有道词典  </item>
       <item>      有道云笔记 </item>
       <item>      优酷    </item>
       <item>      YouTube     </item>

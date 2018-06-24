@@ -20,6 +20,15 @@
 
     <version>1</version>
 
+    <category title="Folders and Widgets" />
+        <item drawable="folder_masturbation" />
+        <item drawable="folder_google" />
+        <item drawable="folder_payment" />
+        <item drawable="folder_photo_editor" />
+        <item drawable="folder_system" />
+        <item drawable="drawer" />
+        <item drawable="drawer_1" />
+
     <category title="Basic" /><!-- Copy basic icons here from All category -->
         <item drawable="browser" />
         <item drawable="calculator" />
@@ -112,10 +121,12 @@
         <item drawable="qqmusic" />
         <item drawable="qqtoken" />
         <item drawable="qqzc" />
+        <item drawable="tencent_filemanager" />
         <item drawable="tencent_maps" />
         <item drawable="tencent_video" />
         <item drawable="tim" />
         <item drawable="weixin" />
+        <item drawable="weixin_1" />
 
     <category title="Xperia" />
         <item drawable="sony_ar_effect" />
@@ -201,8 +212,11 @@
         <item drawable="oppo_sound_recorder" />
 
     <category title="Games" /><!-- Copy game icons here from All category -->
+        <item drawable="arcaea" />
         <item drawable="benghuai3"/>
         <item drawable="cjzc" />
+        <item drawable="clash_of_clans" />
+        <item drawable="clash_royale" />
         <item drawable="dancing_line" />
         <item drawable="hyxd"/>
         <item drawable="implosion" />
@@ -211,24 +225,22 @@
         <item drawable="lushi" />
         <item drawable="lxqw" />
         <item drawable="minecraft"/>
+        <item drawable="monument2" />
         <item drawable="netease_moba" />
         <item drawable="netease_moba_bili"/>
+        <item drawable="osu" />
         <item drawable="pubgm" />
         <item drawable="pubgmhd" />
+        <item drawable="soul_knight" />
         <item drawable="tencent_speedmobile"/>
+        <item drawable="vainglory" />
         <item drawable="wzry" />
         <item drawable="wzry_beta" />
         <item drawable="wzry_helper" />
+        <item drawable="xbox" />
         <item drawable="xmqz"/>
         <item drawable="yys" />
         <item drawable="yyszs" />
-
-    <category title="Folders" />
-        <item drawable="folder_dasturbation" />
-        <item drawable="folder_google" />
-        <item drawable="folder_payment" />
-        <item drawable="folder_photo_editor" />
-        <item drawable="folder_system" />
 
     <category title="All" /><!-- All icons here -->
         <item drawable="abc" />
@@ -250,6 +262,7 @@
         <item drawable="apex" />
         <item drawable="apk_store" />
         <item drawable="apkpure" />
+        <item drawable="arcaea" />
         <item drawable="aries_iconpack" />
         <item drawable="aries_iconpack_lite" />
         <item drawable="audiofx" />
@@ -280,6 +293,8 @@
         <item drawable="bmap" />
         <item drawable="boc" />
         <item drawable="browser" />
+        <item drawable="bullet_message" />
+        <item drawable="buyathome" />
         <item drawable="cainiao" />
         <item drawable="calculator" />
         <item drawable="calendar_d31" />
@@ -299,6 +314,8 @@
         <item drawable="chrome_dev" />
         <item drawable="chromium" />
         <item drawable="cjzc" />
+        <item drawable="clash_of_clans" />
+        <item drawable="clash_royale" />
         <item drawable="cliff" />
         <item drawable="clock" />
         <item drawable="commbank" />
@@ -306,9 +323,11 @@
         <item drawable="coolapk" />
         <item drawable="cortana" />
         <item drawable="dancing_line" />
+        <item drawable="delve" />
         <item drawable="didi" />
         <item drawable="digit" />
         <item drawable="ding_talk" />
+        <item drawable="discord" />
         <item drawable="dizzypassword" />
         <item drawable="douban" />
         <item drawable="douyin" />
@@ -350,12 +369,13 @@
         <item drawable="eswenjian" />
         <item drawable="eudic_dictionary" />
         <item drawable="evernote" />
+        <item drawable="excel" />
         <item drawable="facebook" />
         <item drawable="files" />
         <item drawable="files_go" />
         <item drawable="fit" />
-        <item drawable="folder_dasturbation" />
         <item drawable="folder_google" />
+        <item drawable="folder_masturbation" />
         <item drawable="folder_payment" />
         <item drawable="folder_photo_editor" />
         <item drawable="folder_system" />
@@ -373,6 +393,7 @@
         <item drawable="google" />
         <item drawable="google_allo" />
         <item drawable="google_assistant" />
+        <item drawable="google_camera" />
         <item drawable="google_docs" />
         <item drawable="google_drive" />
         <item drawable="google_forms" />
@@ -405,6 +426,7 @@
         <item drawable="hellobike" />
         <item drawable="hola" />
         <item drawable="holi_weather" />
+        <item drawable="hook_model" />
         <item drawable="hsbb" />
         <item drawable="huawei_fans" />
         <item drawable="hupu" />
@@ -413,6 +435,7 @@
         <item drawable="i_reader" />
         <item drawable="icbc" />
         <item drawable="ice_box" />
+        <item drawable="ifanr" />
         <item drawable="iflat" />
         <item drawable="ifttt" />
         <item drawable="implosion" />
@@ -432,7 +455,9 @@
         <item drawable="lantern" />
         <item drawable="lawnchair" />
         <item drawable="lbe_security" />
+        <item drawable="leafpic" />
         <item drawable="linos_recorder" />
+        <item drawable="lol_friend" />
         <item drawable="lovelycat" />
         <item drawable="lp_iconpack" />
         <item drawable="lushi" />
@@ -450,6 +475,7 @@
         <item drawable="mi_home" />
         <item drawable="microsoft_edge" />
         <item drawable="microsoft_launcher" />
+        <item drawable="midea_ac" />
         <item drawable="minecraft" />
         <item drawable="mipush" />
         <item drawable="miui_compass" />
@@ -465,21 +491,28 @@
         <item drawable="miui_wallet" />
         <item drawable="miui_xiao_ai" />
         <item drawable="mix_explorer" />
+        <item drawable="mjweather" />
+        <item drawable="mjweather_light" />
         <item drawable="mobai" />
         <item drawable="mobile_collaboration" />
+        <item drawable="mobvoi" />
         <item drawable="mokee_aegis" />
         <item drawable="mokee_center" />
+        <item drawable="monument2" />
         <item drawable="moonreader" />
         <item drawable="msm" />
         <item drawable="msm_1" />
         <item drawable="mtglq" />
         <item drawable="mtwm" />
+        <item drawable="music" />
         <item drawable="mx_player" />
         <item drawable="mystops" />
         <item drawable="nano" />
         <item drawable="neoreader" />
         <item drawable="netease_cloudmusic" />
+        <item drawable="netease_cloudmusic_0" />
         <item drawable="netease_cloudmusic_1" />
+        <item drawable="netease_cloudmusic_2" />
         <item drawable="netease_moba" />
         <item drawable="netease_moba_bili" />
         <item drawable="netease_moba_bili"/>
@@ -509,9 +542,14 @@
         <item drawable="nubia_yaokongqi" />
         <item drawable="nubia_zbiglauncher" />
         <item drawable="oblatum_nocode" />
+        <item drawable="oblatum_valentine" />
+        <item drawable="office_365_admin" />
+        <item drawable="office_lens" />
         <item drawable="ofo" />
+        <item drawable="okta" />
         <item drawable="omfg" />
         <item drawable="onedrive" />
+        <item drawable="onenote" />
         <item drawable="oneplus_bbs" />
         <item drawable="oneplus_calendar" />
         <item drawable="oneplus_camera" />
@@ -528,6 +566,8 @@
         <item drawable="oppo_music" />
         <item drawable="oppo_security" />
         <item drawable="oppo_sound_recorder" />
+        <item drawable="osu" />
+        <item drawable="outlook" />
         <item drawable="pandatv" />
         <item drawable="peini" />
         <item drawable="phone" />
@@ -539,6 +579,7 @@
         <item drawable="pixles_iconpack" />
         <item drawable="pixles_iconpack_1" />
         <item drawable="pornhub" />
+        <item drawable="powerpoint" />
         <item drawable="ppiicc" />
         <item drawable="psbc" />
         <item drawable="pstouch" />
@@ -572,6 +613,7 @@
         <item drawable="sh_inputs" />
         <item drawable="sh_inputs_1" />
         <item drawable="share" />
+        <item drawable="sharepoint" />
         <item drawable="shenqi_browser" />
         <item drawable="shuttle" />
         <item drawable="sim_toolkit" />
@@ -592,11 +634,15 @@
         <item drawable="sony_threed_creator" />
         <item drawable="sony_what_is_new" />
         <item drawable="sougou_input" />
+        <item drawable="soul_knight" />
+        <item drawable="sound_recorder" />
         <item drawable="soundcloud" />
+        <item drawable="spotify" />
         <item drawable="ss" />
         <item drawable="ssr" />
         <item drawable="ssrr" />
         <item drawable="steam" />
+        <item drawable="steam_lite" />
         <item drawable="stocard" />
         <item drawable="substratum" />
         <item drawable="superstar" />
@@ -607,6 +653,7 @@
         <item drawable="taptap" />
         <item drawable="telegram" />
         <item drawable="telegram_x" />
+        <item drawable="tencent_filemanager" />
         <item drawable="tencent_karaoke" />
         <item drawable="tencent_maps" />
         <item drawable="tencent_speedmobile" />
@@ -630,6 +677,7 @@
         <item drawable="uc_browser" />
         <item drawable="uc_browser_1" />
         <item drawable="uc_browser_2" />
+        <item drawable="vainglory" />
         <item drawable="vertical_book" />
         <item drawable="via" />
         <item drawable="village" />
@@ -637,15 +685,20 @@
         <item drawable="viperfx" />
         <item drawable="vlc" />
         <item drawable="vmall" />
+        <item drawable="wakeup" />
         <item drawable="weather" />
         <item drawable="weibo" />
         <item drawable="weixin" />
+        <item drawable="wexin_1" />
         <item drawable="wifilocating" />
+        <item drawable="word" />
         <item drawable="wps_office" />
         <item drawable="wzry" />
+        <item drawable="wzry_1" />
         <item drawable="wzry_beta" />
         <item drawable="wzry_helper" />
         <item drawable="xbj" />
+        <item drawable="xbox" />
         <item drawable="xbrowser" />
         <item drawable="xda_lab" />
         <item drawable="xgsp" />
@@ -661,6 +714,7 @@
         <item drawable="ykjl" />
         <item drawable="ylqb" />
         <item drawable="yogurt_iconpack" />
+        <item drawable="youdao_dict" />
         <item drawable="youdao_net_note" />
         <item drawable="youku" />
         <item drawable="youtube" />
