@@ -31,6 +31,7 @@
         <item>adobe_lrmobile</item>
         <item>adobe_shape</item>
         <item>aide</item>
+        <item>airbattery</item>
         <item>alipay</item>
         <item>ampere</item>
         <item>android_pay</item>
@@ -62,7 +63,11 @@
         <item>bilibili</item>
         <item>bilibili_1</item>
         <item>bilibili_blue</item>
+        <item>bilibili_cover2</item>
+        <item>bilibili_cover3</item>
+        <item>bilibili_cover</item>
         <item>bilibili_link</item>
+        <item>blackblub</item>
         <item>blued</item>
         <item>blued_1</item>
         <item>blued_hook</item>
@@ -102,6 +107,7 @@
         <item>coolapk</item>
         <item>cortana</item>
         <item>dancing_line</item>
+        <item>data_monitor</item>
         <item>delve</item>
         <item>dianping</item>
         <item>didi</item>
@@ -155,6 +161,9 @@
         <item>feizhu</item>
         <item>files</item>
         <item>files_go</item>
+        <item>firefox</item>
+        <item>firefox_focus</item>
+        <item>firefox_nightly</item>
         <item>fit</item>
         <item>folder_google</item>
         <item>folder_iconpack</item>
@@ -164,6 +173,8 @@
         <item>folder_system</item>
         <item>folder_xposed</item>
         <item>fooview</item>
+        <item>fsbi</item>
+        <item>fsbi_2</item>
         <item>gallery</item>
         <item>gameguardian</item>
         <item>gaode_maps</item>
@@ -248,6 +259,7 @@
         <item>lushi</item>
         <item>lxqw</item>
         <item>magisk_manager</item>
+        <item>mail_master</item>
         <item>maimemo</item>
         <item>mancamera</item>
         <item>manyou</item>
@@ -292,10 +304,12 @@
         <item>mtglq</item>
         <item>mtwm</item>
         <item>music</item>
+        <item>musicfx</item>
         <item>mx_player</item>
         <item>mystops</item>
         <item>nano</item>
         <item>neoreader</item>
+        <item>netease_cartoonreader</item>
         <item>netease_cloudmusic</item>
         <item>netease_cloudmusic_0</item>
         <item>netease_cloudmusic_1</item>
@@ -346,6 +360,7 @@
         <item>oneplus_note</item>
         <item>oneplus_opbugreport</item>
         <item>oneplus_soundrecorder</item>
+        <item>oneplus_switch</item>
         <item>oppo_compass</item>
         <item>oppo_files</item>
         <item>oppo_menber</item>
@@ -400,6 +415,8 @@
         <item>samsung_pay</item>
         <item>samsung_smart_manager</item>
         <item>sdcleaner</item>
+        <item>search_lite</item>
+        <item>secretinput</item>
         <item>seekbooks</item>
         <item>setting</item>
         <item>settings</item>
@@ -442,6 +459,7 @@
         <item>steam_lite</item>
         <item>stocard</item>
         <item>substratum</item>
+        <item>super_class_schedule</item>
         <item>superstar</item>
         <item>supersu</item>
         <item>t_12306</item>
@@ -487,8 +505,9 @@
         <item>weather</item>
         <item>weibo</item>
         <item>weixin</item>
-        <item>wexin_1</item>
+        <item>weixin_1</item>
         <item>wifilocating</item>
+        <item>wikipedia</item>
         <item>word</item>
         <item>wps_office</item>
         <item>wzry</item>
@@ -502,6 +521,7 @@
         <item>xgsp</item>
         <item>xiami_music</item>
         <item>xiaomi_shop</item>
+        <item>ximalayafm</item>
         <item>xk_wallpaper</item>
         <item>xmhealth</item>
         <item>xmqz</item>
@@ -509,6 +529,7 @@
         <item>xunfei_input</item>
         <item>xunlei</item>
         <item>xyst</item>
+        <item>yanxuan</item>
         <item>ygmh</item>
         <item>ykjl</item>
         <item>ylqb</item>
@@ -536,13 +557,24 @@
     <!-- Latest icons (Make sure it's from the icons array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>arcaea</item>
-        <item>discord</item>
-        <item>ifanr</item>
+        <item>airbattery</item>
+        <item>blackblub</item>
+        <item>data_monitor</item>
+        <item>firefox</item>
+        <item>firefox_focus</item>
+        <item>firefox_nightly</item>
+        <item>fsbi</item>
+        <item>fsbi_2</item>
+        <item>mail_master</item>
         <item>mobvoi</item>
-        <item>spotify</item>
-        <item>vainglory</item>
-        <item>weixin_1</item>
-        <item>youdao_dict</item>
+        <item>musicfx</item>
+        <item>netease_cartoonreader</item>
+        <item>oneplus_switch</item>
+        <item>secretinput</item>
+        <item>super_class_schedule</item>
+        <item>wikipedia</item>
+        <item>ximalayafm</item>
+        <item>yanxuan</item>
+        
     </string-array>
 </resources>

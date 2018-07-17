@@ -33,6 +33,7 @@
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="calendar_d" />
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar_d" />
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchTasksActivity}" prefix="calendar_d" />
+    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="googlecalendar_d" />
     <!--<item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar_dynamic" />-->
     <item component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
     <item component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
@@ -521,6 +522,7 @@
     <item component="ComponentInfo{com.taptap/com.play.taptap.ui.MainAct}" drawable="taptap"/>
     <item component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}" drawable="taptap" />
     <item component="ComponentInfo{com.fenbi.android.solar/com.fenbi.android.solar.activity.SplashActivity}" drawable="xyst"/>
+    <item component="ComponentInfo{com.fenbi.android.solar/com.fenbi.android.solar.activity.RouterActivity}" drawable="xyst" />
     <item component="ComponentInfo{com.wenba.bangbang/com.wenba.bangbang.activity.CoverActivity}" drawable="xbj"/>
     <item component="ComponentInfo{com.bilibili.bilibililive/com.bilibili.bilibililive.splash.SplashActivity}" drawable="bilibili_link"/>
     <item component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" drawable="heiyu"/>
@@ -1075,5 +1077,33 @@
     <item component="ComponentInfo{com.superevilmegacorp.game/com.superevilmegacorp.game.NuoActivityLauncher}" drawable="vainglory" />
     <item component="ComponentInfo{com.superevilmegacorp.game.elm/com.google.littleDog.SplashActivity}" drawable="vainglory" />
     <item component="ComponentInfo{com.youdao.dict/com.youdao.dict.activity.DictSplashActivity}" drawable="youdao_dict" />
+    <item component="ComponentInfo{com.orekie.search/com.orekie.search.components.EntryActivity}" drawable="search_lite" />
+    <item component="ComponentInfo{org.biantanbilifm/com.iapp.app.logoActivity}" drawable="bilibili_cover" />
+    <item component="ComponentInfo{org.biantanbilifm/com.iapp.app.logoActivity}" drawable="bilibili_cover2" />
+    <item component="ComponentInfo{org.biantan.bilifm/com.iapp.app.logoActivity}" drawable="bilibili_cover3" />
+    <item component="ComponentInfo{friedrich.georg.airbattery/friedrich.georg.airbattery.MainActivity}" drawable="airbattery" />
+    <item component="ComponentInfo{info.papdt.blackblub/info.papdt.blackblub.ui.MainActivity}" drawable="blackblub" />
+    <item component="ComponentInfo{info.kfsoft.datamonitor/info.kfsoft.datamonitor.MainActivity}" drawable="data_monitor" />
+    <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
+    <item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox" />
+    <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefox" />
+    <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox" />
+    <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefox_focus" />
+    <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox_nightly" />
+    <item component="ComponentInfo{com.bocharov.xposed.fsbi/com.bocharov.xposed.fsbi.settings.Main}" drawable="fsbi" />
+    <item component="ComponentInfo{com.netease.mail/com.netease.mobimail.activity.LaunchActivity}" drawable="mail_master" />
+    <item component="ComponentInfo{com.mobvoi.appstore/com.mobvoi.appstore.activity.WelcomeActivity}" drawable="mobvoi" />
+    <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}" drawable="musicfx" />
+    <item component="ComponentInfo{com.netease.cartoonreader/com.netease.cartoonreader.activity.ComicStartFlashActivity}" drawable="netease_cartoonreader" />
+    <item component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}" drawable="oneplus_switch" />
+    <item component="ComponentInfo{com.kongzue.secretinput/com.kongzue.secretinput.activity.FirstActivity}" drawable="secretinput" />
+    <item component="ComponentInfo{com.xtuone.android.syllabus/com.xtuone.android.friday.InitActivity}" drawable="super_class_schedule" />
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
+    <item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
+    <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.activity.account.WelComeActivity}" drawable="ximalayafm" />
+    <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity}" drawable="ximalayafm" />
+    <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.main.activity.account.WelComeActivity}" drawable="ximalayafm" />
+    <item component="ComponentInfo{com.netease.yanxuan/com.netease.yanxuan.module.splash.SplashActivity}" drawable="yanxuan" />
+
 
 </resources>
