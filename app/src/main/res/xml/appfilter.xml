@@ -25,6 +25,21 @@
         factor="0.5" /> -->
 
     <!-- 系统 / System -->
+    <item
+        component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
+        xml="calendar" />
+    <item
+        component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}"
+        xml="weather" />
+    <item
+        component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}"
+        xml="clock" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        xml="google_calendar" />
+    <item
+        component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
+        xml="oneplus_gallery" />
 
     <!-- 日历 / Calendar -->
     <calendar component="ComponentInfo{com.android.calendar/.AllInOneActivity}" prefix="calendar_d" />
@@ -1104,6 +1119,6 @@
     <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity}" drawable="ximalayafm" />
     <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.main.activity.account.WelComeActivity}" drawable="ximalayafm" />
     <item component="ComponentInfo{com.netease.yanxuan/com.netease.yanxuan.module.splash.SplashActivity}" drawable="yanxuan" />
-
+    <item component="ComponentInfo{ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver}" drawable="zarchiver" />
 
 </resources>
