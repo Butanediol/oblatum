@@ -41,6 +41,7 @@
         component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
         xml="oneplus_gallery" />
 
+
     <!-- 日历 / Calendar -->
     <calendar component="ComponentInfo{com.android.calendar/.AllInOneActivity}" prefix="calendar_d" />
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="calendar_d" />
