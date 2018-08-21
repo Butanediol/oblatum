@@ -25,22 +25,6 @@
         factor="0.5" /> -->
 
     <!-- 系统 / System -->
-    <item
-        component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
-        xml="calendar" />
-    <item
-        component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}"
-        xml="weather" />
-    <item
-        component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}"
-        xml="clock" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        xml="google_calendar" />
-    <item
-        component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
-        xml="oneplus_gallery" />
-
 
     <!-- 日历 / Calendar -->
     <calendar component="ComponentInfo{com.android.calendar/.AllInOneActivity}" prefix="calendar_d" />
@@ -80,7 +64,7 @@
     <item component="ComponentInfo{com.lenovo.leos.appstore/com.lenovo.leos.appstore.activities.Main}" drawable="apk_store" />
     <item component="ComponentInfo{com.letv.app.appstore/com.letv.app.appstore.MainActivity}" drawable="apk_store" />
     <item component="ComponentInfo{com.meizu.mstore/com.meizu.flyme.appcenter.activitys.AppMainActivity}" drawable="apk_store" />
-    <item component="ComponentInfo{com.oneplus.market/com.oneplus.market.activity.MainActivity}" drawable="apk_store" />
+    <item component="ComponentInfo{com.oneplus.market/com.oneplus.market.activity.MainActivity}" drawable="oneplus_market" />
     <item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}" drawable="apk_store" />
     <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="apk_store" />
     <item component="ComponentInfo{com.smartisanos.appstore/com.smartisanos.appstore.AppStoreActivity}" drawable="apk_store" />
@@ -165,12 +149,10 @@
     <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music" />
     <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="music" />
     <item component="ComponentInfo{com.evenwell.music/com.fihtdc.music.ui.activities.MainActivity}" drawable="music" />
-    <item component="ComponentInfo{com.lenovo.music/com.netease.cloudmusic.activity.LoadingActivity}" drawable="music" />
     <item component="ComponentInfo{com.lewa.player/com.lewa.player.activity.SplashActivity}" drawable="music" />
     <item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music" />
     <item component="ComponentInfo{com.lge.music/com.lge.music.MusicBrowserActivity}" drawable="music" />
     <item component="ComponentInfo{com.meizu.media.music/com.meizu.media.music.MusicActivity}" drawable="music" />
-    <item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="miui_music" />
     <item component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" drawable="oppo_music" />
     <item component="ComponentInfo{com.qiku.music/com.android.music.MusicPlayerTab}" drawable="music" />
     <item component="ComponentInfo{com.samsung.android.app.music.chn/com.sec.android.app.music.common.activity.MusicMainActivity}" drawable="music" />
@@ -178,6 +160,9 @@
     <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}" drawable="music" />
     <item component="ComponentInfo{com.smartisanos.music/com.smartisanos.music.activities.MusicMain}" drawable="music" />
     <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="music" />
+
+    <item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="miui_music" />
+    <item component="ComponentInfo{com.miui.player/.ui.MusicBrowserActivity}" drawable="miui_music" />
 
     <!-- 安全中心 / Security -->
     <item component="ComponentInfo{cn.nubia.security2/cn.nubia.security.NubiaSecurity}" drawable="security" />
@@ -225,7 +210,7 @@
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser"/>
     <item component="ComponentInfo{com.android.browser/com.android.browser.GNBrowserActivity}" drawable="browser"/>
     <item component="ComponentInfo{com.android.browser/com.android.browser.MainActivity}" drawable="browser"/>
-    <item component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}" drawable="browser"/>
+    <item component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}" drawable="oneplus_browser"/>
     <item component="ComponentInfo{com.android.browser/com.UCMobile.main.UCMobile}" drawable="browser"/>
     <item component="ComponentInfo{com.lenovo.browser/com.lenovo.browser.BrowserActivity}" drawable="browser"/>
     <item component="ComponentInfo{com.mokee.yubrowser/com.google.android.apps.chrome.Main}" drawable="browser"/>
@@ -235,9 +220,10 @@
     <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser"/>
     <item component="ComponentInfo{cn.nubia.browser/com.android.browser.BrowserLauncher}" drawable="browser"/>
 
+    <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="miui_browser"/>
+
     <!-- 主题 / theme -->
     <item component="ComponentInfo{cn.nubia.thememanager/cn.nubia.thememanager.ui.activity.MainActivity}" drawable="themes" />
-    <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="themes" />
     <item component="ComponentInfo{com.gionee.change/com.gionee.change.activity.ChangeGridActivity}" drawable="themes" />
     <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity}" drawable="themes" />
     <item component="ComponentInfo{com.lenovo.themecenter/com.lenovo.themecenter.LoadingActivity}" drawable="themes" />
@@ -249,6 +235,8 @@
     <item component="ComponentInfo{com.yulong.android.coolshow/com.yulong.android.coolshow.app.CoolShowActivity}" drawable="themes" />
     <item component="ComponentInfo{com.yunos.theme.thememanager/com.yunos.theme.thememanager.ThemeLogoActivity}" drawable="themes" />
     <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes" />
+
+    <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="miui_themes" />
 
     <!-- Calculator / Calculator -->
     <item component="ComponentInfo{cn.nubia.calculator2.preset/cn.nubia.calculator2.Calculator}" drawable="calculator"/>
@@ -319,6 +307,8 @@
     <item component="ComponentInfo{com.zui.deskclock/com.zui.deskclock.DeskClock}" drawable="clock"/>
     <item component="ComponentInfo{net.oneplus.deskclock/net.oneplus.deskclock.DeskClock}" drawable="clock"/>
     <item component="ComponentInfo{zte.com.cn.alarmclock/zte.com.cn.alarmclock.AlarmClock}" drawable="clock"/>
+
+    <item component="ComponentInfo{com.android.deskclock/.DeskClockTabActivity}" drawable="miui_clock"/>
 
     <!-- 下载 / Files -->
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.Launcher}" drawable="download" />
@@ -475,10 +465,14 @@
     <item component="ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.ui.HelpCenterActivity}" drawable="emui_phoneservice" />
     <item component="ComponentInfo{com.huawei.fans/com.huawei.fans.activity.MainActivity}" drawable="huawei_fans" />
     <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.Navigate}" drawable="baidu_netdisk"/>
+    <item component="ComponentInfo{com.baidu.netdisk/com.androlua.Welcome}" drawable="baidu_netdisk"/>
+    <item component="ComponentInfo{com.baidu.netdisA/com.baidu.netdisA.ui.Navigate}" drawable="baidu_netdisk"/>
     <item component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.LogoActivity}" drawable="baidu_tieba"/>
     <item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili"/>
     <item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili" />
     <item component="ComponentInfo{com.soft.blued/com.soft.blued.ui.welcome.FirstActivity}" drawable="blued"/>
+    <item component="ComponentInfo{com.soft.blued/.icon0}" drawable="blued"/>
+    <item component="ComponentInfo{com.soft.blued/com.soft.blued.icon2}" drawable="blued"/>
     <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="oneplus_calendar" />
     <item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.HomepageActivity}" drawable="cainiao"/>
     <item component="ComponentInfo{com.android.settings/com.android.settings.GnSettingsTabActivity}" drawable="settings"/>
@@ -496,6 +490,7 @@
     <item component="ComponentInfo{com.ct.client/com.ct.client.SplashActivity}" drawable="chinatelecom"/>
     <item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.ui.WelcomeClient}" drawable="chinaunicom"/>
     <item component="ComponentInfo{com.sinovatech.unicom.ui/.WelcomeClient}" drawable="chinaunicom"/>
+    <item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.MainActivity}" drawable="chinaunicom"/>
     <item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts"/>
     <item component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}" drawable="coolapk"/>
     <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.DidiLoadDexActivity}" drawable="didi"/>
@@ -507,6 +502,7 @@
     <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="greenify" />
     <item component="ComponentInfo{io.github.javiewer/io.github.javiewer.activity.StartActivity}" drawable="javiewer"/>
     <item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}" drawable="jd"/>
+    <item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.MainActivity}" drawable="jd"/>
     <item component="ComponentInfo{com.tencent.KiHan/com.tencent.KiHan.ApolloTest}" drawable="kihan"/>
     <item component="ComponentInfo{com.mokee.aegis/com.mokee.aegis.activities.ManagePermissionsActivity}" drawable="mokee_aegis"/>
     <item component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}" drawable="netease_cloudmusic"/>
@@ -543,7 +539,9 @@
     <item component="ComponentInfo{com.bilibili.bilibililive/com.bilibili.bilibililive.splash.SplashActivity}" drawable="bilibili_link"/>
     <item component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" drawable="heiyu"/>
     <item component="ComponentInfo{me.piebridge.Lrevent/me.piebridge.brevent.ui.BreventActivity}" drawable="heiyu" />
+    <item component="ComponentInfo{me.piebridge.prevent/me.piebridge.prevent.ui.PreventActivity}" drawable="heiyu" />
     <item component="ComponentInfo{me.piebridge.Lrevent/ui.BreventActivity}" drawable="heiyu" />
+    <item component="ComponentInfo{me.piebridge.prevent/me.piebridge.prevent.ui.PreventActivity}" drawable="heiyu" />
     <item component="ComponentInfo{com.netease.uu/com.netease.uu.activity.SplashScreenActivity}" drawable="netease_uu"/>
     <item component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}" drawable="oneplus_bbs" />
     <item component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.WelcomeActivity}" drawable="tencent_video"/>
@@ -554,6 +552,7 @@
     <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="gboard"/>
     <item component="ComponentInfo{com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_pinyin"/>
     <item component="ComponentInfo{com.qiyi.video/com.qiyi.video.WelcomeActivity}" drawable="iqiyi"/>
+    <item component="ComponentInfo{com.qiyi.video/com.qiyi.video.OEMActivity}" drawable="iqiyi"/>
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="keep"/>
     <item component="ComponentInfo{com.kugou.android/com.kugou.android.app.splash.SplashActivity}" drawable="kugou_music"/>
     <item component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}" drawable="miui_compass"/>
@@ -623,6 +622,7 @@
     <item component="ComponentInfo{com.nianticproject.ingress/com.nianticproject.ingress.NemesisActivity}" drawable="ingress" />
     <item component="ComponentInfo{com.github.shadowsocks/com.github.shadowsocks.MainActivity}" drawable="ss" />
     <item component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}" drawable="ssr" />
+    <item component="ComponentInfo{net.htcp.shadowsocksr/com.github.shadowsocks.MainActivity}" drawable="ssr" />
     <item component="ComponentInfo{com.oblatum.iconpack.lite/com.by_syk.nanoiconpack.lite.LiteIconActivity}" drawable="oblatum_lite" />
     <item component="ComponentInfo{com.oblatum.iconpack.lite/com.oblatum.iconpack.lite.LiteIconActivity}" drawable="oblatum_lite" />
     <item component="ComponentInfo{cn.nubia.neostore/cn.nubia.neostore.ui.start.AppStartActivity}" drawable="nubia_market" />
@@ -640,6 +640,7 @@
     <item component="ComponentInfo{com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity}" drawable="viperfx" />
     <item component="ComponentInfo{com.vipercn.viper4android_v2/com.vipercn.viper4android_v2.activity.ViPER4Android}" drawable="viper4android" />
     <item component="ComponentInfo{com.pittvandewitt.viperfx/com.audlabs.viperfx.main.MainActivity}" drawable="viper4android" />
+    <item component="ComponentInfo{com.pittvandewitt.viperfx/com.audlabs.viperfx.main.StartActivity}" drawable="viper4android" />
     <item component="ComponentInfo{com.hippo.ehviewer/com.hippo.ehviewer.ui.MainActivity}" drawable="eh_viewer" />
     <item component="ComponentInfo{com.cl.newt66y/com.cl.newt66y.MainActivity}" drawable="bbs1024" />
     <item component="ComponentInfo{com.netease.moba/com.netease.moba.Launcher}" drawable="netease_moba" />
@@ -649,7 +650,8 @@
     <item component="ComponentInfo{com.netease.moba.nearme.gamecenter/com.netease.g78.Launcher}" drawable="netease_moba" />
     <item component="ComponentInfo{so.ofo.labofo/so.ofo.labofo.activities.EntryActivity}" drawable="ofo" />
     <item component="ComponentInfo{com.xiaomi.notes/com.xiaomi.notes.NoteListActivity}" drawable="miui_note" />
-    <item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="miui_notes" />
+    <item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="miui_note" />
+    <item component="ComponentInfo{com.miui.notes/.ui.NotesListActivity}" drawable="miui_note" />
     <item component="ComponentInfo{com.bilibili.app.blue/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili_blue" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chromium" />
     <item component="ComponentInfo{com.evernote/com.evernote.ui.HomeActivity}" drawable="evernote" />
@@ -679,6 +681,7 @@
     <item component="ComponentInfo{com.happy.browser/com.google.android.apps.chrome.Main}" drawable="happy_browser" />
     <item component="ComponentInfo{com.knizha.wangYiLP/com.knizha.wangYiLP.MainActivity}" drawable="neteasemusic_lyrics_helper" />
     <item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.SplashActivity}" drawable="douyu" />
+    <item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYLauncherActivity}" drawable="douyu" />
     <item component="ComponentInfo{com.douyu.hd.air.douyutv/com.douyu.hd.air.douyutv.control.activity.SplashActivity}" drawable="douyu" />
     <item component="ComponentInfo{com.dy.live/com.dy.live.LoginActivity}" drawable="douyu" />
     <item component="ComponentInfo{air.mobilegametv.douyu.android/tv.douyu.view.activity.SplashActivity}" drawable="douyu" />
@@ -991,6 +994,7 @@
     <item component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}" drawable="adobe_lrmobile" />
     <item component="ComponentInfo{com.duokan.reader/com.duokan.reader.DkReaderActivity}" drawable="duokan_reader" />
     <item component="ComponentInfo{com.pubgm/com.pubgm.UserActivity}" drawable="pubgm" />
+    <item component="ComponentInfo{com.tencent.tmgp.pubgm/com.epicgames.ue4.SplashActivity}" drawable="pubgm" />
     <item component="ComponentInfo{com.qq.qcloud/com.qq.qcloud.activity.WeiyunRootActivity}" drawable="qcloud" />
     <item component="ComponentInfo{com.smartisanos.sara/com.smartisanos.sara.bubble.SettingActivity}" drawable="smartisan_idearpills" />
     <item component="ComponentInfo{com.z28j.feel/com.z28j.feel.HomeActivity}" drawable="shenqi_browser" />
@@ -1121,5 +1125,58 @@
     <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.main.activity.account.WelComeActivity}" drawable="ximalayafm" />
     <item component="ComponentInfo{com.netease.yanxuan/com.netease.yanxuan.module.splash.SplashActivity}" drawable="yanxuan" />
     <item component="ComponentInfo{ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver}" drawable="zarchiver" />
+    <item component="ComponentInfo{com.tencent.tmgp.pubgm/com.epicgames.ue4.SplashActivity}" drawable="emui_gamebox" />
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
+    <item component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}" drawable="cbb" />
+    <item component="ComponentInfo{com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity}" drawable="adobe_xd" />
+    <item component="ComponentInfo{com.smartjinyu.mybookshelf/com.smartjinyu.mybookshelf.MainActivity}" drawable="bookshelf" />
+    <item component="ComponentInfo{com.ctrip.jikecar/ctrip.business.splash.CtripSplashActivity}" drawable="ctrip" />
+    <item component="ComponentInfo{ctrip.android.view/ctrip.android.view.view.CtripDeclarationActivity}" drawable="ctrip" />
+    <item component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}" drawable="ctrip" />
+    <item component="ComponentInfo{com.ctrip.ct/com.ctrip.ct.ui.activity.BusinessActivity}" drawable="ctrip" />
+    <item component="ComponentInfo{ctrip.android.view/ctrip.android.view.home.CtripDeclarationActivity}" drawable="ctrip" />
+    <item component="ComponentInfo{com.google.android.vr.home/com.google.android.apps.vr.home.app.MainActivity}" drawable="daydream" />
+    <item component="ComponentInfo{cn.coldsong.fusionapp/com.androlua.Welcome}" drawable="fusion_app" />
+    <item component="ComponentInfo{ml.cerasus.fas/com.androlua.Welcome}" drawable="fusion_app" />
+    <item component="ComponentInfo{com.oneplus.market/com.oneplus.market.activity.MainActivity}" drawable="oneplus_market" />
+    <item component="ComponentInfo{com.qq.ac.android/com.qq.ac.android.ui.SplashActivity}" drawable="qq_ac" />
+    <item component="ComponentInfo{com.qq.ac.android/com.qq.ac.android.view.activity.SplashActivity}" drawable="qq_ac" />
+    <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sdmaid" />
+    <item component="ComponentInfo{bin.mt.plus/l.ۛۘۖۛ}" drawable="mtglq" />
+    <item component="ComponentInfo{com.mdroid.read/com.mdroid.application.ui.welcome.WelcomeActivity}" drawable="aikan_reader" />
+    <item component="ComponentInfo{uk.co.disciplemedia.troyesivan/uk.co.disciplemedia.activity.StartupActivity}" drawable="troye_sivan" />
+    <item component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.SplashActivity}" drawable="today_s_headline" />
+    <item component="ComponentInfo{com.yidian.xiaomi/com.yidian.xiaomi.ui.guide.UserGuideActivity}" drawable="miui_news" />
+    <item component="ComponentInfo{com.xiaomi.bbs/com.xiaomi.bbs.activity.SplashActivity}" drawable="miui_bbs" />
+    <item component="ComponentInfo{com.mdroid.read/com.mdroid.application.ui.welcome.WelcomeActivity}" drawable="aikan_reader" />
+    <item component="ComponentInfo{com.miui.voiceassist/com.xiaomi.voiceassistant.CTAAlertActivity}" drawable="miui_xiao_ai" />
+    <item component="ComponentInfo{com.miui.backup.transfer/com.miui.backup.ui.TransMainActivity}" drawable="move_to_miui" />
+    <item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="miui_screenrecorder" />
+    <item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="miui_remote" />
 
+    <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="google_duo" />
+    <item component="ComponentInfo{melandru.lonicera/melandru.lonicera.activity.launch.LaunchActivity}" drawable="mint_bookkeeping" />
+    <item component="ComponentInfo{gov.pianzong.androidnga/gov.pianzong.androidnga.activity.LoadingActivity}" drawable="nga" />
+    <item component="ComponentInfo{com.example.administrator.searchpicturetool/com.example.administrator.searchpicturetool.launch.LaunchActivity}" drawable="searchpicturetool" />
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
+
+
+
+
+    <item
+        component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
+        xml="calendar" />
+    <item
+        component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}"
+        xml="weather" />
+    <item
+        component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}"
+        xml="clock" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        xml="google_calendar" />
+    <item
+        component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
+        xml="oneplus_gallery" />
+    
 </resources>

@@ -30,7 +30,9 @@
         <item>adobe_flashplayer</item>
         <item>adobe_lrmobile</item>
         <item>adobe_shape</item>
+        <item>adobe_xd</item>
         <item>aide</item>
+        <item>aikan_reader</item>
         <item>airbattery</item>
         <item>alipay</item>
         <item>ampere</item>
@@ -75,6 +77,7 @@
         <item>blued_int</item>
         <item>bmap</item>
         <item>boc</item>
+        <item>bookshelf</item>
         <item>browser</item>
         <item>bullet_message</item>
         <item>buyathome</item>
@@ -106,8 +109,10 @@
         <item>contacts</item>
         <item>coolapk</item>
         <item>cortana</item>
+        <item>ctrip</item>
         <item>dancing_line</item>
         <item>data_monitor</item>
+        <item>daydream</item>
         <item>delve</item>
         <item>dianping</item>
         <item>didi</item>
@@ -175,6 +180,7 @@
         <item>fooview</item>
         <item>fsbi</item>
         <item>fsbi_2</item>
+        <item>fusion_app</item>
         <item>gallery</item>
         <item>gameguardian</item>
         <item>gaode_maps</item>
@@ -191,6 +197,7 @@
         <item>google_camera</item>
         <item>google_docs</item>
         <item>google_drive</item>
+        <item>google_duo</item>
         <item>google_forms</item>
         <item>google_home</item>
         <item>google_maps</item>
@@ -274,7 +281,11 @@
         <item>microsoft_launcher</item>
         <item>midea_ac</item>
         <item>minecraft</item>
+        <item>mint_bookkeeping</item>
         <item>mipush</item>
+        <item>miui_bbs</item>
+        <item>miui_browser</item>
+        <item>miui_clock</item>
         <item>miui_compass</item>
         <item>miui_feedback</item>
         <item>miui_forum</item>
@@ -284,8 +295,12 @@
         <item>miui_music</item>
         <item>miui_news</item>
         <item>miui_note</item>
+        <item>miui_remote</item>
+        <item>miui_screenrecorder</item>
         <item>miui_security</item>
+        <item>miui_simtools</item>
         <item>miui_support</item>
+        <item>miui_themes</item>
         <item>miui_wallet</item>
         <item>miui_xiao_ai</item>
         <item>mix_explorer</item>
@@ -299,6 +314,7 @@
         <item>monument2</item>
         <item>monument</item>
         <item>moonreader</item>
+        <item>move_to_miui</item>
         <item>msm</item>
         <item>msm_1</item>
         <item>mtglq</item>
@@ -320,6 +336,7 @@
         <item>netease_uu</item>
         <item>neteasemusic_lyrics_helper</item>
         <item>news_and_weather</item>
+        <item>nga</item>
         <item>novalauncher</item>
         <item>novasetting</item>
         <item>nubia_app_fenshen</item>
@@ -351,11 +368,13 @@
         <item>onedrive</item>
         <item>onenote</item>
         <item>oneplus_bbs</item>
+        <item>oneplus_browser</item>
         <item>oneplus_calendar</item>
         <item>oneplus_camera</item>
         <item>oneplus_card</item>
         <item>oneplus_filemanager</item>
         <item>oneplus_gallery</item>
+        <item>oneplus_market</item>
         <item>oneplus_music</item>
         <item>oneplus_note</item>
         <item>oneplus_opbugreport</item>
@@ -393,6 +412,7 @@
         <item>qq</item>
         <item>qq_1</item>
         <item>qq_2</item>
+        <item>qq_ac</item>
         <item>qq_browser</item>
         <item>qq_jp</item>
         <item>qq_music_local_player</item>
@@ -415,7 +435,9 @@
         <item>samsung_pay</item>
         <item>samsung_smart_manager</item>
         <item>sdcleaner</item>
+        <item>sdmaid</item>
         <item>search_lite</item>
+        <item>searchpicturetool</item>
         <item>secretinput</item>
         <item>seekbooks</item>
         <item>setting</item>
@@ -487,6 +509,7 @@
         <item>total_launcher</item>
         <item>tray</item>
         <item>tripview_lite</item>
+        <item>troye_sivan</item>
         <item>tumblr</item>
         <item>twitter</item>
         <item>twrp</item>
@@ -506,6 +529,7 @@
         <item>weibo</item>
         <item>weixin</item>
         <item>weixin_1</item>
+        <item>whatsapp</item>
         <item>wifilocating</item>
         <item>wikipedia</item>
         <item>word</item>
@@ -557,24 +581,25 @@
     <!-- Latest icons (Make sure it's from the icons array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>airbattery</item>
-        <item>blackblub</item>
-        <item>data_monitor</item>
-        <item>firefox</item>
-        <item>firefox_focus</item>
-        <item>firefox_nightly</item>
-        <item>fsbi</item>
-        <item>fsbi_2</item>
-        <item>mail_master</item>
-        <item>mobvoi</item>
-        <item>musicfx</item>
-        <item>netease_cartoonreader</item>
-        <item>oneplus_switch</item>
-        <item>secretinput</item>
-        <item>super_class_schedule</item>
-        <item>wikipedia</item>
-        <item>ximalayafm</item>
-        <item>yanxuan</item>
+        <item>aikan_reader</item>
+        <item>google_duo</item>
+        <item>mint_bookkeeping</item>
+        <item>miui_bbs</item>
+        <item>miui_browser</item>
+        <item>miui_clock</item>
+        <item>miui_music</item>
+        <item>miui_note</item>
+        <item>miui_remote</item>
+        <item>miui_screenrecorder</item>
+        <item>miui_security</item>
+        <item>miui_simtools</item>
+        <item>miui_themes</item>
+        <item>miui_xiao_ai</item>
+        <item>move_to_miui</item>
+        <item>nga</item>
+        <item>searchpicturetool</item>
+        <item>troye_sivan</item>
+        <item>whatsapp</item>
         
     </string-array>
 </resources>

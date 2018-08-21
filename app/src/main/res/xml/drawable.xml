@@ -56,6 +56,7 @@
         <item drawable="chrome_canary" />
         <item drawable="chrome_dev" />
         <item drawable="chromium" />
+        <item drawable="daydream" />
         <item drawable="earth" />
         <item drawable="files_go" />
         <item drawable="fit" />
@@ -94,10 +95,12 @@
         <item drawable="youtube" />
 
     <category title="Oneplus" />
+        <item drawable="oneplus_browser" />
         <item drawable="oneplus_camera" />
         <item drawable="oneplus_card" />
         <item drawable="oneplus_filemanager" />
         <item drawable="oneplus_gallery" />
+        <item drawable="oneplus_market" />
         <item drawable="oneplus_music" />
         <item drawable="oneplus_note" />
         <item drawable="oneplus_opbugreport" />
@@ -116,6 +119,7 @@
     <category title="腾讯" />
         <item drawable="qcloud" />
         <item drawable="qq" />
+        <item drawable="qq_ac" />
         <item drawable="qq_browser" />
         <item drawable="qq_jp" />
         <item drawable="qq_music_local_player" />
@@ -216,6 +220,7 @@
         <item drawable="arcaea" />
         <item drawable="benghuai3"/>
         <item drawable="cjzc" />
+        <item drawable="cjzc_1" />
         <item drawable="clash_of_clans" />
         <item drawable="clash_royale" />
         <item drawable="dancing_line" />
@@ -231,7 +236,6 @@
         <item drawable="netease_moba_bili"/>
         <item drawable="osu" />
         <item drawable="pubgm" />
-        <item drawable="pubgmhd" />
         <item drawable="soul_knight" />
         <item drawable="tencent_speedmobile"/>
         <item drawable="vainglory" />
@@ -254,6 +258,7 @@
         <item drawable="adobe_flash" />
         <item drawable="adobe_lrmobile" />
         <item drawable="adobe_shape" />
+        <item drawable="adobe_xd" />
         <item drawable="aide" />
         <item drawable="airbattery" />
         <item drawable="alipay" />
@@ -298,6 +303,7 @@
         <item drawable="blued_int" />
         <item drawable="bmap" />
         <item drawable="boc" />
+        <item drawable="bookshelf" />
         <item drawable="browser" />
         <item drawable="bullet_message" />
         <item drawable="buyathome" />
@@ -320,6 +326,9 @@
         <item drawable="chrome_dev" />
         <item drawable="chromium" />
         <item drawable="cjzc" />
+        <item drawable="cjzc" />
+        <item drawable="cjzc_1" />
+        <item drawable="cjzc_1" />
         <item drawable="clash_of_clans" />
         <item drawable="clash_royale" />
         <item drawable="cliff" />
@@ -328,8 +337,10 @@
         <item drawable="contacts" />
         <item drawable="coolapk" />
         <item drawable="cortana" />
+        <item drawable="ctrip" />
         <item drawable="dancing_line" />
         <item drawable="data_monitor" />
+        <item drawable="daydream" />
         <item drawable="delve" />
         <item drawable="didi" />
         <item drawable="digit" />
@@ -392,6 +403,7 @@
         <item drawable="fooview" />
         <item drawable="fsbi 2" />
         <item drawable="fsbi" />
+        <item drawable="fusion_app" />
         <item drawable="gallery" />
         <item drawable="gameguardian" />
         <item drawable="gaode_maps" />
@@ -566,11 +578,13 @@
         <item drawable="onedrive" />
         <item drawable="onenote" />
         <item drawable="oneplus_bbs" />
+        <item drawable="oneplus_browser" />
         <item drawable="oneplus_calendar" />
         <item drawable="oneplus_camera" />
         <item drawable="oneplus_card" />
         <item drawable="oneplus_filemanager" />
         <item drawable="oneplus_gallery" />
+        <item drawable="oneplus_market" />
         <item drawable="oneplus_music" />
         <item drawable="oneplus_note" />
         <item drawable="oneplus_opbugreport" />
@@ -600,7 +614,6 @@
         <item drawable="psbc" />
         <item drawable="pstouch" />
         <item drawable="pubgm" />
-        <item drawable="pubgmhd" />
         <item drawable="pure_icon_pack" />
         <item drawable="pure_icon_pack_lite" />
         <item drawable="pure_weather" />
@@ -609,6 +622,7 @@
         <item drawable="qq" />
         <item drawable="qq_1" />
         <item drawable="qq_2" />
+        <item drawable="qq_ac" />
         <item drawable="qq_browser" />
         <item drawable="qq_jp" />
         <item drawable="qq_music_local_player" />
@@ -623,6 +637,7 @@
         <item drawable="register" />
         <item drawable="retro_music" />
         <item drawable="root_explorer" />
+        <item drawable="sdmaid" />
         <item drawable="search_lite" />
         <item drawable="secretinput" />
         <item drawable="setting" />
